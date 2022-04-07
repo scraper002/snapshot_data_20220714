@@ -26,6 +26,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 179.177.225.225|/Satoshi:1.0.0/|60013|18881|179.177.224.0/19|BR|lacnic|2013-01-30|TELEFONICA BRASIL S.A, BR
 180.190.222.123|/Satoshi:1.0.0/|60013|132199|180.190.222.0/23|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 181.42.9.30|/Satoshi:1.0.0/|60013|27651|181.42.8.0/21|CL|lacnic|2011-08-22|ENTEL CHILE S.A., CL
+185.130.80.38|/Satoshi:1.0.0/|60013|56981|185.130.80.0/22|RU|ripencc|2015-12-08|TOMSK-AS, RU
 185.168.9.239|/Satoshi:1.0.0/|60013|9009|185.168.9.0/24|DE|ripencc|2016-09-14|M247, GB
 190.164.180.186|/Satoshi:1.0.0/|60013|22047|190.164.160.0/19|CL|lacnic|2007-10-30|VTR BANDA ANCHA S.A., CL
 193.106.163.80|/Satoshi:1.0.0/|60013|43936|193.106.162.0/23|UA|ripencc|2010-01-11|EVPANET-AS, UA
@@ -42,6 +43,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.185.217.9|/Satoshi:1.0.0/|60013|3320|212.184.0.0/15|DE|ripencc|1999-02-16|DTAG Internet service provider operations, DE
 213.162.73.83|/Satoshi:1.0.0/|60013|8412|213.162.72.0/23|AT|ripencc|2000-03-07|TMA Magenta Telekom, AT
 213.162.80.218|/Satoshi:1.0.0/|60013|8412|213.162.80.0/23|AT|ripencc|2000-03-07|TMA Magenta Telekom, AT
+213.168.118.63|/Satoshi:1.0.0/|60013|8422|213.168.64.0/18|DE|ripencc|2001-02-23|NETCOLOGNE, DE
 217.245.72.12|/Satoshi:1.0.0/|60013|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 31.8.125.195|/Satoshi:1.0.0/|60013|28812|31.8.0.0/16|RU|ripencc|2011-04-12|JSCBIS-AS, RU
 34.70.103.170|/Satoshi:1.0.0/|60013|396982|34.70.0.0/15|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
@@ -63,6 +65,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.144.141.232|/Satoshi:1.0.0/|60013|3352|79.144.0.0/16|ES|ripencc|2007-06-07|TELEFONICA_DE_ESPANA, ES
 79.215.51.117|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.235.164.151|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.235.165.161|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.235.174.115|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.235.174.222|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.146.104.51|/Satoshi:1.0.0/|60013|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
@@ -78,20 +81,19 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.169.35.248|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.172.254.110|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.172.254.25|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-87.79.210.31|/Satoshi:1.0.0/|60013|8422|87.78.0.0/15|DE|ripencc|2005-05-31|NETCOLOGNE, DE
 88.130.15.22|/Satoshi:1.0.0/|60013|8881|88.130.0.0/19|DE|ripencc|2005-10-17|VERSATEL, DE
 88.130.15.23|/Satoshi:1.0.0/|60013|8881|88.130.0.0/19|DE|ripencc|2005-10-17|VERSATEL, DE
 88.130.157.100|/Satoshi:1.0.0/|60013|8881|88.130.157.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.130.157.67|/Satoshi:1.0.0/|60013|8881|88.130.157.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 89.0.4.189|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.1.208.3|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
-89.1.208.38|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 90.189.119.21|/Satoshi:1.0.0/|60013|12389|90.189.112.0/20|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
 90.201.201.255|/Satoshi:1.0.0/|60013|5607|90.192.0.0/11|GB|ripencc|2006-05-31|BSKYB-BROADBAND-AS, GB
 91.141.45.34|/Satoshi:1.0.0/|60013|25255|91.141.32.0/19|AT|ripencc|2006-10-24|H3G-AUSTRIA-AS TELE2 AUSTRIA , AT
 91.224.70.2|/Satoshi:1.0.0/|60013|13026|91.224.70.0/23|AT|ripencc|2011-02-04|K-WLAN-AS, AT
 91.25.224.10|/Satoshi:1.0.0/|60013|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.37.143.192|/Satoshi:1.0.0/|60013|12389|92.37.142.0/23|RU|ripencc|2008-01-18|ROSTELECOM-AS, RU
+92.86.50.85|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.133.57.237|/Satoshi:1.0.0/|60013|6805|93.128.0.0/13|DE|ripencc|2008-04-14|TDDE-ASN1, DE
 93.135.16.179|/Satoshi:1.0.0/|60013|6805|93.128.0.0/13|DE|ripencc|2008-04-14|TDDE-ASN1, DE
 93.206.30.1|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
