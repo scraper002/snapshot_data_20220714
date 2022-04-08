@@ -1,9 +1,8 @@
 # https://chainz.cryptoid.info/ and whois results
 # GlobalToken
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-101.91.220.218|/GlobalToken:3.2.1/|80002|4812|101.88.0.0/13|CN|apnic|2011-01-03|CHINANET-SH-AP China Telecom Group, CN
 106.53.139.236|/GlobalToken:3.2.1/|80002|45090|106.53.128.0/20|CN|apnic|2011-04-06|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-109.94.110.14|???|0|44901|109.94.110.0/24|BG|ripencc|2009-11-06|BELCLOUD, BG
+106.53.150.104|/GlobalToken:3.2.1/|80002|45090|106.53.144.0/20|CN|apnic|2011-04-06|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 111.68.46.202|/GlobalToken:3.2.1/|80002|23944|111.68.46.0/24|PH|apnic|2009-06-09|SKYBB-AS-AP SKYBroadband SKYCable Corporation, PH
 114.67.113.237|/GlobalToken:3.2.0/|80002|4812|114.67.64.0/18|CN|apnic|2008-05-07|CHINANET-SH-AP China Telecom Group, CN
 117.78.33.158|/GlobalToken:3.2.1/|80002|55990|117.78.32.0/21|CN|apnic|2007-07-06|HWCSNET Huawei Cloud Service data center, CN
@@ -13,6 +12,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.76.172.181|/GlobalToken:3.2.1/|80002|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 144.91.76.92|/GlobalToken:3.2.1/|80002|51167|144.91.76.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 147.135.97.55|/GlobalToken:3.2.1/|80002|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
+150.158.147.23|/GlobalToken:3.2.1/|80002|45090|150.158.128.0/18|CN|apnic|1991-05-20|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 164.68.110.118|/GlobalToken:3.2.1/|80002|51167|164.68.110.0/23|DE|ripencc|1992-12-17|CONTABO, DE
 165.22.194.179|/GlobalToken:3.2.1/|80002|14061|165.22.192.0/20|US|arin|2018-10-16|DIGITALOCEAN-ASN, US
 167.86.117.213|/GlobalToken:3.2.1/|80002|51167|167.86.116.0/23|DE|ripencc|1993-05-14|CONTABO, DE
@@ -26,13 +26,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.232.102.178|/GlobalToken:3.2.1/|80002|9658|180.232.102.0/23|PH|apnic|2009-10-14|ETPI-IDS-AS-AP Eastern Telecoms Phils., Inc., PH
 185.158.182.57|/GlobalToken:3.2.1/|80002|20810|185.158.180.0/22|DE|ripencc|2016-07-07|NETCOM-KASSEL Netcom Kassel, DE
 185.162.251.66|/GlobalToken:3.2.0/|80002|197540|185.162.248.0/22|DE|ripencc|2016-08-11|NETCUP-AS netcup GmbH, DE
+185.177.59.106|???|0|44901|185.177.59.0/24|BG|ripencc|2016-11-10|BELCLOUD, BG
 185.183.157.247|/GlobalToken:3.2.0/|80002|197540|185.183.156.0/22|DE|ripencc|2016-12-28|NETCUP-AS netcup GmbH, DE
 185.206.145.133|???|0|44901|185.206.145.0/24|CY|ripencc|2017-06-01|BELCLOUD, BG
 185.233.104.171|/GlobalToken:3.2.0/|80002|197540|185.233.104.0/22|DE|ripencc|2017-11-23|NETCUP-AS netcup GmbH, DE
 185.243.8.155|/GlobalToken:3.2.0/|80002|197540|185.243.8.0/22|DE|ripencc|2018-01-24|NETCUP-AS netcup GmbH, DE
 188.68.46.209|/GlobalToken:3.2.0/|80002|197540|188.68.32.0/20|DE|ripencc|2009-08-25|NETCUP-AS netcup GmbH, DE
 188.68.59.5|/GlobalToken:3.2.0/|80002|197540|188.68.56.0/22|DE|ripencc|2009-08-25|NETCUP-AS netcup GmbH, DE
-193.37.213.62|???|0|44901|193.37.213.0/24|CY|ripencc|2018-10-22|BELCLOUD, BG
 195.201.164.117|/GlobalToken:3.2.1/|80002|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 195.240.119.95|/GlobalToken:3.2.1/|80002|1136|195.240.0.0/17|NL|ripencc|1996-08-19|KPN KPN National, NL
 208.162.40.14|/GlobalToken:3.2.1/|80002|35916|208.162.40.0/24|US|arin|1996-03-27|MULTA-ASN1, US
@@ -47,6 +47,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.232.148.224|/GlobalToken:3.2.0/|80002|12714|37.232.128.0/17|RU|ripencc|2012-04-12|TI-AS Moscow, Russia, RU
 42.193.151.25|/GlobalToken:3.2.1/|80002|45090|42.193.128.0/18|CN|apnic|2011-03-04|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 43.134.165.18|/GlobalToken:3.2.1/|80002|132203|43.134.128.0/18|SG|apnic|1989-02-21|TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
+46.38.236.22|/GlobalToken:3.2.0/|80002|197540|46.38.224.0/20|DE|ripencc|2010-12-02|NETCUP-AS netcup GmbH, DE
 47.90.213.163|/GlobalToken:3.2.0/|80002|45102|47.90.192.0/18|US|arin|2015-05-18|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 5.135.141.114|/GlobalToken:3.2.1/|80002|16276|5.135.0.0/16|FR|ripencc|2012-07-06|OVH, FR
 5.188.173.19|/GlobalToken:3.2.1/|80002|56630|5.188.173.0/24|LT|ripencc|2012-08-09|MELBICOM-EU-AS Melbikomas UAB, LT
@@ -64,5 +65,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.40.125.134|/GlobalToken:3.2.1/|80002|200185|89.40.124.0/22|IT|ripencc|2005-11-29|XANDMAIL-ASN, FR
 91.206.16.214|/GlobalToken:3.2.1/|80002|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 92.60.36.243|/GlobalToken:3.2.0/|80002|197540|92.60.36.0/22|DE|ripencc|2018-08-23|NETCUP-AS netcup GmbH, DE
+92.60.36.249|/GlobalToken:3.2.0/|80002|197540|92.60.36.0/22|DE|ripencc|2018-08-23|NETCUP-AS netcup GmbH, DE
 92.60.37.172|/GlobalToken:3.2.0/|80002|197540|92.60.36.0/22|DE|ripencc|2018-08-23|NETCUP-AS netcup GmbH, DE
 92.60.37.219|/GlobalToken:3.2.1/|80002|197540|92.60.36.0/22|DE|ripencc|2018-08-23|NETCUP-AS netcup GmbH, DE
+94.204.27.139|/GlobalToken:3.2.1/|80002|15802|94.204.0.0/19|AE|ripencc|2008-07-17|DU-AS1, AE
+94.204.7.96|/GlobalToken:3.2.1/|80002|15802|94.204.0.0/19|AE|ripencc|2008-07-17|DU-AS1, AE
