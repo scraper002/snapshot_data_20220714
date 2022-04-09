@@ -13,7 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.116.187|/eMark:1.6.1/|60012|51167|167.86.116.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 172.104.157.27|/eMark:1.6.1.1/|60012|63949|172.104.128.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 172.105.182.91|/eMark:1.6.1.1/|60012|63949|172.105.160.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
-176.198.243.162|/eMark:1.5.1/|60011|3209|176.198.0.0/16|DE|ripencc|2011-07-18|VODANET International IP-Backbone of Vodafone, DE
+176.198.243.162|/eMark:1.6.1.2/|60012|3209|176.198.0.0/16|DE|ripencc|2011-07-18|VODANET International IP-Backbone of Vodafone, DE
 178.203.144.197|/eMark:1.6.1.2/|60012|3209|178.202.0.0/15|DE|ripencc|2010-03-16|VODANET International IP-Backbone of Vodafone, DE
 178.238.229.124|/eMark:1.6.1.2/|60012|51167|178.238.228.0/23|DE|ripencc|2010-07-28|CONTABO, DE
 178.254.43.126|/eMark:1.6.1.2/|60012|42730|178.254.32.0/20|DE|ripencc|2010-06-18|EVANZOAS, DE
@@ -24,11 +24,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 207.89.76.35|/eMark:1.6.1.2/|60012|58243|207.89.64.0/20|DE|ripencc|1996-03-27|TELEAG, DE
 208.73.206.109|/eMark:1.6.1.2/|60012|19318|208.73.200.0/21|US|arin|2014-12-19|IS-AS-1, US
 212.220.228.242|/eMark:1.6.1.2/|60012|12389|212.220.224.0/21|RU|ripencc|1998-03-11|ROSTELECOM-AS, RU
-212.58.84.36|/eMark:1.6.1.2/|60012|48918|212.58.64.0/19|DE|ripencc|1998-07-03|GLOBALWAYS, DE
 213.136.80.217|/eMark:1.6.1.2/|60012|51167|213.136.80.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.162.128.139|/eMark:1.6.1.2/|60012|9136|213.162.128.0/19|DE|ripencc|2008-11-10|WOBCOM, DE
 213.196.241.68|/eMark:1.6.1.2/|60012|8422|213.196.192.0/18|DE|ripencc|2002-08-26|NETCOLOGNE, DE
 213.217.17.189|/eMark:1.6.1.2/|60012|35805|213.217.16.0/22|GE|ripencc|2018-11-08|SILKNET-AS Silknet Autonomous System, GE
+213.238.83.50|/eMark:1.6.1.2/|60012|12741|213.238.64.0/18|PL|ripencc|2001-03-07|AS-NETIA Warszawa 02-822, PL
 213.238.88.130|/eMark:1.6.1.2/|60012|12741|213.238.64.0/18|PL|ripencc|2001-03-07|AS-NETIA Warszawa 02-822, PL
 217.229.224.61|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.240.84.225|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
@@ -57,6 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.169.141.94|/eMark:1.6.1.2/|60012|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
 82.212.178.47|/eMark:1.6.1.2/|60012|12392|82.212.176.0/20|BE|ripencc|2003-10-16|ASBRUTELE VOO, BE
 83.250.133.13|/eMark:1.6.1.2/|60012|1257|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2, EU
+84.134.24.28|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.137.129.231|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.169.230.189|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.2.34.93|/eMark:1.6.0/|60011|15545|84.2.34.0/23|HU|ripencc|2004-09-17|MT-DC-AS EU. Hungary, HU
@@ -75,6 +76,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.184.121.123|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.211.227.205|/eMark:1.5.1/|60011|13127|87.211.0.0/16|NL|ripencc|2005-06-02|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
 88.126.202.24|/eMark:1.6.1.2/|60012|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
+88.130.56.26|/eMark:1.6.1.2/|60012|8881|88.130.56.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.217.40.187|/eMark:1.5.1/|60011|8767|88.217.0.0/16|DE|ripencc|2005-11-23|MNET-AS Germany, DE
 88.217.45.135|/eMark:1.5.1/|60011|8767|88.217.0.0/16|DE|ripencc|2005-11-23|MNET-AS Germany, DE
 89.163.255.142|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
