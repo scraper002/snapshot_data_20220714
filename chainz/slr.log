@@ -23,7 +23,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.195.246.13|/Satoshi:2.1.8/|70005|3303|178.194.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom Switzerland Ltd, CH
 184.94.190.11|/Satoshi:2.1.8/|70005|25914|184.94.176.0/20|CA|arin|2011-05-02|QCC-AS, CA
 185.183.66.35|/Satoshi:2.1.8/|70005|44407|185.183.64.0/22|FR|ripencc|2016-12-21|ASN-LINKT, FR
-185.216.35.46|/Satoshi:2.1.8/|70005|9009|185.216.35.0/24|RO|ripencc|2017-08-03|M247, GB
 190.96.1.19|/Satoshi:2.1.8/|70005|18822|190.96.1.0/24|CL|lacnic|2007-07-19|Manquehuenet, CL
 192.119.13.171|/Satoshi:2.1.8/|70005|55081|192.119.8.0/21|US|arin|2013-02-01|24SHELLS, US
 193.121.33.187|/Satoshi:2.1.8/|70005|5432|193.121.0.0/16|BE|ripencc|1996-05-08|PROXIMUS-ISP-AS, BE
@@ -38,6 +37,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.150.112.216|/Satoshi:2.1.8/|70005|9145|31.150.0.0/16|DE|ripencc|2011-02-17|EWETEL Cloppenburger Strasse 310, DE
 31.217.46.30|/Satoshi:2.1.8/|70005|5391|31.217.0.0/17|HR|ripencc|2011-05-10|T-HT Croatian Telecom Inc., HR
 45.146.57.237|/Satoshi:2.1.8/|70005|25596|45.146.56.0/22|NL|ripencc|2019-08-27|CAMBRIUM-AS, NL
+45.15.61.105|/Satoshi:2.1.8/|70005|24904|45.15.60.0/22|FR|ripencc|2019-05-10|KWAOO K-NET SARL, FR
 45.158.172.249|/Satoshi:2.1.8/|70005|20810|45.158.172.0/22|DE|ripencc|2019-09-30|NETCOM-KASSEL Netcom Kassel, DE
 47.145.215.5|/Satoshi:2.1.8/|70005|5650|47.144.0.0/13|US|arin|2015-08-28|FRONTIER-FRTR, US
 47.154.81.7|/Satoshi:2.1.8/|70005|5650|47.152.0.0/14|US|arin|2015-08-28|FRONTIER-FRTR, US
@@ -61,6 +61,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.153.212.239|/Satoshi:2.1.8/|70005|3320|80.152.0.0/14|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 81.13.171.6|/Satoshi:2.1.8/|70005|15547|81.13.128.0/17|CH|ripencc|2002-07-03|NETPLUS, CH
 81.154.152.248|/Satoshi:2.1.8/|70005|2856|81.128.0.0/11|GB|ripencc|2002-07-25|BT-UK-AS BTnet UK Regional network, GB
+81.164.162.113|/Satoshi:2.1.8/|70005|6848|81.164.0.0/15|BE|ripencc|2003-05-01|TELENET-AS, BE
 81.225.194.104|/Satoshi:2.1.8/|70005|3301|81.224.0.0/12|SE|ripencc|2002-10-04|TELIANET-SWEDEN Telia Company, SE
 81.246.220.222|/Satoshi:2.1.8/|70005|5432|81.244.0.0/14|BE|ripencc|2002-11-29|PROXIMUS-ISP-AS, BE
 82.142.90.162|/Satoshi:2.1.8/|70005|16019|82.142.64.0/18|CZ|ripencc|2003-09-05|VODAFONE-CZ-AS, CZ
@@ -75,6 +76,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.18.208.29|???|0|5089|86.16.0.0/14|GB|ripencc|2005-03-29|NTL, GB
 86.60.178.2|/Satoshi:2.1.8/|70005|39699|86.60.128.0/17|FI|ripencc|2005-09-08|SSPOY-AS, FI
 86.81.26.241|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
+86.84.93.20|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 87.123.195.18|/Satoshi:2.1.8/|70005|8881|87.123.195.0/24|DE|ripencc|2005-07-27|VERSATEL, DE
 87.158.130.162|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.171.207.230|/Satoshi:2.1.8/|70005|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
@@ -89,7 +91,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.75.61.174|/Satoshi:2.1.8/|70005|3209|92.72.0.0/13|DE|ripencc|2007-07-27|VODANET International IP-Backbone of Vodafone, DE
 93.225.40.75|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.235.128.56|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-94.226.147.247|/Satoshi:2.1.8/|70005|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
+93.48.255.43|/Satoshi:2.1.8/|70005|12874|93.48.0.0/13|IT|ripencc|2008-02-25|FASTWEB, IT
 94.30.0.250|/Satoshi:2.1.8/|70005|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
 95.168.118.1|/Satoshi:2.1.8/|70005|12810|95.168.96.0/19|HR|ripencc|2009-01-05|VIPNET-AS 3GGSM and Internet Service Provider, HR
 95.217.78.80|/Satoshi:2.1.8/|70005|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
