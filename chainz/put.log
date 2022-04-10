@@ -33,7 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.154.20.174|/Satoshi:1.0.0/|60013|1901|193.154.0.0/16|AT|ripencc|1996-03-27|EUNETAT-AS A1 Telekom Austria AG, AT
 194.166.206.99|/Satoshi:1.0.0/|60013|1901|194.166.0.0/16|AT|ripencc|1998-02-17|EUNETAT-AS A1 Telekom Austria AG, AT
 194.230.155.226|/Satoshi:1.0.0/|60013|6730|194.230.0.0/16|CH|ripencc|1996-01-23|SUNRISE, CH
-195.201.212.176|/Satoshi:1.0.0/|60013||||||
+195.201.212.176|/Satoshi:1.0.0/|60013|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 199.127.62.235|Satoshi:1.0.0|60013||||||
 199.247.3.225|/Satoshi:1.0.0/|60013|20473|199.247.0.0/21|US|ripencc|1996-04-09|AS-CHOOPA, US
 2.244.191.179|/Satoshi:1.0.0/|60013|6805|2.240.0.0/13|DE|ripencc|2010-12-13|TDDE-ASN1, DE
@@ -51,10 +51,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.63.1.153|/Satoshi:1.0.0/|60013|20473|45.63.0.0/20|US|arin|2015-01-02|AS-CHOOPA, US
 46.160.39.27|/Satoshi:1.0.0/|60013|47241|46.160.39.0/24|RU|ripencc|2010-10-27|IV-TELECOM-AS, RU
 46.81.142.211|/Satoshi:1.0.0/|60013|3320|46.80.0.0/12|DE|ripencc|2010-06-07|DTAG Internet service provider operations, DE
-47.243.194.130|/Satoshi:1.0.0/|60013||||||
+47.243.194.130|/Satoshi:1.0.0/|60013|45102|47.243.0.0/16|US|arin|2016-04-15|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 49.204.161.156|/Satoshi:1.0.0/|60013|18209|49.204.160.0/22|IN|apnic|2010-12-06|BEAMTELE-AS-AP Atria Convergence Technologies pvt ltd, IN
 5.180.62.187|/Satoshi:1.0.0/|60013|62240|5.180.62.0/24|DE|ripencc|2019-03-28|CLOUVIDER Clouvider - Global ASN, GB
-54.188.192.138|/Satoshi:1.0.0/|60013||||||
+54.188.192.138|/Satoshi:1.0.0/|60013|16509|54.188.0.0/15|US|arin|2014-10-23|AMAZON-02, US
 54.38.18.241|/Satoshi:1.0.0/|60013||||||
 62.158.220.3|/Satoshi:1.0.0/|60013|3320|62.156.0.0/14|DE|ripencc|1999-03-05|DTAG Internet service provider operations, DE
 62.227.150.151|/Satoshi:1.0.0/|60013|3320|62.224.0.0/14|DE|ripencc|2000-05-12|DTAG Internet service provider operations, DE
@@ -63,35 +63,36 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.82.116.171|/Satoshi:1.0.0/|60013|6739|62.82.0.0/16|ES|ripencc|1999-05-04|ONO-AS Cableuropa - ONO, ES
 73.248.214.247|/Satoshi:1.0.0/|60013|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 77.119.160.178|/Satoshi:1.0.0/|60013|25255|77.119.160.0/20|AT|ripencc|2007-01-10|H3G-AUSTRIA-AS TELE2 AUSTRIA , AT
-77.122.104.85|/Satoshi:1.0.0/|60013||||||
+77.122.104.85|/Satoshi:1.0.0/|60013|25229|77.122.0.0/17|UA|ripencc|2006-11-24|VOLIA-AS, UA
 78.235.128.44|/Satoshi:1.0.0/|60013|12322|78.224.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
-79.144.141.232|/Satoshi:1.0.0/|60013||||||
-79.202.116.79|/Satoshi:1.0.0/|60013||||||
-79.215.51.117|/Satoshi:1.0.0/|60013||||||
-80.85.86.106|/Satoshi:1.0.0/|60013||||||
-82.165.243.145|/Satoshi:1.0.0/|60013||||||
-84.115.234.96|/Satoshi:1.0.0/|60013||||||
-84.129.32.28|/Satoshi:1.0.0/|60013||||||
-84.149.185.218|/Satoshi:1.0.0/|60013||||||
-84.159.156.45|/Satoshi:1.0.0/|60013||||||
-84.159.159.157|/Satoshi:1.0.0/|60013||||||
-84.169.101.34|/Satoshi:1.0.0/|60013||||||
-84.169.35.248|/Satoshi:1.0.0/|60013||||||
-84.169.44.202|/Satoshi:1.0.0/|60013||||||
-84.172.243.126|/Satoshi:1.0.0/|60013||||||
-85.127.71.192|/Satoshi:1.0.0/|60013||||||
-88.130.156.6|/Satoshi:1.0.0/|60013||||||
-89.0.5.242|/Satoshi:1.0.0/|60013||||||
-89.1.208.3|/Satoshi:1.0.0/|60013||||||
-89.1.208.38|/Satoshi:1.0.0/|60013||||||
-90.201.201.255|/Satoshi:1.0.0/|60013||||||
-91.224.70.2|/Satoshi:1.0.0/|60013||||||
-91.25.224.10|/Satoshi:1.0.0/|60013||||||
-91.97.220.79|/Satoshi:1.0.0/|60013||||||
-92.37.143.192|/Satoshi:1.0.0/|60013||||||
+79.144.141.232|/Satoshi:1.0.0/|60013|3352|79.144.0.0/16|ES|ripencc|2007-06-07|TELEFONICA_DE_ESPANA, ES
+79.202.116.79|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.215.51.117|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+80.85.86.106|/Satoshi:1.0.0/|60013|63949|80.85.84.0/22|US|ripencc|2003-05-19|LINODE-AP Linode, LLC, US
+82.165.243.145|/Satoshi:1.0.0/|60013|8560|82.165.0.0/16|DE|ripencc|2003-08-06|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
+84.115.234.96|/Satoshi:1.0.0/|60013|8412|84.114.0.0/15|AT|ripencc|2004-04-07|TMA Magenta Telekom, AT
+84.129.32.28|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.149.185.218|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.159.156.45|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.159.159.157|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.169.101.34|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.169.35.248|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.169.44.202|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.172.243.126|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+85.127.71.192|/Satoshi:1.0.0/|60013|8412|85.126.0.0/15|AT|ripencc|2005-02-23|TMA Magenta Telekom, AT
+88.130.156.6|/Satoshi:1.0.0/|60013|8881|88.130.156.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
+88.130.158.130|/Satoshi:1.0.0/|60013|8881|88.130.158.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
+89.0.5.242|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
+89.1.208.3|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
+89.1.208.38|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
+90.201.201.255|/Satoshi:1.0.0/|60013|5607|90.192.0.0/11|GB|ripencc|2006-05-31|BSKYB-BROADBAND-AS, GB
+91.224.70.2|/Satoshi:1.0.0/|60013|13026|91.224.70.0/23|AT|ripencc|2011-02-04|K-WLAN-AS, AT
+91.25.224.10|/Satoshi:1.0.0/|60013|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.97.220.79|/Satoshi:1.0.0/|60013|9145|91.96.0.0/15|DE|ripencc|2006-08-30|EWETEL Cloppenburger Strasse 310, DE
+92.37.143.192|/Satoshi:1.0.0/|60013|12389|92.37.142.0/23|RU|ripencc|2008-01-18|ROSTELECOM-AS, RU
 92.86.50.85|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.206.30.1|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.40.240.10|/Satoshi:1.0.0/|60013||||||
-94.30.19.185|/Satoshi:1.0.0/|60013|5413|94.30.0.0/17|GB|ripencc|2008-07-16|AS5413, GB
-95.223.226.251|/Satoshi:1.0.0/|60013||||||
-95.33.165.50|/Satoshi:1.0.0/|60013||||||
+93.40.240.10|/Satoshi:1.0.0/|60013|12874|93.40.192.0/18|IT|ripencc|2008-02-25|FASTWEB, IT
+94.30.19.185|/Satoshi:1.0.0/|60013||||||
+95.223.226.251|/Satoshi:1.0.0/|60013|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
+95.33.165.50|/Satoshi:1.0.0/|60013|9145|95.33.0.0/16|DE|ripencc|2008-11-03|EWETEL Cloppenburger Strasse 310, DE
