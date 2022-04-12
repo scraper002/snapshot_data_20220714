@@ -4,17 +4,17 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.173.76.242|/Mooncoin:0.10.5/|70002||||||
 106.38.92.46|/Mooncoin:0.13.9/|70016||||||
 107.3.191.36|/loaf-android:17.3.3/|70015||||||
-108.61.250.169|/MooncoinCore:0.17.1/|70017||||||
-111.229.221.109|/MooncoinCore:0.17.1/|70017||||||
-122.59.11.201|/MooncoinCore:0.17.1/|70017||||||
-133.32.176.205|/MooncoinCore:0.17.1/|70017||||||
-134.209.233.253|/MooncoinCore:0.17.1/|70017||||||
-138.199.57.38|/MooncoinCore:0.17.1/|70017||||||
-140.82.44.141|/MooncoinCore:0.17.1/|70017||||||
-149.248.55.181|/MooncoinCore:0.17.1/|70017||||||
-149.28.82.11|/MooncoinCore:0.17.1/|70017||||||
-157.90.26.183|/MooncoinCore:0.17.1/|70017||||||
-159.196.219.68|/MooncoinCore:0.17.1/|70017||||||
+108.61.250.169|/MooncoinCore:0.17.1/|70017|20473|108.61.250.0/24|US|arin|2010-12-08|AS-CHOOPA, US
+111.229.221.109|/MooncoinCore:0.17.1/|70017|45090|111.229.192.0/18|CN|apnic|2009-07-28|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+122.59.11.201|/MooncoinCore:0.17.1/|70017|4771|122.59.8.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
+133.32.176.205|/MooncoinCore:0.17.1/|70017|2519|133.32.176.0/20|JP|apnic|1997-03-01|VECTANT ARTERIA Networks Corporation, JP
+134.209.233.253|/MooncoinCore:0.17.1/|70017|14061|134.209.224.0/20|US|arin|2018-10-18|DIGITALOCEAN-ASN, US
+138.199.57.38|/MooncoinCore:0.17.1/|70017|60068|138.199.57.0/24|GB|ripencc|1990-05-23|CDN77 ^_^, GB
+140.82.44.141|/MooncoinCore:0.17.1/|70017|20473|140.82.44.0/22|US|arin|2018-03-15|AS-CHOOPA, US
+149.248.55.181|/MooncoinCore:0.17.1/|70017|20473|149.248.48.0/20|US|arin|2018-07-03|AS-CHOOPA, US
+149.28.82.11|/MooncoinCore:0.17.1/|70017|20473|149.28.64.0/19|US|arin|2018-05-04|AS-CHOOPA, US
+157.90.26.183|/MooncoinCore:0.17.1/|70017|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
+159.196.219.68|/MooncoinCore:0.17.1/|70017|4764|159.196.216.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
 161.97.172.98|/MooncoinCore:0.17.1/|70017||||||
 167.61.183.6|/MooncoinCore:0.17.1/|70017||||||
 172.58.219.102|/loaf-android:17.3.3/|70015||||||
@@ -24,7 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 203.86.202.112|/MooncoinCore:0.17.1/|70017||||||
 212.102.50.88|/Mooncoin:0.13.9/|70016||||||
 223.72.69.57|/MooncoinCore:0.17.1/|70017||||||
-3.97.140.225|/MooncoinCore:0.17.1/|70017||||||
+3.97.140.225|/MooncoinCore:0.17.1/|70017|16509|3.96.0.0/15|US|arin|2017-12-20|AMAZON-02, US
 36.72.212.118|/MooncoinCore:0.17.1/|70017||||||
 36.72.213.163|/MooncoinCore:0.17.1/|70017||||||
 36.72.213.235|/MooncoinCore:0.17.1/|70017||||||
@@ -36,11 +36,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.219.212.182|/MooncoinCore:0.17.1/|70017||||||
 5.189.131.160|/Mooncoin:0.18.1/|70016||||||
 5.45.105.66|/MooncoinCore:0.17.1/|70017||||||
-50.220.121.211|/MooncoinCore:0.17.1/|70017||||||
+50.220.121.211|/MooncoinCore:0.17.1/|70017|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
 51.38.57.53|/MooncoinCore:0.17.1/|70017||||||
 54.38.18.241|/MooncoinCore:0.17.1/|70017||||||
 64.20.63.133|/MooncoinCore:0.17.1/|70017||||||
-66.70.182.1|/MooncoinCore:0.17.1/|70017||||||
+66.70.182.1|/MooncoinCore:0.17.1/|70017|16276|66.70.128.0/17|CA|arin|2017-02-13|OVH, FR
 67.172.235.0|/MooncoinCore:0.17.1/|70017||||||
 69.136.97.147|/MooncoinCore:0.17.1/|70017||||||
 70.184.6.102|/MooncoinCore:0.17.1/|70017||||||
@@ -61,7 +61,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.211.154.182|/MooncoinCore:0.17.1/|70017||||||
 88.99.68.228|/Mooncoin:0.13.9/|70016||||||
 89.233.108.211|/MooncoinCore:0.17.1/|70017||||||
-90.41.141.142|/MooncoinCore:0.17.1/|70017||||||
+90.41.141.142|/MooncoinCore:0.17.1/|70017|3215|90.41.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
 91.127.7.60|/MooncoinCore:0.17.1/|70017||||||
 91.200.41.32|/MooncoinCore:0.17.1/|70017||||||
 91.206.16.214|/Mooncoin:0.13.9/|70016||||||
@@ -69,7 +69,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.184.107.138|/MooncoinCore:0.17.1/|70017||||||
 93.82.78.51|/Mooncoin:0.13.9/|70016||||||
 94.10.240.238|/MooncoinCore:0.17.1/|70017||||||
-94.23.2.215|/Mooncoin:0.13.9/|70016||||||
+94.23.2.215|/Mooncoin:0.13.9/|70016|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
 95.84.181.157|/Mooncoin:0.13.9/|70016||||||
 96.8.253.62|/MooncoinCore:0.17.1/|70017||||||
 97.92.196.214|/MooncoinCore:0.17.1/|70017||||||
