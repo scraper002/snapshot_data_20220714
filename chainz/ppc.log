@@ -12,7 +12,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.80.194.146|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|5610|109.80.0.0/15|CZ|ripencc|2009-07-10|O2-CZECH-REPUBLIC, CZ
 110.52.158.236|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|4837|110.52.0.0/15|CN|apnic|2009-03-18|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 111.38.43.41|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|9808|111.38.0.0/16|CN|apnic|2009-05-06|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
-111.85.68.240|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|4837|111.85.0.0/16|CN|apnic|2009-06-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+111.85.66.101|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|4837|111.85.0.0/16|CN|apnic|2009-06-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 112.133.37.231|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|9946|112.133.36.0/22|KR|apnic|2009-01-30|CABLENET-AS-KR KCTV JEJU BROADCASTING, KR
 113.218.169.205|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|4134|113.218.0.0/15|CN|apnic|2008-12-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 114.125.7.60|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|23693|114.125.0.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
@@ -35,6 +35,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 151.18.17.30|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|1267|151.18.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 151.80.22.47|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|16276|151.80.0.0/16|IT|ripencc|1991-05-13|OVH, FR
 151.84.210.28|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|1267|151.84.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
+154.3.44.23|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|174|154.3.0.0/16|US|arin|1992-02-05|COGENT-174, US
 154.57.3.103|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|174|154.57.3.0/24|US|arin|1992-02-05|COGENT-174, US
 158.69.25.32|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 159.196.144.25|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|4764|159.196.144.0/23|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
@@ -143,7 +144,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.104.132.138|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|22773|68.104.128.0/17|US|arin|2002-02-04|ASN-CXA-ALL-CCI-22773-RDC, US
 68.105.170.159|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|22773|68.105.160.0/20|US|arin|2002-02-04|ASN-CXA-ALL-CCI-22773-RDC, US
 69.107.129.201|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|7018|69.107.128.0/17|US|arin|2003-11-21|ATT-INTERNET4, US
-69.232.153.136|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|7018|69.232.0.0/15|US|arin|2004-02-18|ATT-INTERNET4, US
 70.106.237.52|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|701|70.106.192.0/18|US|arin|2004-09-21|UUNET, US
 71.81.228.36|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|20115|71.81.224.0/20|US|arin|2005-05-19|CHARTER-20115, US
 72.66.6.160|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|701|72.66.0.0/17|US|arin|2005-06-24|UUNET, US
@@ -182,7 +182,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 85.175.97.16|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|25490|85.175.96.0/22|RU|ripencc|2004-12-22|STC-AS, RU
 87.151.77.190|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.171.35.56|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
-87.171.43.208|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.173.56.10|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.79.237.229|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|8422|87.78.0.0/15|DE|ripencc|2005-05-31|NETCOLOGNE, DE
 88.145.120.96|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|12708|88.145.0.0/16|GB|ripencc|2005-11-18|ONETEL-AS TalkTalk Communications Limited, GB
@@ -194,6 +193,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.206.16.214|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.245.131.251|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|47914|91.245.128.0/19|RU|ripencc|2012-08-20|CREATIVEDIRECTMARKETINGSOLUTIONS, RU
 92.208.73.199|/Satoshi:0.8.6/Peercoin:0.6.1/|70001|3209|92.208.0.0/14|DE|ripencc|2007-10-17|VODANET International IP-Backbone of Vodafone, DE
+92.245.41.29|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|28812|92.245.32.0/19|RU|ripencc|2008-02-11|JSCBIS-AS, RU
 92.76.127.208|/Satoshi:0.20.2/Peercoin:0.11.6/|70016|3209|92.72.0.0/13|DE|ripencc|2007-07-27|VODANET International IP-Backbone of Vodafone, DE
 93.34.144.29|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|12874|93.34.0.0/15|IT|ripencc|2008-02-25|FASTWEB, IT
 94.75.51.224|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|28812|94.75.0.0/18|RU|ripencc|2008-07-18|JSCBIS-AS, RU
