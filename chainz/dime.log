@@ -11,9 +11,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.158.101.218|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|2856|109.144.0.0/12|GB|ripencc|2009-08-06|BT-UK-AS BTnet UK Regional network, GB
 116.206.31.45|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|45727|116.206.31.0/24|ID|apnic|2017-02-03|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 116.206.42.65|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|45727|116.206.42.0/24|ID|apnic|2017-02-06|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
+120.188.95.116|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|4761|120.188.92.0/22|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 124.148.21.35|/dimecoin:1.10.0.1/|70004|4739|124.148.20.0/22|AU|apnic|2006-03-02|INTERNODE-AS Internode Pty Ltd, AU
 135.134.136.40|/dimecoin:1.10.0.1/|70004|4181|135.134.136.0/21|US|arin|2021-03-23|TDS-AS, US
-135.181.32.44|/dimecoin:1.10.0.1/|70004||||||
+135.181.32.44|/dimecoin:1.10.0.1/|70004|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 137.220.57.12|/dimecoin:1.10.0.1/|70004|20473|137.220.56.0/21|US|arin|2019-12-09|AS-CHOOPA, US
 14.11.4.224|/dimecoin:1.10.0.1/|70004|2516|14.10.0.0/15|JP|apnic|2010-08-17|KDDI KDDI CORPORATION, JP
 140.213.18.211|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|24203|140.213.18.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
@@ -26,16 +27,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.99.6.185|/dimecoin:1.10.0.1/|70004|14061|167.99.0.0/20|US|arin|2017-11-10|DIGITALOCEAN-ASN, US
 172.112.35.108|/dimecoin:1.10.0.1/|70004|20001|172.112.0.0/13|US|arin|2015-06-19|TWC-20001-PACWEST, US
 174.31.57.140|/dimecoin:1.10.0.1/|70004|209|174.16.0.0/12|US|arin|2009-02-17|CENTURYLINK-US-LEGACY-QWEST, US
-176.160.78.72|/dimecoin:1.10.0/|70004||||||
+176.160.78.72|/dimecoin:1.10.0/|70004|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
 178.63.11.230|/dimecoin:1.10.0.1/|70004|24940|178.63.0.0/16|DE|ripencc|2010-03-02|HETZNER-AS, DE
-180.249.192.93|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|7713|180.249.192.0/22|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 185.158.182.57|/dimecoin:1.10.0.1/|70004|20810|185.158.180.0/22|DE|ripencc|2016-07-07|NETCOM-KASSEL Netcom Kassel, DE
 187.109.138.27|/dimecoin:1.10.0.1/|70004||||||
 187.190.174.156|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|17072|187.190.174.0/24|MX|lacnic|2011-12-08|TOTAL PLAY TELECOMUNICACIONES SA DE CV, MX
 191.96.67.174|/dimecoin:1.10.0.1/|70004||||||
-193.70.35.154|/dimecoin:1.10.0.1/|70004||||||
+193.70.35.154|/dimecoin:1.10.0.1/|70004|16276|193.70.0.0/17|FR|ripencc|1993-09-01|OVH, FR
 197.210.227.244|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|29465|197.210.227.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
-197.210.8.167|???|0||||||
+197.210.8.167|???|0|29465|197.210.8.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.84.224|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|29465|197.210.84.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.85.215|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|29465|197.210.85.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 200.8.225.242|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|21826|200.8.224.0/23|VE|lacnic|2004-12-23|Corporacion Telemic C.A., VE
@@ -67,13 +67,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.132.186.14|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|35228|82.132.184.0/22|GB|ripencc|2003-08-14|O2BROADBAND, GB
 82.132.186.89|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|35228|82.132.184.0/22|GB|ripencc|2003-08-14|O2BROADBAND, GB
 82.132.227.103|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|35228|82.132.224.0/22|GB|ripencc|2003-08-14|O2BROADBAND, GB
-82.132.232.45|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004||||||
-82.132.235.10|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004||||||
+82.132.232.45|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|35228|82.132.232.0/22|GB|ripencc|2003-08-14|O2BROADBAND, GB
+82.132.235.10|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|35228|82.132.232.0/22|GB|ripencc|2003-08-14|O2BROADBAND, GB
 83.87.54.230|/dimecoin:1.10.0.1/|70004|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.234.52.190|/dimecoin:1.10.0.1/|70004||||||
 85.19.25.38|/dimecoin:1.10.0.1/|70004||||||
-85.209.41.116|???|0||||||
 88.147.174.169|/dimecoin:1.10.0.1/|70004|12389|88.147.128.0/17|RU|ripencc|2006-01-11|ROSTELECOM-AS, RU
-92.65.248.14|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004||||||
+92.65.248.14|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|1136|92.64.0.0/14|NL|ripencc|2007-06-19|KPN KPN National, NL
 93.82.78.51|/dimecoin:1.10.0.1/|70004||||||
 94.23.2.215|/dimecoin:1.10.0.1/|70004||||||
