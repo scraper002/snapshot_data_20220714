@@ -13,8 +13,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.209.145.235|/Wagerr Core:4.0.0/|70928||||||
 134.209.191.68|/Wagerr Core:4.0.0/|70928||||||
 138.197.158.157|/Wagerr Core:4.0.0/|70928||||||
-139.59.248.2|/Wagerr Core:4.0.0/|70928|14061|139.59.240.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
-139.59.3.5|/Wagerr Core:4.0.0/|70928|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
+139.59.248.2|/Wagerr Core:4.0.0/|70928||||||
+139.59.3.5|/Wagerr Core:4.0.0/|70928||||||
 142.132.196.238|/Wagerr Core:4.0.0/|70928||||||
 143.198.40.116|/Wagerr Core:4.0.0/|70928||||||
 143.244.139.148|/Wagerr Core:4.0.0/|70928||||||
@@ -32,15 +32,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 165.22.20.47|???|0||||||
 165.22.20.75|/Wagerr Core:4.0.0/|70928||||||
 165.22.230.170|/Wagerr Core:4.0.0/|70928||||||
-165.22.237.209|/Wagerr Core:4.0.0/|70928|14061|165.22.224.0/20|US|arin|2018-10-16|DIGITALOCEAN-ASN, US
+165.22.237.209|/Wagerr Core:4.0.0/|70928||||||
 165.22.253.193|/Wagerr Core:4.0.0/|70928||||||
 165.22.26.236|/Wagerr Core:4.0.0/|70928||||||
 165.22.90.124|/Wagerr Core:4.0.0/|70928||||||
 165.227.142.123|/Wagerr Core:4.0.0/|70928||||||
 167.71.198.77|/Wagerr Core:4.0.0/|70928||||||
 167.71.214.134|/Wagerr Core:4.0.0/|70928||||||
-167.99.132.97|/Wagerr Core:4.0.0/|70928||||||
-167.99.251.126|/Wagerr Core:4.0.0/|70928||||||
+167.99.132.97|/Wagerr Core:4.0.0/|70928|14061|167.99.128.0/20|US|arin|2017-11-10|DIGITALOCEAN-ASN, US
+167.99.251.126|/Wagerr Core:4.0.0/|70928|14061|167.99.240.0/20|US|arin|2017-11-10|DIGITALOCEAN-ASN, US
 173.212.211.55|/Wagerr Core:4.0.0/|70928||||||
 174.138.19.106|/Wagerr Core:4.0.0/|70928||||||
 178.128.229.233|/Wagerr Core:4.0.0/|70928||||||
@@ -54,9 +54,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.189.135.160|/Wagerr Core:4.0.0/|70928||||||
 207.154.251.91|/Wagerr Core:4.0.0/|70928||||||
 207.180.200.238|/Wagerr Core:4.0.0/|70928||||||
-209.97.128.161|/Wagerr Core:4.0.0/|70928||||||
-209.97.186.76|/Wagerr Core:4.0.0/|70928||||||
-217.172.185.42|/Wagerr Core:4.0.0/|70928||||||
+209.97.128.161|/Wagerr Core:4.0.0/|70928|14061|209.97.128.0/20|US|arin|1997-07-03|DIGITALOCEAN-ASN, US
+209.97.186.76|/Wagerr Core:4.0.0/|70928|14061|209.97.176.0/20|US|arin|1997-07-03|DIGITALOCEAN-ASN, US
+217.172.185.42|/Wagerr Core:4.0.0/|70928|8972|217.172.184.0/22|DE|ripencc|2001-07-27|GD-EMEA-DC-SXB1, DE
 24.27.40.198|/Wagerr Core:4.0.0/|70928||||||
 31.14.96.38|/Wagerr Core:4.0.0/|70928||||||
 45.77.142.154|/Wagerr Core:4.0.0/|70928||||||
@@ -66,7 +66,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.89.92.249|/Wagerr Core:4.0.0/|70928||||||
 54.37.18.181|/Wagerr Core:4.0.0/|70928||||||
 62.138.8.142|/Wagerr Core:4.0.0/|70928||||||
-65.108.101.100|/Wagerr Core:4.0.0/|70928||||||
+65.108.101.100|/Wagerr Core:4.0.0/|70928|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
 65.108.101.187|/Wagerr Core:4.0.0/|70928||||||
 65.21.139.183|/Wagerr Core:4.0.0/|70928||||||
 65.21.192.92|/Wagerr Core:4.0.0/|70928||||||
