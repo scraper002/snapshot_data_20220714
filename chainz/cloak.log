@@ -1,8 +1,8 @@
 # https://chainz.cryptoid.info/ and whois results
 # CloakCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-100.1.17.76|/KlausFuchs:2.2.2.2/|60018|701|100.1.0.0/16|US|arin|2010-12-28|UUNET, US
-101.173.115.16|/KlausFuchs:2.2.2.2/|60018|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
+100.1.17.76|/KlausFuchs:2.2.2.2/|60018||||||
+101.173.115.16|/KlausFuchs:2.2.2.2/|60018||||||
 104.254.42.216|/KlausFuchs:2.2.2.2/|60018||||||
 104.254.90.243|/KlausFuchs:2.2.2.2/|60018||||||
 107.140.242.35|/KlausFuchs:2.2.2.2/|60018||||||
@@ -34,7 +34,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.79.102.49|/KlausFuchs:2.2.2.2/|60018||||||
 190.96.1.19|/KlausFuchs:2.2.2.1/|60018||||||
 191.96.170.83|/KlausFuchs:2.2.2.2/|60018||||||
-192.119.13.171|/KlausFuchs:2.2.2.1/|60018||||||
+192.119.13.171|/KlausFuchs:2.2.2.1/|60018|55081|192.119.8.0/21|US|arin|2013-02-01|24SHELLS, US
 192.154.253.68|/KlausFuchs:2.2.2.2/|60018||||||
 193.70.44.101|/KlausFuchs:2.2.2.2/|60018||||||
 195.181.162.180|/KlausFuchs:2.2.2.2/|60018||||||
@@ -48,7 +48,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.220.148.143|/KlausFuchs:2.2.2.2/|60018||||||
 216.220.251.3|/KlausFuchs:2.2.2.2/|60018||||||
 24.255.10.164|/KlausFuchs:2.2.2.2/|60018||||||
-3.112.138.57|/SidneyReilly:0.7.8/|60018||||||
+3.112.138.57|/SidneyReilly:0.7.8/|60018|16509|3.112.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 3.251.70.18|/KlausFuchs:2.2.2.2/|60018||||||
 37.120.217.163|/KlausFuchs:2.2.2.2/|60018||||||
 37.120.217.83|/KlausFuchs:2.2.2.2/|60018||||||
@@ -59,7 +59,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.128.199.137|/KlausFuchs:2.2.2.2/|60018||||||
 45.128.199.32|/KlausFuchs:2.2.2.2/|60018||||||
 45.132.225.66|/KlausFuchs:2.2.2.2/|60018||||||
-46.101.235.143|/KlausFuchs:2.2.2.1/|60018||||||
+46.101.235.143|/KlausFuchs:2.2.2.1/|60018|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
 46.35.48.131|/KlausFuchs:2.2.2.2/|60018||||||
 5.43.242.28|/KlausFuchs:2.2.2.2/|60018||||||
 5.43.242.79|/KlausFuchs:2.2.2.2/|60018||||||
@@ -73,15 +73,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 67.55.32.136|/KlausFuchs:2.2.2.2/|60018||||||
 68.100.207.144|/KlausFuchs:2.2.2.2/|60018||||||
 68.37.51.43|/KlausFuchs:2.2.2.1/|60018||||||
-69.243.26.205|/KlausFuchs:0.7.8/|60018||||||
+69.243.26.205|/KlausFuchs:0.7.8/|60018|7922|69.240.0.0/12|US|arin|2004-02-11|COMCAST-7922, US
 70.114.134.82|/KlausFuchs:2.2.2.2/|60018||||||
 73.120.92.1|/KlausFuchs:2.2.2.1/|60018||||||
 75.133.121.122|/SidneyReilly:0.7.8/|60018||||||
 75.162.229.111|/KlausFuchs:2.2.2.2/|60018||||||
 76.22.91.115|/KlausFuchs:2.2.2.2/|60018||||||
 76.83.168.40|/KlausFuchs:2.2.2.2/|60018||||||
-77.13.172.161|/KlausFuchs:2.2.2.2/|60018||||||
-77.174.43.126|/KlausFuchs:2.2.2.2/|60018||||||
+77.13.172.161|/KlausFuchs:2.2.2.2/|60018|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
+77.174.43.126|/KlausFuchs:2.2.2.2/|60018|1136|77.174.0.0/16|NL|ripencc|2006-11-02|KPN KPN National, NL
 77.249.161.201|/KlausFuchs:2.2.2.2/|60018||||||
 79.143.186.122|/KlausFuchs:2.2.2.2/|60018||||||
 79.233.5.125|/KlausFuchs:2.2.2.1/|60018||||||
@@ -97,7 +97,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.247.116.245|/KlausFuchs:2.2.2.2/|60018||||||
 83.85.95.64|/KlausFuchs:2.2.2.2/|60018||||||
 84.119.100.161|/KlausFuchs:2.2.2.2/|60018||||||
-84.38.144.53|/KlausFuchs:2.2.2/|60018|12929|84.38.144.0/20|NO|ripencc|2006-05-30|NETCOM-AS Oslo, Norway, NO
+84.38.144.53|/KlausFuchs:2.2.2/|60018||||||
 85.11.189.84|/KlausFuchs:2.2.2.2/|60018||||||
 85.19.25.38|/KlausFuchs:2.2.2.2/|60018||||||
 85.222.190.145|/KlausFuchs:2.2.2.2/|60018||||||
