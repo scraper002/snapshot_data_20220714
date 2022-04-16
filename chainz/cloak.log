@@ -8,7 +8,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.140.242.35|/KlausFuchs:2.2.2.2/|60018||||||
 108.168.19.44|/KlausFuchs:2.2.2.2/|60018||||||
 116.203.113.137|/KlausFuchs:2.2.2.2/|60018||||||
-117.20.68.10|/KlausFuchs:2.2.2.2/|60018||||||
+117.20.68.10|/KlausFuchs:2.2.2.2/|60018|4764|117.20.68.0/22|AU|apnic|2007-06-18|WIDEBAND-AS-AP Aussie Broadband, AU
 120.148.72.215|/KlausFuchs:2.2.2.2/|60018||||||
 120.17.18.27|/KlausFuchs:2.2.2.2/|60018||||||
 13.229.99.77|/SidneyReilly:0.7.8/|60018||||||
@@ -18,6 +18,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 156.146.45.11|/KlausFuchs:2.2.2.2/|60018||||||
 172.58.146.155|/KlausFuchs:2.2.2.2/|60018||||||
 174.62.59.148|/KlausFuchs:2.2.2.2/|60018||||||
+176.249.204.144|/KlausFuchs:2.2.2.2/|60018||||||
 176.74.136.237|/KlausFuchs:2.2.2.2/|60018||||||
 176.90.66.207|/KlausFuchs:2.2.2.2/|60018||||||
 178.252.153.146|/SidneyReilly:0.7.8/|60018||||||
@@ -48,8 +49,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.255.10.164|/KlausFuchs:2.2.2.2/|60018||||||
 3.112.138.57|/SidneyReilly:0.7.8/|60018||||||
 3.251.70.18|/KlausFuchs:2.2.2.2/|60018||||||
-37.120.217.163|/KlausFuchs:2.2.2.2/|60018|9009|37.120.217.0/24|RO|ripencc|2012-02-13|M247, GB
-37.49.93.30|/KlausFuchs:2.2.2.2/|60018|3209|37.49.64.0/18|DE|ripencc|2012-01-25|VODANET International IP-Backbone of Vodafone, DE
+37.120.217.163|/KlausFuchs:2.2.2.2/|60018||||||
+37.49.93.30|/KlausFuchs:2.2.2.2/|60018||||||
 45.12.220.205|/KlausFuchs:2.2.2.2/|60018||||||
 45.128.199.102|/KlausFuchs:2.2.2.2/|60018||||||
 45.128.199.172|/KlausFuchs:2.2.2.2/|60018||||||
@@ -58,11 +59,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.40.103.148|/KlausFuchs:2.2.2.2/|60018||||||
 5.43.242.174|/KlausFuchs:2.2.2.2/|60018||||||
 5.43.242.241|/KlausFuchs:2.2.2.2/|60018||||||
-5.43.242.79|/KlausFuchs:2.2.2.2/|60018||||||
+5.43.243.76|/KlausFuchs:2.2.2.2/|60018||||||
 5.62.61.107|/KlausFuchs:2.2.2.2/|60018||||||
 62.138.24.31|/KlausFuchs:2.2.2.2/|60018||||||
 62.195.42.12|/KlausFuchs:2.2.2.2/|60018||||||
-62.63.233.182|/KlausFuchs:2.2.2.2/|60018||||||
 62.82.126.251|/KlausFuchs:2.2.2.2/|60018||||||
 66.252.48.115|/KlausFuchs:2.2.2.2/|60018||||||
 66.252.48.15|/KlausFuchs:2.2.2.2/|60018||||||
@@ -73,6 +73,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.37.51.43|/KlausFuchs:2.2.2.1/|60018||||||
 69.243.26.205|/KlausFuchs:0.7.8/|60018||||||
 70.114.134.82|/KlausFuchs:2.2.2.2/|60018||||||
+71.161.234.244|/KlausFuchs:2.2.2.2/|60018||||||
 73.120.92.1|/KlausFuchs:2.2.2.1/|60018||||||
 75.133.121.122|/SidneyReilly:0.7.8/|60018||||||
 75.162.229.111|/KlausFuchs:2.2.2.2/|60018||||||
@@ -81,6 +82,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.249.161.201|/KlausFuchs:2.2.2.2/|60018||||||
 78.153.59.233|/KlausFuchs:2.2.2.2/|60018||||||
 79.143.186.122|/KlausFuchs:2.2.2.2/|60018||||||
+79.248.119.95|/KlausFuchs:2.2.2.2/|60018||||||
 79.59.255.93|/KlausFuchs:2.2.2.2/|60018||||||
 80.102.152.188|/KlausFuchs:2.2.2.2/|60018||||||
 80.57.233.102|/KlausFuchs:2.2.2.2/|60018||||||
@@ -93,6 +95,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.9.122.98|/KlausFuchs:2.2.2.2/|60018||||||
 83.128.101.141|/KlausFuchs:2.2.2.2/|60018||||||
 83.85.95.64|/KlausFuchs:2.2.2.2/|60018||||||
+83.89.61.49|/SidneyReilly:0.7.8/|60018||||||
 84.119.100.161|/KlausFuchs:2.2.2.2/|60018||||||
 84.17.51.210|/KlausFuchs:2.2.2.2/|60018||||||
 85.11.189.84|/KlausFuchs:2.2.2.2/|60018||||||
@@ -105,15 +108,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.14.85.87|/KlausFuchs:2.2.2.2/|60018||||||
 89.164.108.19|/SidneyReilly:0.7.8/|60018||||||
 91.239.95.18|/KlausFuchs:2.2.2.2/|60018||||||
+91.239.95.24|/KlausFuchs:2.2.2.2/|60018||||||
 92.119.19.252|/KlausFuchs:2.2.2.2/|60018||||||
+94.140.9.129|/KlausFuchs:2.2.2.2/|60018||||||
 94.140.9.130|/KlausFuchs:2.2.2.2/|60018||||||
-94.140.9.171|/KlausFuchs:2.2.2.2/|60018||||||
 95.217.78.169|/KlausFuchs:2.2.2.2/|60018||||||
 95.89.13.102|/KlausFuchs:2.2.2.2/|60018||||||
 95.90.225.203|/KlausFuchs:2.2.2.2/|60018||||||
-95.91.208.113|/KlausFuchs:2.2.2.2/|60018||||||
 95.91.208.123|/KlausFuchs:2.2.2.2/|60018||||||
-95.91.236.135|/KlausFuchs:2.2.2.2/|60018||||||
 97.86.34.239|/KlausFuchs:2.2.2.2/|60018||||||
 98.113.205.34|/KlausFuchs:2.2.2.2/|60018||||||
 98.231.41.136|/KlausFuchs:2.2.2.1/|60018||||||
