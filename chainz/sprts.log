@@ -22,7 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 119.171.52.54|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 121.2.248.92|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 123.48.72.180|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002||||||
-124.182.23.185|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.013gc223a06/|70002||||||
+124.182.23.185|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.013gc223a06/|70002|1221|124.176.0.0/12|AU|apnic|2006-05-12|ASN-TELSTRA Telstra Corporation Ltd, AU
 125.1.51.64|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002||||||
 125.52.72.107|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 133.175.203.96|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002||||||
@@ -44,13 +44,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 160.237.143.145|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 175.131.254.118|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 178.233.230.172|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
-180.16.17.13|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
+180.16.17.13|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|4713|180.0.0.0/10|JP|apnic|2009-07-06|OCN NTT Communications Corporation, JP
 182.168.117.247|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 183.77.237.218|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.011gd137e269/|70002||||||
 185.117.74.45|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0unk/|70002||||||
 188.79.102.49|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 189.29.170.154|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
-199.126.170.181|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
+199.126.170.181|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|852|199.126.0.0/16|CA|arin|1994-01-27|TELUS Communications, CA
 212.45.80.123|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 219.99.237.142|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 220.127.102.48|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
@@ -63,7 +63,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 60.110.80.14|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 60.128.184.160|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002||||||
 60.75.227.61|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
-61.125.213.196|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002|4685|61.125.192.0/18|JP|apnic|2000-09-29|ASAHI-NET Asahi Net, JP
+60.77.194.185|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.011gd137e269/|70002||||||
+61.125.213.196|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002||||||
 61.192.154.189|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 61.203.244.127|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 72.238.61.212|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
