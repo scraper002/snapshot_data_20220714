@@ -3,7 +3,7 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 107.152.33.4|/eMark:1.6.1.2/|60012|11878|107.152.33.0/24|US|arin|2013-12-03|TZULO, US
 107.218.22.183|/eMark:1.5.1/|60011|7018|107.208.0.0/12|US|arin|2012-04-25|ATT-INTERNET4, US
-122.59.11.201|/eMark:1.5.0/|60011||||||
+122.59.11.201|/eMark:1.5.0/|60011|4771|122.59.8.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
 139.162.155.117|/eMark:1.6.1.1/|60012|63949|139.162.128.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 144.91.120.189|/eMark:1.6.1.2/|60012|51167|144.91.120.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 147.135.97.55|/eMark:1.6.1/|60012||||||
@@ -25,7 +25,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2.202.2.215|/eMark:1.5.1/|60011|3209|2.200.0.0/13|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
 206.72.198.107|/eMark:1.6.1/|60012|19318|206.72.192.0/20|US|arin|2011-10-03|IS-AS-1, US
 208.73.206.109|/eMark:1.6.1.2/|60012|19318|208.73.200.0/21|US|arin|2014-12-19|IS-AS-1, US
-213.136.80.217|/eMark:1.6.1.2/|60012||||||
+213.136.80.217|/eMark:1.6.1.2/|60012|51167|213.136.80.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.151.6.24|/eMark:1.6.1.2/|60012|31499|213.151.6.0/24|RU|ripencc|2008-03-13|YCC-AS -- iHome --, RU
 213.162.149.219|/eMark:1.6.1.2/|60012|9136|213.162.128.0/19|DE|ripencc|2008-11-10|WOBCOM, DE
 213.217.17.189|/eMark:1.6.1.2/|60012|35805|213.217.16.0/22|GE|ripencc|2018-11-08|SILKNET-AS Silknet Autonomous System, GE
@@ -42,6 +42,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.45.106.180|/eMark:1.6.0/|60011|197540|5.45.96.0/20|DE|ripencc|2012-05-24|NETCUP-AS netcup GmbH, DE
 5.9.141.86|/eMark:1.5.0/|60011|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
 62.178.190.6|/eMark:1.5.1/|60011|8412|62.178.128.0/17|AT|ripencc|2000-09-18|TMA Magenta Telekom, AT
+62.226.182.15|/eMark:1.6.1.2/|60012|3320|62.224.0.0/14|DE|ripencc|2000-05-12|DTAG Internet service provider operations, DE
 69.180.65.143|/eMark:1.6.1.2/|60012|7922|69.180.0.0/15|US|arin|2004-02-18|COMCAST-7922, US
 71.59.187.153|/eMark:1.6.1.2/|60012|7922|71.56.0.0/13|US|arin|2005-04-29|COMCAST-7922, US
 77.166.187.79|/eMark:1.6.1.2/|60012|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, NL
@@ -60,7 +61,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.139.144.30|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.139.158.31|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.169.230.189|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.2.34.93|/eMark:1.6.0/|60011|15545|84.2.34.0/23|HU|ripencc|2004-09-17|MT-DC-AS EU. Hungary, HU
 85.112.35.197|/eMark:1.6.1.2/|60012|12389|85.112.32.0/19|RU|ripencc|2005-01-20|ROSTELECOM-AS, RU
 85.15.179.171|/eMark:1.6.1/|60012||||||
 85.19.25.38|/eMark:1.6.1/|60012||||||
@@ -72,7 +72,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.144.55.233|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.168.46.195|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.181.113.62|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
-87.184.121.35|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.126.202.24|/eMark:1.6.1.2/|60012|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
 89.163.255.142|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 91.206.16.214|/eMark:1.6.1/|60012||||||
@@ -86,6 +85,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.197.122.24|/eMark:1.5.1/|60011|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.226.116.137|/eMark:1.5.1/|60011|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 94.23.209.98|/eMark:1.5.1/|60011|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
-95.217.78.79|/eMark:1.6.1.2/|60012|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
+95.217.78.79|/eMark:1.6.1.2/|60012||||||
 95.88.57.49|/eMark:1.6.1.2/|60012|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.90.198.116|/eMark:1.4.1/|60010|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
