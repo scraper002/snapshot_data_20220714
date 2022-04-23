@@ -4,6 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.33.235.35|/Blackcoin More:2.13.2.9/|70013|45090|101.33.192.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 103.108.94.41|/Blackcoin More:2.13.2.8/|70013|133480|103.108.94.0/24|NZ|apnic|2018-01-25|INTERGRID-AS-AP Intergrid Group Pty Ltd, AU
 104.238.221.41|Blackcoin More:2.13.2.8|70713|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
+113.104.212.250|/Blackcoin More:2.13.2.9/|70013|4134|113.96.0.0/12|CN|apnic|2008-11-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 114.221.157.204|/Blackcoin More:2.13.2.8/|70013|4134|114.216.0.0/13|CN|apnic|2008-06-24|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 116.203.82.109|/Blackcoin More:2.13.2.7/|70013|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 119.45.242.241|/Blackcoin More:2.13.2.8/|70013|45090|119.45.240.0/20|CN|apnic|2008-01-03|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
@@ -33,7 +34,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.62.114.74|Blackcoin More:2.13.2.8|70713|14061|178.62.64.0/18|US|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 181.126.229.160|/Blackcoin More:2.13.2.8/|70013|23201|181.124.0.0/14|PY|lacnic|2012-06-20|Telecel S.A., PY
 181.165.59.139|/Blackcoin More:2.13.2.9/|70013|7303|181.164.0.0/15|AR|lacnic|2011-12-28|Telecom Argentina S.A., AR
-183.227.17.165|/Blackcoin More:2.13.2.8/|70013|9808|183.227.17.0/24|CN|apnic|2009-11-08|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
 185.159.157.10|/Blackcoin More:2.13.2.8/|70013|209103|185.159.157.0/24|CH|ripencc|2016-07-14|PROTONVPN, CH
 185.245.85.105|/Blackcoin More:2.13.2.9/|70013|9009|185.245.85.0/24|RO|ripencc|2018-02-07|M247, GB
 188.79.102.49|/Blackcoin More:2.13.2.8/|70013|12479|188.79.100.0/22|ES|ripencc|2011-01-04|UNI2-AS, ES
@@ -65,7 +65,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 60.108.92.175|/Blackcoin More:2.13.2.6/|70013|17676|60.108.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 62.212.239.4|/Blackcoin More:2.13.2.8/|70013|29049|62.212.239.0/24|AZ|ripencc|2003-05-15|DELTA-TELECOM-AS International Communication Operator, AZ
 62.212.239.46|/Blackcoin More:2.13.2.8/|70013|29049|62.212.239.0/24|AZ|ripencc|2003-05-15|DELTA-TELECOM-AS International Communication Operator, AZ
-62.212.239.6|/Blackcoin More:2.13.2.8/|70013|29049|62.212.239.0/24|AZ|ripencc|2003-05-15|DELTA-TELECOM-AS International Communication Operator, AZ
 62.212.239.68|/Blackcoin More:2.13.2.8/|70013|29049|62.212.239.0/24|AZ|ripencc|2003-05-15|DELTA-TELECOM-AS International Communication Operator, AZ
 62.212.239.70|/Blackcoin More:2.13.2.8/|70013|29049|62.212.239.0/24|AZ|ripencc|2003-05-15|DELTA-TELECOM-AS International Communication Operator, AZ
 62.213.10.22|/Blackcoin More:2.13.2.9/|70013|12389|62.213.0.0/19|RU|ripencc|2000-07-18|ROSTELECOM-AS, RU
@@ -73,6 +72,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 64.231.116.238|/Blackcoin More:2.13.2.9/|70013|577|64.231.0.0/16|CA|arin|2000-02-15|BACOM, CA
 70.65.177.213|/Blackcoin More:2.13.2.9/|70013|6327|70.65.176.0/22|CA|arin|2004-06-18|SHAW, CA
 71.214.132.6|/Blackcoin More:2.13.2.8/|70013|209|71.214.0.0/16|US|arin|2005-05-06|CENTURYLINK-US-LEGACY-QWEST, US
+71.238.177.219|/Blackcoin More:2.13.2.5/|70013|7922|71.224.0.0/12|US|arin|2005-04-15|COMCAST-7922, US
 72.39.89.111|/Blackcoin More:2.13.2.9/|70013|7992|72.38.0.0/15|CA|arin|2005-07-22|COGECOWAVE, CA
 73.117.62.222|/Blackcoin More:2.13.2.8/|70013|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.38.248.94|/Blackcoin More:2.13.2.8/|70013|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -110,8 +110,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.20.154.68|/Blackcoin More:2.13.2.8/|70013|29049|94.20.154.0/24|AZ|ripencc|2008-07-07|DELTA-TELECOM-AS International Communication Operator, AZ
 94.20.154.84|/Blackcoin More:2.13.2.8/|70013|29049|94.20.154.0/24|AZ|ripencc|2008-07-07|DELTA-TELECOM-AS International Communication Operator, AZ
 94.20.154.86|/Blackcoin More:2.13.2.8/|70013|29049|94.20.154.0/24|AZ|ripencc|2008-07-07|DELTA-TELECOM-AS International Communication Operator, AZ
-94.20.21.87|/Blackcoin More:2.13.2.8/|70013|29049|94.20.21.0/24|AZ|ripencc|2008-07-07|DELTA-TELECOM-AS International Communication Operator, AZ
-94.214.106.162|/Blackcoin More:2.13.2.6/|70013|33915|94.212.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
 94.227.44.148|/Blackcoin More:2.13.2.8/|70013|6848|94.224.0.0/14|BE|ripencc|2008-09-18|TELENET-AS, BE
 95.174.66.38|/Blackcoin More:2.13.2.9/|70013|9009|95.174.66.0/24|RO|ripencc|2018-06-29|M247, GB
 95.217.78.81|/Blackcoin More:2.13.2.8/|70013|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
