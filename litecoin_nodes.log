@@ -443,6 +443,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:67c:200c:226:da9d:67ff:fe19:2738|9333|/LitecoinCore:0.18.1/|51408|2001:67c:200c::/48|RU|ripencc|2011-01-14|SIRIUS-AS, RU
 2001:67c:2b0:db32:0:1:504f:7222|9333|/LitecoinCore:0.17.1/|29432|2001:67c:2b0::/48|FI|ripencc|2010-08-10|TREX-AS, FI
 2001:7d0:8437:6f01:222:7ff:fefa:fbfd|9333|/LitecoinCore:0.21.1/|3249|2001:7d0::/32|EE|ripencc|2002-05-16|ESTPAK, EE
+2001:b011:800e:13e8:8b26:eda1:e05b:8ba3|9333|/LitecoinCore:0.18.1/|3462|2001:b011:8000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b011:9:7321:cd5e:1a80:9e6b:fd0d|9333|/LitecoinCore:0.18.1/|3462|2001:b011::/37|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:b030:2422::2475|9333|/LitecoinCore:0.18.1/|3462|2001:b030:2000::/36|TW|apnic|2006-03-15|HINET Data Communication Business Group, TW
 2001:bc8:1200:3e1d::1|8333|/LitecoinCore:0.18.1/|12876|2001:bc8::/32|FR|ripencc|2003-04-15|Online SAS, FR
@@ -517,6 +518,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2400:8904::f03c:93ff:fe18:8d88|9333|/LitecoinCore:0.18.1/|63949|2400:8904::/32|US|apnic|2018-03-16|LINODE-AP Linode, LLC, US
 2401:c080:1c01:482:5400:3ff:fedb:60c5|9321|/Satoshi:0.14.3/|20473|2401:c080:1c00::/38|JP|apnic|2014-11-19|AS-CHOOPA, US
 2402:1f00:8100:181::|9333|/LitecoinCore:0.16.3/|16276|2402:1f00:8100::/40|HK|apnic|2011-10-04|OVH, FR
+2408:8207:8430:dae0:e52f:9f85:6b65:f03c|9333|/LitecoinCore:0.18.1/|4808|2408:8207:8000::/34|CN|apnic|2011-07-07|CHINA169-BJ China Unicom Beijing Province Network, CN
 2409:8a10:ca15:ee40:8b4:de9f:a2d1:4eee|9333|/LitecoinCore:0.18.1/|9808|2409:8a10::/32|CN|apnic|2011-08-23|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
 2409:8a1e:2a63:7ac0:b83d:cadd:e5d4:6e10|9321|/Satoshi:0.14.3/|24400|2409:8a1e::/32|CN|apnic|2011-08-23|CMNET-V4SHANGHAI-AS-AP Shanghai Mobile Communications Co.,Ltd., CN
 240d:1b:64:6202:1f7a:a402:916:dc86|9513|/Satoshi:0.8.7.2/|2527|240d::/27|JP|apnic|2010-12-24|SO-NET Sony Network Communications Inc., JP
@@ -531,7 +533,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2602:ff22:777::2715:8ec1|9333|/LitecoinCore:0.18.1/|63297|2602:ff22::/36|CA|arin|2016-10-27|PACIFIC-SERVERS, CA
 2602:ffb6:4:b75d:f816:3eff:fed3:cce5|9333|/LitecoinCore:0.17.1/|174|2602:ffb6::/36|CA|arin|2014-06-16|COGENT-174, US
 2603:3001:1dc0:0:30a1:2f01:55da:4d2f|9333|/LitecoinCore:0.18.1/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
-2603:3023:a3f:1000:ac5a:9f32:9576:ba5|9333|/LitecoinCore:0.18.1/
+2603:3023:a3f:1000:ac5a:9f32:9576:ba5|9333|/LitecoinCore:0.18.1/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
 2603:3027:f0e:4100:dd:fbc0:e394:cf86|9333|/LitecoinCore:0.18.1/|7922|2603:3000::/24|US|arin|2015-05-13|COMCAST-7922, US
 2603:7:1:1071:3eec:efff:fe3f:24f6|9333|/LitecoinCore:0.17.1/|398789|2603:7::/32|US|arin|2013-11-12|GO-DADDY-COM-LLC, US
 2603:8001:5000:2b3a:5054:ff:fe1b:2913|9333|/LitecoinCore:0.17.1/|20001|2603:8000::/28|US|arin|2017-03-20|TWC-20001-PACWEST, US
@@ -1077,7 +1079,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.7.118.235|9333|/LitecoinCore:0.18.1/|8764|81.7.116.0/22|LT|ripencc|2002-08-01|TELIA-LIETUVA, LT
 82.157.101.151|9321|/Satoshi:0.14.3/|45090|82.157.64.0/18|CN|apnic|2003-11-19|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 82.202.197.224|9333|/LitecoinCore:0.17.1/|49505|82.202.197.0/24|RU|ripencc|2003-10-06|SELECTEL, RU
-82.221.131.172|9333|/LitecoinCore:0.18.1/
+82.221.131.172|9333|/LitecoinCore:0.18.1/|50613|82.221.128.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
 82.28.186.158|9333|/LitecoinCore:0.18.1/|5089|82.28.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.6.56.202|9333|/LitecoinCore:0.18.1/|5089|82.4.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.65.33.15|9333|/LitecoinCore:0.18.1/|12322|82.64.0.0/14|FR|ripencc|2003-04-03|PROXAD, FR
