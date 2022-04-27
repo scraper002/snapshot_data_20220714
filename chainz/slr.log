@@ -4,7 +4,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 106.73.238.224|/Satoshi:2.1.8/|70005|2516|106.72.0.0/15|JP|apnic|2011-04-05|KDDI KDDI CORPORATION, JP
 108.180.16.71|/Satoshi:2.1.8/|70005|852|108.180.0.0/16|CA|arin|2012-07-19|TELUS Communications, CA
 115.69.53.133|/Satoshi:2.1.8/|70005|18390|115.69.52.0/22|AU|apnic|2010-05-20|SPIN-INTERNET-AP Spin Internet Service, AU
-115.70.114.0|/Satoshi:2.1.8/|70005|10143|115.70.112.0/21|AU|apnic|2008-07-22|EXETEL-AS-AP Exetel Pty Ltd, AU
 120.29.86.122|/Satoshi:2.1.8/|70005|17639|120.29.86.0/24|PH|apnic|2011-01-31|CONVERGE-AS Converge ICT Solutions Inc., PH
 121.99.103.247|/Satoshi:2.1.8/|70005|9790|121.98.0.0/15|NZ|apnic|2010-08-26|VOCUSGROUPNZ VocusGroup, NZ
 124.148.65.183|/Satoshi:2.1.8/|70005|7545|124.148.64.0/21|AU|apnic|2006-03-02|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -24,13 +23,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.112.251.162|/Satoshi:2.1.8/|70005|812|174.112.0.0/16|CA|arin|2009-03-04|ROGERS-COMMUNICATIONS, CA
 176.255.103.174|/Satoshi:2.1.8/|70005|5607|176.248.0.0/13|GB|ripencc|2011-12-05|BSKYB-BROADBAND-AS, GB
 176.58.193.49|/Satoshi:2.1.8/|70005|25472|176.58.192.0/22|GR|ripencc|2011-06-06|WIND-AS, GR
-178.114.134.77|/Satoshi:2.1.8/|70005||||||
+178.114.134.77|/Satoshi:2.1.8/|70005|8437|178.114.0.0/16|AT|ripencc|2010-01-12|UTA-AS, AT
 178.195.246.13|/Satoshi:2.1.8/|70005|3303|178.194.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom Switzerland Ltd, CH
 180.147.175.173|/Satoshi:2.1.8/|70005|17511|180.144.0.0/14|JP|apnic|2009-08-21|OPTAGE OPTAGE Inc., JP
 181.214.199.76|/Satoshi:2.1.8/|70005|18345|181.214.199.0/24|AE|ripencc|2014-05-29|SERVERS-AUS-CUST Servers Australia Customers, AU
 185.183.66.35|/Satoshi:2.1.8/|70005|44407|185.183.64.0/22|FR|ripencc|2016-12-21|ASN-LINKT, FR
 189.150.4.123|/Satoshi:2.1.8/|70005|8151|189.150.4.0/22|MX|lacnic|2006-05-12|Uninet S.A. de C.V., MX
 192.119.13.171|/Satoshi:2.1.8/|70005|55081|192.119.8.0/21|US|arin|2013-02-01|24SHELLS, US
+193.25.22.35|/Satoshi:2.1.8/|70005|680|193.25.16.0/20|DE|ripencc|1993-02-11|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
 193.80.15.149|/Satoshi:2.1.8/|70005|1901|193.80.0.0/15|AT|ripencc|1993-09-01|EUNETAT-AS A1 Telekom Austria AG, AT
 194.78.152.46|/Satoshi:2.1.8/|70005|5432|194.78.0.0/16|BE|ripencc|1996-02-13|PROXIMUS-ISP-AS, BE
 195.12.50.229|/Satoshi:2.1.8/|70005|9009|195.12.50.0/24|GB|ripencc|2006-02-01|M247, GB
@@ -75,7 +75,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.131.104.189|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.168.21.133|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.168.25.7|/Satoshi:2.1.8/|70005|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.199.9.234|/Satoshi:2.1.8/|70005||||||
+84.199.9.234|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.72.195.149|/Satoshi:2.1.8/|70005|6830|84.72.0.0/15|CH|ripencc|2004-04-02|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 86.60.178.2|/Satoshi:2.1.8/|70005|39699|86.60.128.0/17|FI|ripencc|2005-09-08|SSPOY-AS, FI
 86.84.93.20|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
