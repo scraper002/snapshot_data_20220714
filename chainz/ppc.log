@@ -36,16 +36,16 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.198.121.253|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 144.126.157.242|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 146.59.18.4|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-146.70.119.45|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|9009|146.70.119.0/24|RO|ripencc|1991-01-23|M247, GB
+146.70.119.45|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 147.135.97.55|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 150.140.159.218|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 150.220.188.26|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 151.26.189.206|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 151.26.190.22|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 151.80.22.47|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
-154.53.54.97|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|40021|154.53.48.0/21|US|arin|1992-02-05|CONTABO, US
+154.53.54.97|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 158.69.25.32|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-159.196.144.25|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|4764|159.196.144.0/23|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
+159.196.144.25|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 159.196.168.27|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 159.65.153.2|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 159.69.37.17|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
@@ -77,7 +77,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 188.162.143.4|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 188.162.167.149|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 188.162.167.155|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-192.119.13.171|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
+192.119.13.171|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|55081|192.119.8.0/21|US|arin|2013-02-01|24SHELLS, US
 192.154.231.66|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 192.33.118.174|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 192.33.118.247|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
@@ -87,7 +87,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.190.99.186|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 195.50.206.74|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
-199.241.187.130|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
+199.241.187.130|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|31863|199.241.184.0/21|US|arin|2012-07-30|DACEN-2, US
 199.48.93.60|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 2.205.47.24|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 201.11.22.162|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -126,7 +126,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.121.247.139|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 31.28.12.26|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 31.43.107.75|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-31.51.14.70|/Satoshi:0.6.3/Peercoin:0.5.4/|60006||||||
 37.166.221.154|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 37.171.16.31|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 37.173.126.184|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
@@ -196,13 +195,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.247.254.37|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 89.40.26.30|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 91.14.47.90|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
-91.150.178.168|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-91.150.178.170|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
+91.150.178.168|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|42673|91.150.160.0/19|PL|ripencc|2007-01-12|SKYWARE-AS, PL
+91.150.178.170|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|42673|91.150.160.0/19|PL|ripencc|2007-01-12|SKYWARE-AS, PL
 91.152.122.248|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 91.206.16.214|/Satoshi:0.16.3/Peercoin:0.9.0/|70015||||||
 91.245.131.251|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 91.54.86.98|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-92.217.223.168|/Satoshi:0.8.6/Peercoin:0.6.1/|70001||||||
 92.39.186.135|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 92.40.41.196|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 93.34.144.29|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||

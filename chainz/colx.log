@@ -9,7 +9,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.19.8|/ColossusXT Core:1.2.4/|70911||||||
 116.203.53.138|/ColossusXT Core:1.2.4/|70911||||||
 118.24.250.50|/ColossusXT Core:1.2.4/|70911||||||
-124.197.100.249|/ColossusXT Core:1.2.4/|70911||||||
+124.197.100.249|/ColossusXT Core:1.2.4/|70911|4773|124.197.64.0/18|SG|apnic|2007-10-05|MOBILEONELTD-AS-AP MobileOne Ltd. MobileInternet Service Provider Singapore, SG
 135.181.24.90|/ColossusXT Core:1.2.4/|70911||||||
 139.155.231.239|/ColossusXT Core:1.2.4/|70911||||||
 139.155.31.254|/ColossusXT Core:1.2.4/|70911||||||
@@ -18,11 +18,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 142.93.41.101|/ColossusXT Core:1.2.4/|70911||||||
 144.91.104.91|/ColossusXT Core:1.2.4/|70911||||||
 149.224.179.195|/ColossusXT Core:1.2.4/|70911||||||
-157.90.154.14|/ColossusXT Core:1.2.4/|70911||||||
-159.69.119.56|/ColossusXT Core:1.2.4/|70911||||||
+157.90.154.14|/ColossusXT Core:1.2.4/|70911|24940|157.90.0.0/16|DE|ripencc|1996-12-16|HETZNER-AS, DE
+159.69.119.56|/ColossusXT Core:1.2.4/|70911|24940|159.69.0.0/16|DE|ripencc|1992-03-13|HETZNER-AS, DE
 162.200.2.206|/ColossusXT Core:1.2.4/|70911|7018|162.192.0.0/12|US|arin|2013-03-01|ATT-INTERNET4, US
 164.68.112.228|/ColossusXT Core:1.2.4/|70911|51167|164.68.112.0/23|DE|ripencc|1992-12-17|CONTABO, DE
-167.86.120.231|break|70911|51167|167.86.120.0/23|DE|ripencc|1993-05-14|CONTABO, DE
+167.86.120.231|break|70911||||||
+167.86.91.19|/ColossusXT Core:1.2.3/|70911||||||
 167.99.122.76|/ColossusXT Core:1.2.4/|70911|14061|167.99.112.0/20|US|arin|2017-11-10|DIGITALOCEAN-ASN, US
 173.249.5.141|/ColossusXT Core:1.2.4/|70911|51167|173.249.4.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.54.30|/ColossusXT Core:1.2.4/|70911|51167|173.249.54.0/23|DE|ripencc|2010-05-26|CONTABO, DE
@@ -32,7 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.144.157.45|/ColossusXT Core:1.2.4/|70911|45090|192.144.128.0/18|CN|apnic|2016-03-03|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 192.241.154.180|/ColossusXT Core:1.2.4/|70911|14061|192.241.128.0/19|US|arin|2013-06-10|DIGITALOCEAN-ASN, US
 194.9.235.31|/ColossusXT Core:1.2.4/|70911|48166|194.9.224.0/20|RU|ripencc|2009-06-09|FORTEX-AS, RU
-207.180.220.22|break|70911|51167|207.180.220.0/23|DE|ripencc|1996-08-21|CONTABO, DE
+207.180.220.22|break|70911||||||
 213.49.77.85|/ColossusXT Core:1.2.4/|70911|5432|213.49.0.0/16|BE|ripencc|1999-11-19|PROXIMUS-ISP-AS, BE
 219.90.185.11|/ColossusXT Core:1.2.4/|70911|7545|219.90.160.0/19|AU|apnic|2004-10-05|TPG-INTERNET-AP TPG Telecom Limited, AU
 24.55.14.110|/ColossusXT Core:1.2.4/|70911|11427|24.55.0.0/18|US|arin|2013-05-28|TWC-11427-TEXAS, US
@@ -46,15 +47,16 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.79.55.209|/ColossusXT Core:1.2.4/|70911|16276|51.79.0.0/17|CA|arin|2019-01-10|OVH, FR
 54.36.62.167|/ColossusXT Core:1.2.4/|70911|16276|54.36.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 54.37.85.61|/ColossusXT Core:1.2.4/|70911|16276|54.37.0.0/16|FR|ripencc|1992-03-17|OVH, FR
+62.122.202.167|/ColossusXT Core:1.2.4/|70911||||||
 62.171.158.199|/ColossusXT Core:1.2.4/|70911|51167|62.171.158.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 65.21.203.156|/ColossusXT Core:1.2.4/|70911|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
 70.228.83.209|/ColossusXT Core:1.2.4/|70911|7018|70.228.0.0/14|US|arin|2005-03-22|ATT-INTERNET4, US
 78.47.83.59|/ColossusXT Core:1.2.4/|70911|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 79.143.186.64|/ColossusXT Core:1.2.4/|70911|51167|79.143.186.0/23|DE|ripencc|2010-01-08|CONTABO, DE
 79.226.39.20|/ColossusXT Core:1.2.4/|70911|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-81.193.22.41|/ColossusXT Core:1.2.4/|70911|3243|81.193.0.0/16|PT|ripencc|2002-08-06|MEO-RESIDENCIAL, PT
-86.82.175.214|/ColossusXT Core:1.2.4/|70911|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
-86.87.32.103|/ColossusXT Core:1.2.4/|70911|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
-95.216.195.204|/ColossusXT Core:1.2.4/|70911|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.216.228.253|/ColossusXT Core:1.2.4/|70911|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.148.187|/ColossusXT Core:1.2.3/|70911|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
+81.193.22.41|/ColossusXT Core:1.2.4/|70911||||||
+86.82.175.214|/ColossusXT Core:1.2.4/|70911||||||
+86.87.32.103|/ColossusXT Core:1.2.4/|70911||||||
+95.216.195.204|/ColossusXT Core:1.2.4/|70911||||||
+95.216.228.253|/ColossusXT Core:1.2.4/|70911||||||
+95.217.148.187|/ColossusXT Core:1.2.3/|70911||||||
