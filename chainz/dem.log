@@ -13,6 +13,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.116.187|/eMark:1.6.1/|60012|51167|167.86.116.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 172.104.157.27|/eMark:1.6.1.1/|60012|63949|172.104.128.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 172.105.182.91|/eMark:1.6.1.1/|60012|63949|172.105.160.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
+172.58.88.44|/eMark:1.5.1/|60011|21928|172.58.88.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.58.88.68|/eMark:1.5.1/|60011|21928|172.58.88.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 176.198.243.162|/eMark:1.6.1.2/|60012|3209|176.198.0.0/16|DE|ripencc|2011-07-18|VODANET International IP-Backbone of Vodafone, DE
 178.203.144.197|/eMark:1.6.1.2/|60012|3209|178.202.0.0/15|DE|ripencc|2010-03-16|VODANET International IP-Backbone of Vodafone, DE
@@ -35,7 +36,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.4.64.219|/eMark:1.5.1/|60011|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 36.255.188.80|/eMark:1.6.1.2/|60012|135115|36.255.188.0/24|BD|apnic|2016-02-23|WIMS1-AS-AP Wasiul Islam Mostazir ta WIMS ONLINE, BD
 45.142.176.172|/eMark:1.6.1/|60012|197540|45.142.176.0/22|DE|ripencc|2019-08-19|NETCUP-AS netcup GmbH, DE
-45.236.101.189|/eMark:1.5.1/|60011|266806|45.236.101.0/24|AR|lacnic|2018-05-09|DIAZ MARCELA ALEJANDRAPATAGONIA DIGITAL, AR
 45.236.101.218|/eMark:1.5.1/|60011|266806|45.236.101.0/24|AR|lacnic|2018-05-09|DIAZ MARCELA ALEJANDRAPATAGONIA DIGITAL, AR
 45.81.45.22|/eMark:1.6.1.2/|60012|62336|45.81.44.0/22|DE|ripencc|2019-05-17|PURTEL-AS # Upstream, DE
 46.114.95.88|/eMark:1.6.1.2/|60012|6805|46.114.0.0/15|DE|ripencc|2010-05-11|TDDE-ASN1, DE
@@ -60,6 +60,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.152.178.30|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.168.65.198|/eMark:1.5.1/|60011|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.171.243.69|/eMark:1.5.0/|60011|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.2.34.93|/eMark:1.6.0/|60011|15545|84.2.34.0/23|HU|ripencc|2004-09-17|MT-DC-AS EU. Hungary, HU
 85.15.179.171|/eMark:1.6.1/|60012|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
 85.19.25.38|/eMark:1.6.1/|60012|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
 87.0.97.140|/eMark:1.6.1.2/|60012|3269|87.0.0.0/16|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
@@ -69,7 +70,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.168.32.105|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.181.113.62|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.184.122.232|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
-87.184.123.19|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
+87.184.124.21|/eMark:1.6.1.2/|60012|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.211.227.205|/eMark:1.5.1/|60011|13127|87.211.0.0/16|NL|ripencc|2005-06-02|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
 88.126.202.24|/eMark:1.6.1.2/|60012|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
 89.163.255.142|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
