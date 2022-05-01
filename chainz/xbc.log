@@ -24,6 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.219.168.57|/bitcoinplus:2.8.2/|80016|42239|178.219.160.0/20|RU|ripencc|2010-06-04|FARLINE-AS, RU
 178.249.214.73|/bitcoinplus:2.8.3/|80016|212238|178.249.214.0/24|CZ|ripencc|2010-05-28|CDNEXT, GB
 178.71.208.118|/bitcoinplus:2.8.2/|80016|12389|178.70.0.0/15|RU|ripencc|2010-01-05|ROSTELECOM-AS, RU
+185.183.34.155|/bitcoinplus:2.8.2/|80016|49981|185.183.32.0/22|NL|ripencc|2016-12-20|WORLDSTREAM, NL
 185.199.103.62|/bitcoinplus:2.7.0/|80010|9009|185.199.103.0/24|DE|ripencc|2017-04-13|M247, GB
 185.246.210.196|/bitcoinplus:2.8.3/|80016|60068|185.246.210.0/24|GB|ripencc|2018-02-16|CDN77 ^_^, GB
 192.143.95.113|/bitcoinplus:2.8.3/|80016|37611|192.143.0.0/16|ZA|afrinic|2016-09-02|Afrihost, ZA
@@ -34,7 +35,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 198.50.176.148|/bitcoinplus:2.8.3/|80016|16276|198.50.128.0/17|CA|arin|2013-03-07|OVH, FR
 205.200.44.197|/bitcoinplus:2.8.3/|80016|7122|205.200.0.0/16|CA|arin|1995-03-31|MTS-ASN, CA
 207.180.230.75|/bitcoinplus:2.8.3/|80016|51167|207.180.230.0/23|DE|ripencc|1996-08-21|CONTABO, DE
-31.42.10.97|/bitcoinplus:2.8.3/|80016|49528|31.42.0.0/20|PL|ripencc|2011-03-03|ALFANET-PL-AS, PL
 38.122.193.19|/bitcoinplus:2.8.1/|80016|174|38.0.0.0/8|US|arin|1991-04-16|COGENT-174, US
 45.238.183.14|/bitcoinplus:2.8.2/|80016|266860|45.238.183.0/24|CO|lacnic|2018-07-20|CONEXION DIGITAL EXPRESS S.A.S., CO
 46.151.159.53|/bitcoinplus:2.8.1/|80016|50473|46.151.152.0/21|RU|ripencc|2010-12-06|ECO-AS, RU
@@ -53,16 +53,17 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.231.142.14|/bitcoinplus:2.8.2/|80016|7018|76.224.0.0/13|US|arin|2006-09-15|ATT-INTERNET4, US
 80.116.38.70|/bitcoinplus:2.8.3/|80016|3269|80.116.0.0/18|IT|ripencc|2001-08-06|ASN-IBSNAZ, IT
 80.75.64.74|/bitcoinplus:2.8.3/|80016|20860|80.75.64.0/20|GB|ripencc|2001-06-20|IOMART-AS, GB
-80.75.64.77|/bitcoinplus:2.8.3/|80016|20860|80.75.64.0/20|GB|ripencc|2001-06-20|IOMART-AS, GB
 81.197.108.52|/bitcoinplus:2.8.3/|80016|719|81.197.0.0/16|FI|ripencc|2002-09-30|ELISA-AS Helsinki, Finland, FI
 82.180.151.174|/bitcoinplus:2.8.3/|80016|136787|82.180.151.0/24|DE|ripencc|2003-10-09|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
 85.19.25.38|/bitcoinplus:2.8.3/|80016|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
+85.76.41.11|/bitcoinplus:2.8.3/|80016|719|85.76.0.0/14|FI|ripencc|2004-10-08|ELISA-AS Helsinki, Finland, FI
 86.101.113.216|/bitcoinplus:2.8.3/|80016|21334|86.101.0.0/17|HU|ripencc|2005-05-25|ASN-VODAFONE-, HU
 86.178.146.155|/bitcoinplus:2.8.3/|80016|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.181.15.181|/bitcoinplus:2.8.1/|80016|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 87.15.104.246|/bitcoinplus:2.8.1/|80016|3269|87.14.0.0/15|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
 89.142.65.211|/bitcoinplus:2.7.3/|80013|5603|89.142.64.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
 92.239.1.17|/bitcoinplus:2.8.3/|80016|5089|92.238.0.0/15|GB|ripencc|2007-10-31|NTL, GB
+92.55.161.117|/bitcoinplus:2.8.3/|80016|21299|92.55.160.0/21|KZ|ripencc|2008-03-14|KAR-TEL-AS Almaty, Republic of Kazakhstan, KZ
 92.56.223.202|/bitcoinplus:2.8.3/|80016|12479|92.56.216.0/21|ES|ripencc|2007-11-19|UNI2-AS, ES
 92.7.197.103|/bitcoinplus:2.8.2/|80016|13285|92.6.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
 93.70.15.199|/bitcoinplus:2.8.2/|80016|30722|93.70.0.0/16|IT|ripencc|2008-03-17|VODAFONE-IT-ASN, IT
