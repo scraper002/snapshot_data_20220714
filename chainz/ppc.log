@@ -22,6 +22,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.35.183.33|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|4134|121.32.0.0/14|CN|apnic|2006-05-18|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 121.98.52.216|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|9790|121.98.0.0/15|NZ|apnic|2007-09-24|VOCUSGROUPNZ VocusGroup, NZ
 122.228.157.92|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|4134|122.224.0.0/12|CN|apnic|2006-11-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+124.168.164.12|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|7545|124.168.160.0/19|AU|apnic|2006-03-20|TPG-INTERNET-AP TPG Telecom Limited, AU
 124.170.37.74|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7545|124.170.32.0/21|AU|apnic|2007-06-15|TPG-INTERNET-AP TPG Telecom Limited, AU
 128.199.40.35|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|14061|128.199.32.0/19|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 130.180.208.18|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|30781|130.180.208.0/20|FR|ripencc|2011-10-21|JAGUAR-AS, FR
@@ -50,7 +51,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.65.153.2|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|14061|159.65.144.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 159.69.37.17|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|24940|159.69.0.0/16|DE|ripencc|1992-03-13|HETZNER-AS, DE
 161.117.184.99|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|45102|161.117.128.0/17|SG|apnic|1992-07-09|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-161.81.107.217|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|137872|161.81.104.0/21|HK|apnic|1992-06-22|PEOPLESPHONE-HK China Mobile Hong Kong Company Limited, HK
 165.227.133.165|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|14061|165.227.128.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 167.172.215.202|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|14061|167.172.208.0/20|US|ripencc|1993-08-30|DIGITALOCEAN-ASN, US
 167.71.138.50|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|14061|167.71.128.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
@@ -103,7 +103,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.121.247.139|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16509|3.120.0.0/14|US|arin|2017-12-20|AMAZON-02, US
 31.28.12.26|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|29076|31.28.12.0/22|RU|ripencc|2011-02-10|CITYTELECOM-AS Filanco LTD, RU
 31.43.107.75|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|56433|31.43.96.0/19|UA|ripencc|2011-02-28|ASLANUA-NETWORK, UA
-37.166.83.214|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.167.157.182|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.173.12.105|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|51207|37.160.0.0/12|FR|ripencc|2012-03-08|FREEM, FR
 37.19.213.48|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|212238|37.19.212.0/23|GB|ripencc|2011-12-21|CDNEXT, GB
@@ -141,6 +140,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 70.106.237.52|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|701|70.106.192.0/18|US|arin|2004-09-21|UUNET, US
 70.55.94.160|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|577|70.55.0.0/16|CA|arin|2004-05-10|BACOM, CA
 70.91.250.149|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|7922|70.88.0.0/14|US|arin|2004-08-09|COMCAST-7922, US
+71.188.82.44|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|701|71.188.0.0/17|US|arin|2005-06-01|UUNET, US
 73.118.196.244|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.142.139.2|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.171.204.213|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -159,6 +159,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.73.64.39|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|3301|78.64.0.0/12|SE|ripencc|2007-03-09|TELIANET-SWEDEN Telia Company, SE
 78.99.35.191|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|6855|78.98.0.0/15|SK|ripencc|2007-05-02|SK-TELEKOM Slovak Telekom T-Mobile CZ, SK
 79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
+79.224.176.86|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.248.203.40|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.120.235.166|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|8447|80.120.0.0/14|AT|ripencc|2001-09-12|A1TELEKOM-AT A1 Telekom Austria AG, AT
 80.131.238.56|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
@@ -197,6 +198,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.91.238.135|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 98.212.200.200|/Satoshi:0.8.6/Peercoin:0.6.3/|70001|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.59.110.225|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|7922|98.32.0.0/11|US|arin|2007-06-06|COMCAST-7922, US
-98.97.8.78|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|14593|98.97.8.0/21|US|arin|2021-06-28|SPACEX-STARLINK, US
 99.148.47.138|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|7018|99.148.0.0/15|US|arin|2007-08-29|ATT-INTERNET4, US
 99.47.241.21|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|7018|99.32.0.0/12|US|arin|2008-02-25|ATT-INTERNET4, US
