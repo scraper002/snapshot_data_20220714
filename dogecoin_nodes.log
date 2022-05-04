@@ -218,6 +218,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.105.59.106|22556|/Shibetoshi:1.14.5(MishaBoar)/|63949|172.105.32.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 172.117.162.235|22556|/Shibetoshi:1.14.5/|20001|172.112.0.0/13|US|arin|2015-06-19|TWC-20001-PACWEST, US
 172.117.219.104|22556|/Shibetoshi:1.14.5/|20001|172.112.0.0/13|US|arin|2015-06-19|TWC-20001-PACWEST, US
+172.119.99.186|22556|/Shibetoshi:1.14.4/|20001|172.112.0.0/13|US|arin|2015-06-19|TWC-20001-PACWEST, US
 172.248.84.221|22556|/Shibetoshi:1.14.5/|20001|172.248.0.0/14|US|arin|2013-03-13|TWC-20001-PACWEST, US
 172.90.46.47|22556|/Shibetoshi:1.14.5/|20001|172.88.0.0/14|US|arin|2015-05-15|TWC-20001-PACWEST, US
 172.92.148.249|22556|/Shibetoshi:1.14.5/|11404|172.92.0.0/16|US|arin|2015-05-26|AS-WAVE-1, US
@@ -432,7 +433,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.188.7.153|22556|/Shibetoshi:1.14.5/|20454|209.188.0.0/19|US|arin|2004-05-18|SSASN2, US
 209.97.133.232|22556|/Shibetoshi:1.14.5/|14061|209.97.128.0/20|US|arin|1997-07-03|DIGITALOCEAN-ASN, US
 210.54.36.108|22556|/Shibetoshi:1.14.5/|4771|210.54.32.0/21|NZ|apnic|2000-05-11|SPARKNZ Spark New Zealand Trading Ltd., NZ
-210.6.252.37|22556|/Shibetoshi:1.14.5/|9269|210.6.192.0/18|HK|apnic|2001-10-10|HKBN-AS-AP Hong Kong Broadband Network Ltd., HK
 211.75.215.82|22556|/Shibetoshi:1.14.5/|3462|211.75.0.0/16|TW|apnic|1999-11-23|HINET Data Communication Business Group, TW
 211.75.215.83|22556|/Shibetoshi:1.14.5/|3462|211.75.0.0/16|TW|apnic|1999-11-23|HINET Data Communication Business Group, TW
 212.227.73.216|22556|/Shibetoshi:1.14.5/|8560|212.227.0.0/16|DE|ripencc|1998-09-10|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
@@ -476,6 +476,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 23.108.102.27|22556|/Shibetoshi:1.14.3/|59253|23.108.96.0/21|SG|apnic|2013-07-24|LEASEWEB-APAC-SIN-11 Leaseweb Asia Pacific pte. ltd., SG
 23.114.235.154|22556|/Shibetoshi:1.14.5/|7018|23.112.0.0/12|US|arin|2013-08-09|ATT-INTERNET4, US
 23.115.46.142|22556|/Shibetoshi:1.14.4/|7018|23.112.0.0/12|US|arin|2013-08-09|ATT-INTERNET4, US
+23.233.55.92|22556|/Shibetoshi:1.14.5/|5645|23.233.0.0/17|CA|arin|2013-09-24|TEKSAVVY, CA
 23.239.15.210|22445|/Pandoshi:3.0.7.2/|63949|23.239.8.0/21|US|arin|2013-10-23|LINODE-AP Linode, LLC, US
 23.239.31.246|22556|/Shibetoshi:1.14.5/|63949|23.239.28.0/22|US|arin|2013-10-23|LINODE-AP Linode, LLC, US
 23.240.182.8|22556|/Shibetoshi:1.14.5/|20001|23.240.0.0/14|US|arin|2013-09-20|TWC-20001-PACWEST, US
@@ -577,6 +578,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:13b:329d::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:141:22cb::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:150:608e::2|22556|/Shibetoshi:1.14.4/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f8:150:6197::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:151:2064::2|22556|/Shibetoshi:1.14.5/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:162:34ef::2|22556|/Shibetoshi:1.14.5/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f8:171:16af::2|22556|/Shibetoshi:1.14.0/|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -610,7 +612,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:2e81::2|22556|/Shibetoshi:1.14.5/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|22556|/Shibetoshi:1.10.0/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3a:169d::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
-2a01:4f9:3a:2913::2|22556|/Shibetoshi:1.14.2/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:1f86::2|22556|/Shibetoshi:1.14.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:2bc9::2|22556|/Shibetoshi:1.14.5/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:4fe9::2|22556|/Shibetoshi:1.14.5(DLu6ZaDeWTz8AvGF15bhwwmpbtj7ELjAQc)/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -1028,6 +1029,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 74.128.202.100|22556|/Shibetoshi:1.14.5/|10796|74.128.0.0/12|US|arin|2006-04-07|TWC-10796-MIDWEST, US
 74.194.128.136|22556|/Shibetoshi:1.14.5/|19108|74.194.128.0/19|US|arin|2006-09-27|SUDDENLINK-COMMUNICATIONS, US
 74.206.150.120|22556|/Shibetoshi:1.14.5/|21804|74.206.150.0/24|CA|arin|2006-10-13|ACCESS-SK, CA
+74.207.241.145|22556|/Shibetoshi:1.14.5(squeep)/|63949|74.207.241.0/24|US|arin|2009-01-14|LINODE-AP Linode, LLC, US
 74.208.212.42|22556|/Shibetoshi:1.14.5/|8560|74.208.0.0/16|US|arin|2006-11-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 74.208.33.181|22556|/Shibetoshi:1.14.5/|8560|74.208.0.0/16|US|arin|2006-11-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
 74.208.37.237|22556|/Shibetoshi:1.14.5/|8560|74.208.0.0/16|US|arin|2006-11-22|IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE., DE
