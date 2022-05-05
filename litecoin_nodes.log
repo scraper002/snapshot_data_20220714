@@ -433,6 +433,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:41d0:a:7a5e::|9027|/Satoshi:0.8.6.2/|16276|2001:41d0::/32|FR|ripencc|2004-11-15|OVH, FR
 2001:470:6f:579:52af:73ff:fe24:eb23|9333|/LitecoinCore:0.21.1/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
 2001:470:8b1a:2::20|9333|/LitecoinCore:0.18.1/|6939|2001:470::/32|US|arin|2001-03-22|HURRICANE, US
+2001:56a:f411:8300:a476:6d13:1fda:4423|9333|/LitecoinCore:0.17.1/|852|2001:56a:8000::/33|CA|arin|2003-01-09|TELUS Communications, CA
 2001:67c:200c:226:da9d:67ff:fe19:2738|9333|/LitecoinCore:0.18.1/|51408|2001:67c:200c::/48|RU|ripencc|2011-01-14|SIRIUS-AS, RU
 2001:67c:2b0:db32:0:1:504f:7222|9333|/LitecoinCore:0.17.1/|29432|2001:67c:2b0::/48|FI|ripencc|2010-08-10|TREX-AS, FI
 2001:7d0:8437:6f01:222:7ff:fefa:fbfd|9333|/LitecoinCore:0.21.1/|3249|2001:7d0::/32|EE|ripencc|2002-05-16|ESTPAK, EE
@@ -628,6 +629,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:1bde::2|9333|/LitecoinCore:0.17.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2449::2|13853|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:2e6f::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
+2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:1f86::2|9333|/LitecoinCore:0.21.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
 2a01:4f9:3b:2bc9::2|9333|/LitecoinCore:0.18.1/|24940|2a01:4f9::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE
@@ -865,6 +867,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 50.116.19.40|10332|/DefcoinCore:1.0.0/|63949|50.116.16.0/20|US|arin|2011-08-30|LINODE-AP Linode, LLC, US
 50.68.220.85|9333|/LitecoinCore:0.18.1/|6327|50.68.220.0/22|CA|arin|2010-10-28|SHAW, CA
 50.92.117.149|9333|/LitecoinCore:0.18.1/|852|50.92.0.0/16|CA|arin|2011-02-04|TELUS Communications, CA
+50.99.50.29|9333|/LitecoinCore:0.17.1/|852|50.99.0.0/16|CA|arin|2011-03-31|TELUS Communications, CA
 51.15.176.153|9333|/LitecoinCore:0.18.1/|12876|51.15.0.0/16|FR|ripencc|1993-09-01|Online SAS, FR
 51.15.21.149|9333|/LitecoinCore:0.17.1/|12876|51.15.0.0/17|FR|ripencc|1993-09-01|Online SAS, FR
 51.161.131.90|9345|/StuiverCore:0.16.3/|16276|51.161.128.0/17|CA|arin|2019-09-03|OVH, FR
@@ -1008,7 +1011,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.201.68.177|9333|/LitecoinCore:0.18.1/|22773|72.201.0.0/16|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
 72.225.30.5|9333|/LitecoinCore:0.18.1/|11351|72.225.0.0/18|US|arin|2005-07-21|TWC-11351-NORTHEAST, US
 73.111.229.10|9333|/LitecoinCore:0.18.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
-73.125.68.18|9333|/LitecoinCore:0.18.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.128.207.8|9333|/LitecoinCore:0.18.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.130.216.194|9333|/LitecoinCore:0.18.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
 73.152.233.100|9333|/LitecoinCore:0.18.1/|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
@@ -1100,7 +1102,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.163.145.240|9333|/LitecoinCore:0.18.1/|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.185.100.230|9334|/PLNcoin:0.10.2.2/|24953|89.185.96.0/19|AT|ripencc|2006-04-07|ASN-NETPLANET AS MACRO: AS-24953 customers, AT
 89.207.131.19|9333|/LitecoinCore:0.18.1/|62370|89.207.128.0/21|NL|ripencc|2008-12-05|SNEL, NL
-89.212.5.80|9333|/LitecoinCore:0.16.3/|34779|89.212.0.0/18|SI|ripencc|2006-05-03|T-2-AS AS set propagated by T-2 d.o.o., SI
 89.216.21.96|9333|/LitecoinCore:0.16.3/|31042|89.216.0.0/17|RS|ripencc|2006-06-21|SERBIA-BROADBAND-AS Serbia BroadBand-Srpske Kablovske mreze d.o.o., RS
 89.238.77.110|9333|/LitecoinCore:0.17.1/|34240|89.238.64.0/18|DE|ripencc|2006-07-21|MANITU, DE
 89.247.53.187|9333|/LitecoinCore:0.18.1/|8881|89.247.48.0/20|DE|ripencc|2006-05-04|VERSATEL, DE
