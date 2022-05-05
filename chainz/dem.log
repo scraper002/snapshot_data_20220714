@@ -16,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.203.144.197|/eMark:1.6.1.2/|60012|3209|178.202.0.0/15|DE|ripencc|2010-03-16|VODANET International IP-Backbone of Vodafone, DE
 178.238.229.124|/eMark:1.6.1.2/|60012|51167|178.238.228.0/23|DE|ripencc|2010-07-28|CONTABO, DE
 178.254.43.126|/eMark:1.6.1.2/|60012|42730|178.254.32.0/20|DE|ripencc|2010-06-18|EVANZOAS, DE
+188.17.207.108|/eMark:1.6.1.2/|60012|12389|188.17.192.0/20|RU|ripencc|2009-02-03|ROSTELECOM-AS, RU
 188.192.40.77|/eMark:1.5.1/|60011|3209|188.192.0.0/14|DE|ripencc|2009-06-08|VODANET International IP-Backbone of Vodafone, DE
 194.99.91.247|/eMark:1.6.1.2/|60012|62336|194.99.91.0/24|DE|ripencc|2019-11-22|PURTEL-AS # Upstream, DE
 195.90.208.175|/eMark:1.6.1.2/|60012|42730|195.90.192.0/18|DE|ripencc|1997-04-22|EVANZOAS, DE
@@ -27,7 +28,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.124.7.231|/eMark:1.6.1.2/|60012|12389|212.124.7.0/24|RU|ripencc|2008-05-29|ROSTELECOM-AS, RU
 213.136.80.217|/eMark:1.6.1.2/|60012|51167|213.136.80.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.151.19.53|/eMark:1.6.1.2/|60012|31499|213.151.16.0/20|RU|ripencc|2008-03-13|YCC-AS -- iHome --, RU
-213.151.2.201|/eMark:1.6.1.2/|60012|31499|213.151.2.0/24|RU|ripencc|2008-03-13|YCC-AS -- iHome --, RU
 213.217.17.189|/eMark:1.6.1.2/|60012|35805|213.217.16.0/22|GE|ripencc|2018-11-08|SILKNET-AS Silknet Autonomous System, GE
 213.238.94.170|/eMark:1.6.1.2/|60012|12741|213.238.64.0/18|PL|ripencc|2001-03-07|AS-NETIA Warszawa 02-822, PL
 213.238.94.192|/eMark:1.6.1.2/|60012|12741|213.238.64.0/18|PL|ripencc|2001-03-07|AS-NETIA Warszawa 02-822, PL
@@ -49,7 +49,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.178.190.6|/eMark:1.5.1/|60011|8412|62.178.128.0/17|AT|ripencc|2000-09-18|TMA Magenta Telekom, AT
 69.180.65.143|/eMark:1.6.1.2/|60012|7922|69.180.0.0/15|US|arin|2004-02-18|COMCAST-7922, US
 77.166.187.79|/eMark:1.6.1.2/|60012|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, NL
-77.68.145.68|/eMark:1.5.1/|60011|43557|77.68.128.0/17|DK|ripencc|2007-02-07|ASEMNET, DK
 78.26.176.4|/eMark:1.6.1.2/|60012|34187|78.26.128.0/18|UA|ripencc|2007-08-29|RENOME-AS, UA
 79.211.160.249|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.211.162.36|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
@@ -105,7 +104,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.41.132.84|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.134.140|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.134.209|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
-91.41.134.30|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.41.134.71|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
+91.41.135.219|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.136.10|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.136.113|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.136.162|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
