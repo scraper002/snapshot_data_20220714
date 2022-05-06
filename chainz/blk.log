@@ -3,6 +3,7 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.14.146.223|/Blackcoin More:2.13.2.9/|70013|45090|1.14.128.0/18|CN|apnic|2010-05-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 101.33.235.35|/Blackcoin More:2.13.2.9/|70013|45090|101.33.192.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+103.119.62.17|???|0|63859|103.119.62.0/24|ID|apnic|2018-07-17|MYREPUBLIC-AS-ID PT. Eka Mas Republik, ID
 104.238.221.41|Blackcoin More:2.13.2.8|70713|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
 113.118.18.232|/Blackcoin More:2.13.2.7/|70013|4134|113.112.0.0/13|CN|apnic|2008-11-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 114.139.2.33|/Blackcoin More:2.13.2.7/|70013|4134|114.138.0.0/15|CN|apnic|2008-06-12|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -34,7 +35,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.248.60.88|/Satoshi:2.12.1/|70012|6167|174.248.60.0/22|US|arin|2008-12-16|CELLCO-PART, US
 176.10.172.70|/Blackcoin More:2.13.2.9/|70013|8473|176.10.128.0/17|SE|ripencc|2011-05-18|BAHNHOF www.bahnhof.net, SE
 176.227.241.20|/Blackcoin More:2.13.2.6/|70013|209854|176.227.241.0/24|DE|ripencc|2018-07-04|SURFSHARK, VG
-176.227.241.32|/Blackcoin More:2.13.2.6/|70013|209854|176.227.241.0/24|DE|ripencc|2018-07-04|SURFSHARK, VG
 181.126.229.160|/Blackcoin More:2.13.2.8/|70013|23201|181.124.0.0/14|PY|lacnic|2012-06-20|Telecel S.A., PY
 181.165.59.139|/Blackcoin More:2.13.2.9/|70013|7303|181.164.0.0/15|AR|lacnic|2011-12-28|Telecom Argentina S.A., AR
 183.227.16.113|/Blackcoin More:2.13.2.8/|70013|9808|183.227.16.0/24|CN|apnic|2009-11-08|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
@@ -49,7 +49,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 199.127.62.235|Blackcoin More:2.13.2.8|70713|23470|199.127.62.0/24|US|arin|2017-05-24|RELIABLESITE, US
 199.241.187.130|/Blackcoin More:2.13.2.7/|70013|31863|199.241.184.0/21|US|arin|2012-07-30|DACEN-2, US
 199.96.237.202|/Blackcoin More:2.13.2.8/|70013|16904|199.96.236.0/22|US|arin|2011-02-23|ARVIG, US
-2.203.85.87|/Blackcoin More:2.13.2.8/|70013|3209|2.200.0.0/13|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
 20.73.195.154|/Blackcoin More:2.13.2.8/|70013|8075|20.64.0.0/10|US|arin|2017-10-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
 213.114.228.96|/Blackcoin More:2.13.2.8/|70013|2119|213.112.0.0/14|SE|ripencc|2000-12-15|TELENOR-NEXTEL Telenor Norge AS, NO
 216.73.161.39|/Blackcoin More:2.13.2.9/|70013|206092|216.73.160.0/23|US|arin|2021-10-04|SECFIREWALLAS, GB
@@ -70,6 +69,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.213.10.22|/Blackcoin More:2.13.2.9/|70013|12389|62.213.0.0/19|RU|ripencc|2000-07-18|ROSTELECOM-AS, RU
 62.240.134.93|/Blackcoin More:2.13.2.8/|70013|51265|62.240.128.0/19|AT|ripencc|2000-06-27|MASSRESPONSE-AS2 Mass Response Service GmbH, AT
 64.231.116.238|/Blackcoin More:2.13.2.9/|70013|577|64.231.0.0/16|CA|arin|2000-02-15|BACOM, CA
+65.31.33.212|/Satoshi:2.12.1/|70012|10796|65.31.32.0/19|US|arin|2000-08-22|TWC-10796-MIDWEST, US
 66.115.182.107|/Blackcoin More:2.13.2.8/|70013|46562|66.115.182.0/24|US|arin|2001-05-09|PERFORMIVE, US
 66.115.182.110|???|0|46562|66.115.182.0/24|US|arin|2001-05-09|PERFORMIVE, US
 66.115.182.111|/Blackcoin More:2.13.2.8/|70013|46562|66.115.182.0/24|US|arin|2001-05-09|PERFORMIVE, US
@@ -97,6 +97,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.162.114.25|/Blackcoin More:2.13.2.8/|70013|57093|81.162.112.0/22|UA|ripencc|2011-12-07|ASYALTA, UA
 81.69.250.50|/Blackcoin More:2.13.2.7/|70013|45090|81.69.192.0/18|CN|apnic|2002-01-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 83.135.241.60|/Blackcoin More:2.13.2.7/|70013|8881|83.135.240.0/22|DE|ripencc|2004-01-28|VERSATEL, DE
+83.84.134.161|/Blackcoin More:2.13.2.7/|70013|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 83.85.142.36|/Blackcoin More:2.13.2.9/|70013|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.115.232.154|/Blackcoin More:2.13.2.9/|70013|8412|84.114.0.0/15|AT|ripencc|2004-04-07|TMA Magenta Telekom, AT
 84.174.236.199|/Blackcoin More:2.13.2.8/|70013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
