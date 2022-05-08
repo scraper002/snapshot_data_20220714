@@ -15,7 +15,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 113.246.187.75|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|4134|113.240.0.0/13|CN|apnic|2008-12-16|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 114.125.20.216|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|23693|114.125.0.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.125.7.255|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|23693|114.125.0.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
-114.43.23.77|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3462|114.43.0.0/16|TW|apnic|2008-04-18|HINET Data Communication Business Group, TW
 119.45.242.241|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|45090|119.45.240.0/20|CN|apnic|2008-01-03|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 121.98.52.216|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|9790|121.98.0.0/15|NZ|apnic|2007-09-24|VOCUSGROUPNZ VocusGroup, NZ
 124.170.37.74|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|7545|124.170.32.0/21|AU|apnic|2007-06-15|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -53,6 +52,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 165.227.133.165|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|14061|165.227.128.0/20|US|arin|2016-10-06|DIGITALOCEAN-ASN, US
 167.172.215.202|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|14061|167.172.208.0/20|US|ripencc|1993-08-30|DIGITALOCEAN-ASN, US
 167.71.138.50|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|14061|167.71.128.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
+170.51.201.242|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|11664|170.51.201.0/24|AR|lacnic|1994-02-10|Techtel LMDS Comunicaciones Interactivas S.A., AR
 174.138.15.177|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|14061|174.138.0.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
 174.21.12.181|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|209|174.21.0.0/16|US|arin|2009-02-17|CENTURYLINK-US-LEGACY-QWEST, US
 176.142.28.58|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|5410|176.128.0.0/10|FR|ripencc|2011-07-06|BOUYGTEL-ISP, FR
@@ -98,6 +98,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.45.40.84|/Satoshi:0.20.2/Peercoin:0.10.3/|70015|7122|206.45.0.0/16|CA|arin|1995-06-06|MTS-ASN, CA
 212.51.157.141|/Satoshi:0.6.3/Peercoin:0.5.0/Peerunity:0.2.2/|60006|13030|212.51.144.0/20|CH|ripencc|2008-05-06|INIT7, CH
 212.83.170.25|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|12876|212.83.160.0/19|FR|ripencc|2000-01-25|Online SAS, FR
+212.83.56.180|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|47447|212.83.32.0/19|DE|ripencc|2008-06-24|TTM, DE
 213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|43284|213.159.80.0/20|CH|ripencc|2000-03-01|IWB-TELEKOM Industrielle Werke Basel, CH
 213.164.214.37|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|8473|213.164.192.0/19|SE|ripencc|2004-09-27|BAHNHOF www.bahnhof.net, SE
 213.55.242.237|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|15796|213.55.128.0/17|CH|ripencc|2000-10-12|SALT-, CH
@@ -168,7 +169,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.99.35.191|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|6855|78.98.0.0/15|SK|ripencc|2007-05-02|SK-TELEKOM Slovak Telekom T-Mobile CZ, SK
 79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
 79.224.176.86|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
-79.225.156.157|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
+79.30.31.150|/Satoshi:0.8.6/Peercoin:0.7.2/|70002|3269|79.30.0.0/15|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
 80.120.235.166|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|8447|80.120.0.0/14|AT|ripencc|2001-09-12|A1TELEKOM-AT A1 Telekom Austria AG, AT
 80.141.32.224|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.218.170.51|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|6830|80.218.0.0/16|CH|ripencc|2002-04-04|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
