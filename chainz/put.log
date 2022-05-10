@@ -27,12 +27,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.62.114.74|Satoshi:1.0.0|60013|14061|178.62.64.0/18|US|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 178.79.169.181|/Satoshi:1.0.0/|60013|63949|178.79.128.0/18|US|ripencc|2010-05-10|LINODE-AP Linode, LLC, US
 178.79.170.166|/Satoshi:1.0.0/|60013|63949|178.79.128.0/18|US|ripencc|2010-05-10|LINODE-AP Linode, LLC, US
-180.190.152.67|/Satoshi:1.0.0/|60013|132199|180.190.152.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 180.190.154.132|/Satoshi:1.0.0/|60013|132199|180.190.152.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 180.190.156.149|/Satoshi:1.0.0/|60013|132199|180.190.156.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
-180.190.159.77|/Satoshi:1.0.0/|60013|132199|180.190.156.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 180.190.219.66|/Satoshi:1.0.0/|60013|132199|180.190.216.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
-180.190.222.243|/Satoshi:1.0.0/|60013|132199|180.190.222.0/23|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 185.168.9.241|/Satoshi:1.0.0/|60013|9009|185.168.9.0/24|DE|ripencc|2016-09-14|M247, GB
 185.43.191.237|/Satoshi:1.0.0/|60013|201167|185.43.191.0/24|AZ|ripencc|2013-12-20|CASTEL-AS, AZ
 193.106.163.80|/Satoshi:1.0.0/|60013|43936|193.106.162.0/23|UA|ripencc|2010-01-11|EVPANET-AS, UA
@@ -70,11 +67,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.188.192.138|/Satoshi:1.0.0/|60013|16509|54.188.0.0/15|US|arin|2014-10-23|AMAZON-02, US
 54.38.18.241|/Satoshi:1.0.0/|60013|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
 62.158.220.3|/Satoshi:1.0.0/|60013|3320|62.156.0.0/14|DE|ripencc|1999-03-05|DTAG Internet service provider operations, DE
+62.227.149.46|/Satoshi:1.0.0/|60013|3320|62.224.0.0/14|DE|ripencc|2000-05-12|DTAG Internet service provider operations, DE
+62.227.159.140|/Satoshi:1.0.0/|60013|3320|62.224.0.0/14|DE|ripencc|2000-05-12|DTAG Internet service provider operations, DE
 62.89.24.205|/Satoshi:1.0.0/|60013|49800|62.89.0.0/19|AM|ripencc|2004-12-14|GNC-ALFA GNC Alfa CJSC Rostelecom Armenia, AM
 77.122.104.85|/Satoshi:1.0.0/|60013|25229|77.122.0.0/17|UA|ripencc|2006-11-24|VOLIA-AS, UA
 79.144.143.36|/Satoshi:1.0.0/|60013|3352|79.144.0.0/16|ES|ripencc|2007-06-07|TELEFONICA_DE_ESPANA, ES
 80.85.86.106|/Satoshi:1.0.0/|60013|63949|80.85.84.0/22|US|ripencc|2003-05-19|LINODE-AP Linode, LLC, US
 82.118.29.9|/Satoshi:1.0.0/|60013|206092|82.118.29.0/24|SE|ripencc|2011-08-30|SECFIREWALLAS, GB
+84.159.146.164|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.159.156.106|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.159.156.45|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.159.158.200|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
@@ -84,6 +84,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.160.121.240|/Satoshi:1.0.0/|60013|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.165.88.151|/Satoshi:1.0.0/|60013|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.130.157.30|/Satoshi:1.0.0/|60013|8881|88.130.157.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
+89.0.2.32|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.0.252.135|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.0.4.140|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 90.189.119.21|/Satoshi:1.0.0/|60013|12389|90.189.112.0/20|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
@@ -94,6 +95,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.224.70.2|/Satoshi:1.0.0/|60013|13026|91.224.70.0/23|AT|ripencc|2011-02-04|K-WLAN-AS, AT
 91.97.222.196|/Satoshi:1.0.0/|60013|9145|91.96.0.0/15|DE|ripencc|2006-08-30|EWETEL Cloppenburger Strasse 310, DE
 92.37.216.251|/Satoshi:1.0.0/|60013|12389|92.37.216.0/21|RU|ripencc|2008-01-18|ROSTELECOM-AS, RU
+92.86.39.130|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.39.206|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.55.8|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.131.79.68|/Satoshi:1.0.0/|60013|6805|93.128.0.0/13|DE|ripencc|2008-04-14|TDDE-ASN1, DE
