@@ -5,6 +5,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 103.73.188.57|/Satoshi:1.0.0/|60013|135752|103.73.188.0/24|IN|apnic|2016-08-30|EVOKEDS-AS Evoke Digital Solutions, IN
 104.238.221.41|Satoshi:1.0.0|60013|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
 109.245.225.94|/Satoshi:1.0.0/|60013|15958|109.245.0.0/16|RS|ripencc|2009-12-23|CETIN_DOO_AS CETINdoo-NET, RS
+109.245.34.232|/Satoshi:1.0.0/|60013|15958|109.245.0.0/16|RS|ripencc|2009-12-23|CETIN_DOO_AS CETINdoo-NET, RS
 109.250.189.172|/Satoshi:1.0.0/|60013|8881|109.250.160.0/19|DE|ripencc|2009-12-01|VERSATEL, DE
 120.154.65.247|/Satoshi:1.0.0/|60013|1221|120.152.0.0/14|AU|apnic|2008-04-09|ASN-TELSTRA Telstra Corporation Ltd, AU
 13.214.86.135|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
@@ -67,7 +68,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 49.204.162.209|/Satoshi:1.0.0/|60013|18209|49.204.160.0/22|IN|apnic|2010-12-06|BEAMTELE-AS-AP Atria Convergence Technologies pvt ltd, IN
 54.188.192.138|/Satoshi:1.0.0/|60013|16509|54.188.0.0/15|US|arin|2014-10-23|AMAZON-02, US
 54.38.18.241|/Satoshi:1.0.0/|60013|16276|54.38.0.0/16|FR|ripencc|1992-03-17|OVH, FR
-62.158.220.3|/Satoshi:1.0.0/|60013|3320|62.156.0.0/14|DE|ripencc|1999-03-05|DTAG Internet service provider operations, DE
 62.227.149.46|/Satoshi:1.0.0/|60013|3320|62.224.0.0/14|DE|ripencc|2000-05-12|DTAG Internet service provider operations, DE
 62.227.159.140|/Satoshi:1.0.0/|60013|3320|62.224.0.0/14|DE|ripencc|2000-05-12|DTAG Internet service provider operations, DE
 62.89.24.205|/Satoshi:1.0.0/|60013|49800|62.89.0.0/19|AM|ripencc|2004-12-14|GNC-ALFA GNC Alfa CJSC Rostelecom Armenia, AM
@@ -76,6 +76,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.34.106.116|/Satoshi:1.0.0/|60013|8422|78.34.0.0/15|DE|ripencc|2007-03-08|NETCOLOGNE, DE
 79.144.143.36|/Satoshi:1.0.0/|60013|3352|79.144.0.0/16|ES|ripencc|2007-06-07|TELEFONICA_DE_ESPANA, ES
 80.85.86.106|/Satoshi:1.0.0/|60013|63949|80.85.84.0/22|US|ripencc|2003-05-19|LINODE-AP Linode, LLC, US
+84.0.242.232|/Satoshi:1.0.0/|60013|5483|84.0.0.0/14|HU|ripencc|2004-09-17|MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Nyrt., HU
 84.159.146.164|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.159.156.106|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.159.156.45|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
@@ -89,7 +90,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.130.156.206|/Satoshi:1.0.0/|60013|8881|88.130.156.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.130.157.30|/Satoshi:1.0.0/|60013|8881|88.130.157.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 89.0.2.32|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
-89.0.252.135|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.0.3.49|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 90.189.119.21|/Satoshi:1.0.0/|60013|12389|90.189.112.0/20|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
 90.243.16.118|/Satoshi:1.0.0/|60013|5378|90.240.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
@@ -112,3 +112,4 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.222.228.67|/Satoshi:1.0.0/|60013|3209|95.222.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
 95.223.12.12|/Satoshi:1.0.0/|60013|3209|95.223.0.0/16|DE|ripencc|2009-03-24|VODANET International IP-Backbone of Vodafone, DE
 95.33.164.228|/Satoshi:1.0.0/|60013|9145|95.33.0.0/16|DE|ripencc|2008-11-03|EWETEL Cloppenburger Strasse 310, DE
+95.70.56.2|/Satoshi:1.0.0/|60013|12389|95.70.0.0/18|RU|ripencc|2008-11-21|ROSTELECOM-AS, RU
