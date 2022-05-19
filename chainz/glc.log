@@ -7,6 +7,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 102.89.34.243|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|29465|102.89.34.0/24|NG|afrinic|2018-09-04|VCG-AS, NG
 103.10.67.153|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45727|103.10.67.0/24|ID|apnic|2011-06-08|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 103.100.174.158|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|136841|103.100.174.0/24|ID|apnic|2017-09-08|MTMBALI-AS-ID PT MITRA TELEMEDIA MANUNGGAL, ID
+103.107.198.101|/GoldcoinCore:0.14.8/|70015|137409|103.107.198.0/24|AU|apnic|2018-01-17|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 103.108.31.77|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45727|103.108.31.0/24|ID|apnic|2018-01-22|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 103.133.56.221|/GoldcoinCore:0.14.8/|70015|138131|103.133.56.0/24|ID|apnic|2019-01-22|IDNIC-NATANET-AS-ID CV. NATANETWORK SOLUTION, ID
 103.143.244.11|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|132637|103.143.244.0/24|ID|apnic|2019-10-09|BITSNET-AS-ID PT BINA INFORMATIKA SOLUSI, ID
@@ -41,6 +42,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.4.218.130|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.4.216.0/22|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.4.221.121|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.4.220.0/22|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.103.139|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.103.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
+114.5.105.15|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.105.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
+114.5.105.98|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.105.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.109.212|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.108.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.208.117|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.208.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.223.33|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|4761|114.5.222.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
@@ -51,7 +54,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 125.167.110.214|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|7713|125.167.110.0/23|ID|apnic|2007-08-24|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 139.47.90.15|/GoldcoinCore:0.14.8/|70015|15704|139.47.0.0/17|ES|ripencc|1990-06-19|AS15704, ES
 140.213.148.225|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|140.213.148.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
-140.213.168.44|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|140.213.168.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.5.238|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|140.213.5.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 140.213.64.153|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|24203|140.213.64.0/24|ID|apnic|2011-03-15|NAPXLNET-AS-ID PT XL Axiata, ID
 142.132.199.6|/GoldcoinCore:0.14.8/|70015|24940|142.132.128.0/17|DE|ripencc|1990-03-26|HETZNER-AS, DE
@@ -59,8 +61,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 144.76.172.181|/GoldcoinCore:0.14.8/|70015|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 144.91.116.146|/GoldcoinCore:0.14.8/|70015|51167|144.91.116.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 144.91.82.187|/GoldcoinCore:0.14.8/|70015|51167|144.91.82.0/23|DE|ripencc|1990-11-20|CONTABO, DE
-147.135.97.55|/GoldcoinCore:0.14.8/|70015|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
-149.56.155.28|/GoldcoinCore:0.14.8/|70015|16276|149.56.0.0/16|CA|arin|2016-02-09|OVH, FR
+147.135.97.55|/GoldcoinCore:0.14.8/|70015||||||
+149.56.155.28|/GoldcoinCore:0.14.8/|70015||||||
 149.97.194.74|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|16553|149.97.192.0/22|US|arin|2016-08-03|EQUINIX-EC-MI, US
 158.69.25.32|/GoldcoinCore:0.14.8/|70015|16276|158.69.0.0/16|CA|arin|2015-06-15|OVH, FR
 161.97.187.4|/GoldcoinCore:0.14.7/|70015|51167|161.97.184.0/22|DE|ripencc|1992-06-23|CONTABO, DE
@@ -73,7 +75,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.243.0.212|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.243.0.0/20|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.244.128.125|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.244.128.0/20|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.244.163.243|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.244.160.0/20|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
-180.249.127.139|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.249.126.0/23|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.249.184.249|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.249.184.0/22|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.249.186.174|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.249.184.0/22|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 180.249.77.145|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|7713|180.249.72.0/21|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
@@ -99,7 +100,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.222.139.154|/GoldcoinCore:0.14.8/|70015|1403|192.222.128.0/19|CA|arin|2012-12-20|EBOX, CA
 196.189.190.195|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24757|196.188.0.0/14|ET|afrinic|2015-10-12|EthioNet-AS, ET
 197.210.227.252|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|29465|197.210.227.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
-197.210.29.57|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|29465|197.210.29.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.71.42|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|29465|197.210.71.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.8.236|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|29465|197.210.8.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
 197.210.8.28|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|29465|197.210.8.0/24|NG|afrinic|2013-03-06|VCG-AS, NG
@@ -110,7 +110,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 203.78.121.80|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|24203|203.78.121.0/24|ID|apnic|2005-12-09|NAPXLNET-AS-ID PT XL Axiata, ID
 205.149.145.144|/GoldcoinCore:0.14.8/|70015|14371|205.149.144.0/20|US|arin|2004-05-13|PBNET, US
 210.210.156.152|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4787|210.210.156.0/23|ID|apnic|2004-01-14|ASN-CBN PT Cyberindo Aditama, ID
-216.137.116.136|/GoldcoinCore:0.14.8/|70015|19515|216.137.96.0/19|CA|arin|2004-02-02|ORICOM-QUEBEC1, CA
+216.137.116.136|/GoldcoinCore:0.14.8/|70015||||||
 218.225.237.113|/goldwallet:1.0.9/|70000|4686|218.225.224.0/20|JP|apnic|2001-11-15|BEKKOAME BEKKOAME INTERNET INC., JP
 23.126.185.88|/GoldcoinCore:0.14.8/|70015|7018|23.112.0.0/12|US|arin|2013-08-09|ATT-INTERNET4, US
 23.227.150.229|/GoldcoinCore:0.14.8/|70015|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
@@ -130,7 +130,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 41.87.71.50|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|37248|41.87.64.0/19|NG|afrinic|2010-08-06|PHASE3TEL, NG
 45.153.35.147|/GoldcoinCore:0.14.8/|70015|44592|45.153.35.0/24|DE|ripencc|2019-09-13|SKYLINK, NL
 49.156.23.242|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|134630|49.156.23.0/24|ID|apnic|2015-11-05|PALAPANET-AS-ID PT Palapa Global Nusantara, ID
-5.188.104.245|/GoldcoinCore:0.14.8/|70015|199860|5.188.104.0/23|RU|ripencc|2012-08-09|XELENT-AS, RU
+5.188.104.245|/GoldcoinCore:0.14.8/|70015||||||
 50.220.121.211|/GoldcoinCore:0.14.8/|70015|7922|50.128.0.0/9|US|arin|2010-10-21|COMCAST-7922, US
 51.158.145.152|/GoldcoinCore:0.14.7/|70015|12876|51.158.128.0/17|FR|ripencc|1993-09-01|Online SAS, FR
 51.83.186.57|/GoldcoinCore:0.14.8/|70015|16276|51.83.0.0/16|FR|ripencc|1993-09-01|OVH, FR
@@ -140,7 +140,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.70.182.1|/GoldcoinCore:0.14.8/|70015|16276|66.70.128.0/17|CA|arin|2017-02-13|OVH, FR
 68.195.16.31|/GoldcoinCore:0.14.8/|70015|6128|68.192.0.0/14|US|arin|2003-01-29|CABLE-NET-1, US
 68.51.186.128|/GoldcoinCore:0.14.5/|70015|7922|68.32.0.0/11|US|arin|2001-11-29|COMCAST-7922, US
-70.91.250.149|/GoldcoinCore:0.14.7/|70015|7922|70.88.0.0/14|US|arin|2004-08-09|COMCAST-7922, US
+70.91.250.149|/GoldcoinCore:0.14.7/|70015||||||
 71.191.132.98|???|0|701|71.191.0.0/16|US|arin|2005-06-01|UUNET, US
 71.59.168.227|/GoldcoinCore:0.14.8/|70015|7922|71.56.0.0/13|US|arin|2005-04-29|COMCAST-7922, US
 72.218.41.147|/GoldcoinCore:0.14.7/|70015|22773|72.218.0.0/16|US|arin|2005-08-03|ASN-CXA-ALL-CCI-22773-RDC, US
@@ -151,15 +151,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.200.205.30|/GoldcoinCore:0.14.8/|70015|9198|82.200.204.0/22|KZ|ripencc|2003-09-18|KAZTELECOM-AS, KZ
 83.221.211.116|/GoldcoinCore:0.14.8/|70015|21479|83.221.192.0/19|RU|ripencc|2004-04-15|ROSTOV-TELEGRAF-AS, RU
 84.234.52.190|/GoldcoinCore:0.14.8/|70015|49560|84.234.48.0/20|MD|ripencc|2009-07-02|LINKS-MD-AS, MD
-85.15.179.171|/GoldcoinCore:0.14.4/|70015|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
-85.19.25.38|/GoldcoinCore:0.14.8/|70015|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
+85.15.179.171|/GoldcoinCore:0.14.4/|70015||||||
+85.19.25.38|/GoldcoinCore:0.14.8/|70015||||||
 86.100.49.209|/GoldcoinCore:0.14.7/|70015|39007|86.100.0.0/17|LT|ripencc|2005-05-23|BALTICUM-TV-AS, LT
 86.126.9.192|/GoldcoinCore:0.14.8/|70015|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
 88.99.68.228|/GoldcoinCore:0.14.8/|70015|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 89.134.96.228|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|21334|89.134.0.0/15|HU|ripencc|2006-01-17|ASN-VODAFONE-, HU
 89.233.108.211|/GoldcoinCore:0.14.8/|70015|29802|89.233.108.0/24|US|ripencc|2012-09-11|HVC-AS, US
-89.40.26.30|/GoldcoinCore:0.14.8/|70015|35512|89.40.24.0/21|RO|ripencc|2005-11-29|TELEMEDIA-AS, RO
-91.206.16.214|/GoldcoinCore:0.14.4/|70015|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
+89.40.26.30|/GoldcoinCore:0.14.8/|70015||||||
+91.206.16.214|/GoldcoinCore:0.14.4/|70015||||||
 93.51.186.180|/GoldcoinCore:0.14.8/|70015|12874|93.48.0.0/13|IT|ripencc|2008-02-25|FASTWEB, IT
 95.217.78.80|/GoldcoinCore:0.14.8/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 98.51.5.236|/GoldcoinCore:0.14.4/|70015|7922|98.32.0.0/11|US|arin|2007-06-06|COMCAST-7922, US
