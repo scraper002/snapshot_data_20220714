@@ -18,6 +18,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.242.234.192|/Satoshi:1.0.0/|60013|198605|159.242.234.0/24|SK|ripencc|1992-06-17|AVAST-AS-DC, CZ
 159.65.146.105|/Satoshi:1.0.0/|60013|14061|159.65.144.0/20|US|arin|2017-10-24|DIGITALOCEAN-ASN, US
 168.119.18.16|/Satoshi:1.0.0/|60013|24940|168.119.0.0/16|DE|ripencc|1994-04-05|HETZNER-AS, DE
+174.70.81.70|/Satoshi:1.0.0/|60013|22773|174.70.64.0/19|US|arin|2009-02-19|ASN-CXA-ALL-CCI-22773-RDC, US
 176.113.132.189|/Satoshi:1.0.0/|60013|44027|176.113.128.0/20|TJ|ripencc|2012-04-02|SPITAMEN_ALEXANDER_INTERNET-AS, TJ
 176.52.181.42|/Satoshi:1.0.0/|60013|201299|176.52.181.0/24|DE|ripencc|2018-07-03|BWIGMBH-AS, DE
 176.52.43.199|/Satoshi:1.0.0/|60013|29194|176.52.32.0/19|RU|ripencc|2011-05-25|ASN-TVT Kazan, Tatarstan, Russia, RU
@@ -25,7 +26,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.58.116.82|/Satoshi:1.0.0/|60013|63949|176.58.96.0/19|US|ripencc|2011-06-06|LINODE-AP Linode, LLC, US
 178.115.56.103|/Satoshi:1.0.0/|60013|25255|178.115.32.0/19|AT|ripencc|2010-01-12|H3G-AUSTRIA-AS TELE2 AUSTRIA , AT
 178.165.169.33|/Satoshi:1.0.0/|60013|25255|178.165.160.0/19|AT|ripencc|2010-02-23|H3G-AUSTRIA-AS TELE2 AUSTRIA , AT
-178.176.73.175|/Satoshi:1.0.0/|60013|25159|178.176.72.0/21|RU|ripencc|2010-01-22|SONICDUO-AS, RU
 178.197.234.1|/Satoshi:1.0.0/|60013|3303|178.196.0.0/15|CH|ripencc|2010-02-24|SWISSCOM Swisscom Switzerland Ltd, CH
 178.62.114.74|Satoshi:1.0.0|60013|14061|178.62.64.0/18|US|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 178.79.169.181|/Satoshi:1.0.0/|60013|63949|178.79.128.0/18|US|ripencc|2010-05-10|LINODE-AP Linode, LLC, US
@@ -41,6 +41,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 202.143.111.11|/Satoshi:1.0.0/|60013|56158|202.143.108.0/22|VN|apnic|2015-11-23|THEGIOISO-AS-VN Digital world data online company, VN
 206.189.131.144|Satoshi:1.0.0|60013|14061|206.189.128.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
 212.107.228.55|/Satoshi:1.0.0/|60013|49293|212.107.224.0/20|RU|ripencc|2008-03-18|ALLIANCE-AS, RU
+212.47.150.79|/Satoshi:1.0.0/|60013|34170|212.47.148.0/22|AZ|ripencc|1998-06-02|AS-AZTELEKOM Azerbaijan Telecomunication ISP, AZ
 213.196.211.165|/Satoshi:1.0.0/|60013|8422|213.196.192.0/18|DE|ripencc|2002-08-26|NETCOLOGNE, DE
 217.245.72.12|/Satoshi:1.0.0/|60013|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 31.162.206.55|/Satoshi:1.0.0/|60013|12389|31.162.192.0/18|RU|ripencc|2011-02-17|ROSTELECOM-AS, RU
@@ -51,8 +52,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.226.21.65|/Satoshi:1.0.0/|60013|15169|35.224.0.0/14|US|arin|2017-09-29|GOOGLE, US
 37.144.209.106|/Satoshi:1.0.0/|60013|8402|37.144.0.0/14|RU|ripencc|2012-03-02|CORBINA-AS OJSC Vimpelcom, RU
 37.144.211.88|/Satoshi:1.0.0/|60013|8402|37.144.0.0/14|RU|ripencc|2012-03-02|CORBINA-AS OJSC Vimpelcom, RU
-41.202.219.160|/Satoshi:1.0.0/|60013|36912|41.202.219.0/24|CM|afrinic|2007-11-07|ORANGE, CM
-45.126.209.106|Satoshi:1.0.0|60013||||||
+45.126.209.106|Satoshi:1.0.0|60013|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
 45.63.1.153|/Satoshi:1.0.0/|60013|20473|45.63.0.0/20|US|arin|2015-01-02|AS-CHOOPA, US
 46.160.39.27|/Satoshi:1.0.0/|60013|47241|46.160.39.0/24|RU|ripencc|2010-10-27|IV-TELECOM-AS, RU
 49.204.162.37|/Satoshi:1.0.0/|60013|18209|49.204.160.0/22|IN|apnic|2010-12-06|BEAMTELE-AS-AP Atria Convergence Technologies pvt ltd, IN
@@ -61,12 +61,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.244.124.40|/Satoshi:1.0.0/|60013|42779|77.244.124.0/23|AZ|ripencc|2007-03-28|AZERFON, AZ
 78.235.128.44|/Satoshi:1.0.0/|60013|12322|78.224.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
 78.29.33.12|/Satoshi:1.0.0/|60013|8369|78.29.32.0/19|RU|ripencc|2007-09-20|INTERSVYAZ-AS 38-B, Komsomolsky prospekt, RU
+78.48.55.141|/Satoshi:1.0.0/|60013|6805|78.48.0.0/13|DE|ripencc|2007-02-28|TDDE-ASN1, DE
 79.144.143.36|/Satoshi:1.0.0/|60013|3352|79.144.0.0/16|ES|ripencc|2007-06-07|TELEFONICA_DE_ESPANA, ES
 79.235.164.200|/Satoshi:1.0.0/|60013|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.85.86.106|/Satoshi:1.0.0/|60013|63949|80.85.84.0/22|US|ripencc|2003-05-19|LINODE-AP Linode, LLC, US
+84.159.150.186|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.159.151.29|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.159.156.45|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.159.158.200|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.169.102.120|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.169.105.218|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.169.35.248|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
@@ -78,6 +79,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.130.158.52|/Satoshi:1.0.0/|60013|8881|88.130.158.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 89.0.52.113|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.1.209.80|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
+89.1.54.225|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 90.151.155.164|/Satoshi:1.0.0/|60013|12389|90.151.144.0/20|RU|ripencc|2006-12-19|ROSTELECOM-AS, RU
 90.189.119.21|/Satoshi:1.0.0/|60013|12389|90.189.112.0/20|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
 91.113.42.0|/Satoshi:1.0.0/|60013|8447|91.112.0.0/14|AT|ripencc|2006-09-04|A1TELEKOM-AT A1 Telekom Austria AG, AT
@@ -88,13 +90,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.37.135.165|/Satoshi:1.0.0/|60013|12389|92.37.128.0/21|RU|ripencc|2008-01-18|ROSTELECOM-AS, RU
 92.86.37.189|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.37.243|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
+92.86.37.88|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.39.81|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.48.254|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
-92.86.51.137|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.51.34|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.54.12|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.54.221|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
-92.86.54.53|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.55.138|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 93.209.203.91|/Satoshi:1.0.0/|60013|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 95.163.177.194|/Satoshi:1.0.0/|60013|12695|95.163.177.0/24|RU|ripencc|2008-12-30|DINET-AS, RU
