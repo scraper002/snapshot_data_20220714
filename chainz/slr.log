@@ -5,14 +5,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 106.73.238.224|/Satoshi:2.1.8/|70005|2516|106.72.0.0/15|JP|apnic|2011-04-05|KDDI KDDI CORPORATION, JP
 108.180.17.87|/Satoshi:2.1.8/|70005|852|108.180.0.0/16|CA|arin|2012-07-19|TELUS Communications, CA
 109.207.192.65|/Satoshi:2.1.8/|70005|43139|109.207.192.0/20|UA|ripencc|2010-03-08|MAXIMUMA-AS, UA
-109.70.150.162|/Satoshi:2.1.8/|70005|25369|109.70.144.0/21|GB|ripencc|2009-11-04|BANDWIDTH-AS, GB
 115.69.53.133|/Satoshi:2.1.8/|70005|18390|115.69.52.0/22|AU|apnic|2010-05-20|SPIN-INTERNET-AP Spin Internet Service, AU
 121.99.103.247|/Satoshi:2.1.8/|70005|9790|121.98.0.0/15|NZ|apnic|2010-08-26|VOCUSGROUPNZ VocusGroup, NZ
-123.50.78.204|/Satoshi:2.1.8/|70005|9471|123.50.78.0/24|PF|apnic|2006-09-27|ONATI-AS-AP ONATI, PF
 125.26.173.200|/Satoshi:2.1.8/|70005|23969|125.26.172.0/22|TH|apnic|2006-10-26|TOT-NET TOT Public Company Limited, TH
 125.26.175.91|/Satoshi:2.1.8/|70005|23969|125.26.172.0/22|TH|apnic|2006-10-26|TOT-NET TOT Public Company Limited, TH
 133.32.176.49|/Satoshi:2.1.8/|70005|2519|133.32.176.0/20|JP|apnic|1997-03-01|VECTANT ARTERIA Networks Corporation, JP
 146.0.191.18|/Satoshi:2.1.8/|70005|6661|146.0.128.0/18|LU|ripencc|2011-07-07|EPT-LU Entreprise des P. et T. Luxembourg, LU
+148.66.109.77|/Satoshi:2.1.8/|70005|9471|148.66.109.0/24|PF|apnic|1991-04-11|ONATI-AS-AP ONATI, PF
 162.243.214.120|/Satoshi:2.1.8/|70005|14061|162.243.192.0/18|US|arin|2013-09-06|DIGITALOCEAN-ASN, US
 162.83.184.45|/Satoshi:2.1.8/|70005|701|162.83.128.0/17|US|arin|1992-08-28|UUNET, US
 166.181.83.231|/Satoshi:2.1.8/|70005|6614|166.181.83.0/24|US|arin|1993-07-09|USCC-ASN, US
@@ -27,8 +26,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.25.22.35|/Satoshi:2.1.8/|70005|680|193.25.16.0/20|DE|ripencc|1993-02-11|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
 193.83.250.87|/Satoshi:2.1.8/|70005|1901|193.83.0.0/16|AT|ripencc|1995-05-12|EUNETAT-AS A1 Telekom Austria AG, AT
 194.228.68.82|/Satoshi:2.1.8/|70005|5610|194.228.68.0/24|CZ|ripencc|1997-10-03|O2-CZECH-REPUBLIC, CZ
-194.71.217.74|/Satoshi:2.1.8/|70005|3399|194.71.216.0/23|SE|ripencc|1994-07-15|OBE-NET, SE
 194.95.83.201|/Satoshi:2.1.8/|70005|680|194.94.0.0/15|DE|ripencc|1995-08-04|DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., DE
+195.12.50.230|/Satoshi:2.1.8/|70005|9009|195.12.50.0/24|GB|ripencc|2006-02-01|M247, GB
 195.12.50.233|/Satoshi:2.1.8/|70005|9009|195.12.50.0/24|GB|ripencc|2006-02-01|M247, GB
 195.65.248.82|/Satoshi:2.1.8/|70005|3303|195.65.0.0/16|CH|ripencc|1997-01-20|SWISSCOM Swisscom Switzerland Ltd, CH
 196.36.98.122|/Satoshi:2.1.8/|70005|3741|196.36.0.0/16|ZA|afrinic|1996-11-11|IS, ZA
@@ -59,6 +58,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.253.132.161|/Satoshi:2.1.8/|70005|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 80.131.122.118|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.131.122.54|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
+80.140.92.39|/Satoshi:2.1.8/|70005|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.182.219.65|/Satoshi:2.1.8/|70005|3269|80.182.0.0/16|IT|ripencc|2002-09-26|ASN-IBSNAZ, IT
 80.62.117.130|/Satoshi:2.1.8/|70005|3292|80.62.0.0/15|DK|ripencc|2001-06-20|TDC TDC AS, DK
 81.225.194.104|/Satoshi:2.1.8/|70005|3301|81.224.0.0/12|SE|ripencc|2002-10-04|TELIANET-SWEDEN Telia Company, SE
@@ -68,10 +68,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.194.161.194|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 84.199.9.234|/Satoshi:2.1.8/|70005|6848|84.192.0.0/13|BE|ripencc|2004-04-21|TELENET-AS, BE
 86.60.178.2|/Satoshi:2.1.8/|70005|39699|86.60.128.0/17|FI|ripencc|2005-09-08|SSPOY-AS, FI
+86.81.26.241|/Satoshi:2.1.8/|70005|1136|86.80.0.0/12|NL|ripencc|2005-03-23|KPN KPN National, NL
 87.49.45.108|/Satoshi:2.1.8/|70005|3292|87.48.0.0/12|DK|ripencc|2005-05-20|TDC TDC AS, DK
 88.130.5.63|/Satoshi:2.1.8/|70005|8881|88.130.0.0/19|DE|ripencc|2005-10-17|VERSATEL, DE
 88.130.51.125|/Satoshi:2.1.8/|70005|8881|88.130.51.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.130.51.88|/Satoshi:2.1.8/|70005|8881|88.130.51.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
+88.153.252.174|/Satoshi:2.1.8/|70005|3209|88.153.0.0/16|DE|ripencc|2008-04-14|VODANET International IP-Backbone of Vodafone, DE
 91.206.16.214|/Satoshi:2.1.8/|70005|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 93.208.122.146|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.219.160.222|/Satoshi:2.1.8/|70005|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
