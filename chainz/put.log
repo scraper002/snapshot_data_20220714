@@ -3,9 +3,8 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 102.38.61.200|/Satoshi:1.0.0/|60013|5713|102.38.60.0/22|ZA|afrinic|2019-08-21|SAIX-NET, ZA
 103.73.188.57|/Satoshi:1.0.0/|60013|135752|103.73.188.0/24|IN|apnic|2016-08-30|EVOKEDS-AS Evoke Digital Solutions, IN
-104.238.221.41|???|0|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
+104.238.221.41|Satoshi:1.0.0|60013|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
 120.154.65.247|/Satoshi:1.0.0/|60013|1221|120.152.0.0/14|AU|apnic|2008-04-09|ASN-TELSTRA Telstra Corporation Ltd, AU
-129.0.205.244|/Satoshi:1.0.0/|60013|30992|129.0.205.0/24|CM|afrinic|2015-08-31|MTN-NS-CAMEROON, CM
 13.214.86.135|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
 13.215.71.122|/Satoshi:1.0.0/|60013|16509|13.214.0.0/15|US|arin|2019-10-01|AMAZON-02, US
 135.181.73.5|/Satoshi:1.0.0/|60013|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -13,7 +12,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.162.233.122|/Satoshi:1.0.0/|60013|63949|139.162.224.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 143.198.121.253|Satoshi:1.0.0|60013|14061|143.198.112.0/20|US|arin|2020-01-24|DIGITALOCEAN-ASN, US
 149.248.17.139|/Satoshi:1.0.0/|60013|20473|149.248.0.0/19|US|arin|2018-07-03|AS-CHOOPA, US
-158.181.45.102|/Satoshi:1.0.0/|60013|34170|158.181.44.0/23|AZ|ripencc|2011-11-11|AS-AZTELEKOM Azerbaijan Telecomunication ISP, AZ
 158.181.46.12|/Satoshi:1.0.0/|60013|34170|158.181.46.0/23|AZ|ripencc|2011-11-11|AS-AZTELEKOM Azerbaijan Telecomunication ISP, AZ
 159.223.10.89|/Satoshi:1.0.0/|60013|14061|159.223.0.0/20|US|arin|2020-11-03|DIGITALOCEAN-ASN, US
 159.242.234.124|/Satoshi:1.0.0/|60013|198605|159.242.234.0/24|SK|ripencc|1992-06-17|AVAST-AS-DC, CZ
@@ -30,6 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.79.169.181|/Satoshi:1.0.0/|60013|63949|178.79.128.0/18|US|ripencc|2010-05-10|LINODE-AP Linode, LLC, US
 178.79.170.166|/Satoshi:1.0.0/|60013|63949|178.79.128.0/18|US|ripencc|2010-05-10|LINODE-AP Linode, LLC, US
 18.236.255.162|/Satoshi:1.0.0/|60013|16509|18.236.0.0/15|US|arin|2019-10-07|AMAZON-02, US
+180.190.154.20|/Satoshi:1.0.0/|60013|132199|180.190.152.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 180.190.156.233|/Satoshi:1.0.0/|60013|132199|180.190.156.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 180.190.209.30|/Satoshi:1.0.0/|60013|132199|180.190.208.0/22|PH|apnic|2009-09-17|GLOBE-MOBILE-5TH-GEN-AS Globe Telecom Inc., PH
 185.43.191.237|/Satoshi:1.0.0/|60013|201167|185.43.191.0/24|AZ|ripencc|2013-12-20|CASTEL-AS, AZ
@@ -43,6 +42,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 202.143.111.11|/Satoshi:1.0.0/|60013|56158|202.143.108.0/22|VN|apnic|2015-11-23|THEGIOISO-AS-VN Digital world data online company, VN
 206.189.131.144|Satoshi:1.0.0|60013|14061|206.189.128.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
 212.107.228.55|/Satoshi:1.0.0/|60013|49293|212.107.224.0/20|RU|ripencc|2008-03-18|ALLIANCE-AS, RU
+212.228.16.35|/Satoshi:1.0.0/|60013|5378|212.228.0.0/15|GB|ripencc|1998-03-12|Vodafone, GB
 213.196.211.165|/Satoshi:1.0.0/|60013|8422|213.196.192.0/18|DE|ripencc|2002-08-26|NETCOLOGNE, DE
 217.245.72.12|/Satoshi:1.0.0/|60013|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.245.74.69|/Satoshi:1.0.0/|60013|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
@@ -58,10 +58,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.63.1.153|/Satoshi:1.0.0/|60013|20473|45.63.0.0/20|US|arin|2015-01-02|AS-CHOOPA, US
 46.160.39.27|/Satoshi:1.0.0/|60013|47241|46.160.39.0/24|RU|ripencc|2010-10-27|IV-TELECOM-AS, RU
 49.204.160.34|/Satoshi:1.0.0/|60013|18209|49.204.160.0/22|IN|apnic|2010-12-06|BEAMTELE-AS-AP Atria Convergence Technologies pvt ltd, IN
+62.158.209.246|/Satoshi:1.0.0/|60013|3320|62.156.0.0/14|DE|ripencc|1999-03-05|DTAG Internet service provider operations, DE
+62.158.213.186|/Satoshi:1.0.0/|60013|3320|62.156.0.0/14|DE|ripencc|1999-03-05|DTAG Internet service provider operations, DE
+62.158.213.192|/Satoshi:1.0.0/|60013|3320|62.156.0.0/14|DE|ripencc|1999-03-05|DTAG Internet service provider operations, DE
 62.227.154.75|/Satoshi:1.0.0/|60013|3320|62.224.0.0/14|DE|ripencc|2000-05-12|DTAG Internet service provider operations, DE
 62.82.119.143|/Satoshi:1.0.0/|60013|6739|62.82.0.0/16|ES|ripencc|1999-05-04|ONO-AS Cableuropa - ONO, ES
 77.122.104.85|/Satoshi:1.0.0/|60013|25229|77.122.0.0/17|UA|ripencc|2006-11-24|VOLIA-AS, UA
-77.244.124.40|/Satoshi:1.0.0/|60013|42779|77.244.124.0/23|AZ|ripencc|2007-03-28|AZERFON, AZ
 78.235.128.44|/Satoshi:1.0.0/|60013|12322|78.224.0.0/11|FR|ripencc|2007-03-15|PROXAD, FR
 78.48.55.141|/Satoshi:1.0.0/|60013|6805|78.48.0.0/13|DE|ripencc|2007-02-28|TDDE-ASN1, DE
 79.144.143.36|/Satoshi:1.0.0/|60013|3352|79.144.0.0/16|ES|ripencc|2007-06-07|TELEFONICA_DE_ESPANA, ES
@@ -71,14 +73,17 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.159.156.45|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.159.241.199|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.169.105.218|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.169.35.248|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.169.98.72|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.188.34.30|/Satoshi:1.0.0/|60013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+87.125.142.119|/Satoshi:1.0.0/|60013|12430|87.125.0.0/16|ES|ripencc|2005-08-08|VODAFONE_ES, ES
+87.125.175.58|/Satoshi:1.0.0/|60013|12430|87.125.0.0/16|ES|ripencc|2005-08-08|VODAFONE_ES, ES
+87.125.210.242|/Satoshi:1.0.0/|60013|12430|87.125.0.0/16|ES|ripencc|2005-08-08|VODAFONE_ES, ES
 87.160.121.240|/Satoshi:1.0.0/|60013|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.165.88.151|/Satoshi:1.0.0/|60013|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 88.130.157.205|/Satoshi:1.0.0/|60013|8881|88.130.157.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 88.130.157.91|/Satoshi:1.0.0/|60013|8881|88.130.157.0/24|DE|ripencc|2005-10-17|VERSATEL, DE
 89.0.52.113|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
+89.0.53.239|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.1.209.80|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.1.54.225|/Satoshi:1.0.0/|60013|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
 89.13.71.141|/Satoshi:1.0.0/|60013|6805|89.12.0.0/14|DE|ripencc|2006-07-19|TDDE-ASN1, DE
@@ -91,6 +96,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.37.135.165|/Satoshi:1.0.0/|60013|12389|92.37.128.0/21|RU|ripencc|2008-01-18|ROSTELECOM-AS, RU
 92.86.36.40|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.37.183|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
+92.86.37.80|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.38.6|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.50.113|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
 92.86.54.68|/Satoshi:1.0.0/|60013|9050|92.86.0.0/16|RO|ripencc|2007-08-15|RTD Bucharest, Romania, RO
