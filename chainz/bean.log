@@ -11,7 +11,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 111.237.111.228|/Bean Core:1.3.2.1/|60015|2516|111.236.0.0/14|JP|apnic|2009-08-07|KDDI KDDI CORPORATION, JP
 111.239.254.29|/Bean Core:1.3.2/|60015|2516|111.236.0.0/14|JP|apnic|2009-08-07|KDDI KDDI CORPORATION, JP
 111.58.172.134|/Bean Core:1.3.2.1/|60015|9808|111.58.172.0/22|CN|apnic|2009-05-06|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
-111.58.172.200|/Bean Core:1.3.2.1/|60015|9808|111.58.172.0/22|CN|apnic|2009-05-06|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
 111.58.172.217|/Bean Core:1.3.2.1/|60015|9808|111.58.172.0/22|CN|apnic|2009-05-06|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
 111.58.172.220|/Bean Core:1.3.2.1/|60015|9808|111.58.172.0/22|CN|apnic|2009-05-06|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
 111.58.173.181|/Bean Core:1.3.2.1/|60015|9808|111.58.172.0/22|CN|apnic|2009-05-06|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
@@ -31,7 +30,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.75.12.113|/Bean Core:1.3.2.1/|60015|4773|138.75.0.0/18|SG|apnic|1990-03-02|MOBILEONELTD-AS-AP MobileOne Ltd. MobileInternet Service Provider Singapore, SG
 141.134.67.144|/Bean Core:1.3.2.1/|60015|6848|141.134.0.0/15|BE|ripencc|2011-06-20|TELENET-AS, BE
 142.165.82.189|/Bean Core:1.3.2.1/|60015|803|142.165.0.0/16|CA|arin|1995-03-23|SASKTEL, CA
-144.76.101.126|/Bean Core:1.3.2.1/|60015|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
+144.76.101.126|???|0|24940|144.76.0.0/16|DE|ripencc|1990-11-16|HETZNER-AS, DE
 147.182.156.236|/Bean Core:1.3.2.1/|60015|14061|147.182.144.0/20|US|arin|2020-01-17|DIGITALOCEAN-ASN, US
 154.28.188.178|/Bean Core:1.3.2.1/|60015|174|154.24.0.0/13|US|arin|1992-02-05|COGENT-174, US
 159.196.219.68|/Bean Core:1.3.2.1/|60015|4764|159.196.216.0/22|AU|apnic|1992-05-26|WIDEBAND-AS-AP Aussie Broadband, AU
@@ -45,6 +44,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.199.210.70|/Bean Core:1.1.2.2/|60014|3209|176.199.0.0/16|DE|ripencc|2011-07-18|VODANET International IP-Backbone of Vodafone, DE
 176.59.14.3|/Bean Core:1.1.2.2/|60014|15378|176.59.0.0/19|RU|ripencc|2011-06-06|TELE2-RU-AS Tele2 Russia Network, RU
 176.59.23.210|/Bean Core:1.1.2.2/|60014|15378|176.59.0.0/19|RU|ripencc|2011-06-06|TELE2-RU-AS Tele2 Russia Network, RU
+176.59.4.29|/Bean Core:1.1.2.2/|60014|15378|176.59.0.0/19|RU|ripencc|2011-06-06|TELE2-RU-AS Tele2 Russia Network, RU
 176.59.5.183|/Bean Core:1.1.2.2/|60014|15378|176.59.0.0/19|RU|ripencc|2011-06-06|TELE2-RU-AS Tele2 Russia Network, RU
 178.128.225.168|/Bean Core:1.3.2.1/|60015|14061|178.128.224.0/20|US|ripencc|2010-03-03|DIGITALOCEAN-ASN, US
 178.142.55.88|/Bean Core:1.3.2.1/|60015|9145|178.142.0.0/16|DE|ripencc|2010-05-03|EWETEL Cloppenburger Strasse 310, DE
@@ -55,6 +55,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.183.72.38|/Bean Core:1.3.2.1/|60015|45758|180.183.0.0/16|TH|apnic|2009-09-16|TTBP-AS-AP Triple T Broadband Public Company Limited, TH
 180.83.239.48|/Bean Core:1.1.0/|60014|17858|180.83.128.0/17|KR|apnic|2009-07-16|POWERVIS-AS-KR LG POWERCOMM, KR
 183.89.31.119|/Bean Core:1.3.2.1/|60015|45629|183.89.0.0/16|TH|apnic|2009-11-13|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
+183.89.32.239|/Bean Core:1.3.2.1/|60015|45629|183.89.0.0/16|TH|apnic|2009-11-13|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
+183.89.33.130|/Bean Core:1.3.2.1/|60015|45629|183.89.0.0/16|TH|apnic|2009-11-13|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 183.89.34.167|/Bean Core:1.3.2.1/|60015|45629|183.89.0.0/16|TH|apnic|2009-11-13|JASTEL-NETWORK-TH-AP JasTel Network International Gateway, TH
 184.144.230.185|/Bean Core:1.3.2.1/|60015|577|184.144.0.0/16|CA|arin|2010-04-12|BACOM, CA
 185.100.84.161|/Bean Core:1.3.2.1/|60015|200651|185.100.84.0/23|SC|ripencc|2015-05-15|FLOKINET, SC
@@ -91,6 +93,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.10.155.104|/Bean Core:1.1.2.2/|60014|6830|31.10.128.0/18|CH|ripencc|2011-04-14|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 31.52.120.82|/Bean Core:1.3.2.1/|60015|2856|31.48.0.0/13|GB|ripencc|2010-12-31|BT-UK-AS BTnet UK Regional network, GB
 35.136.195.181|/Bean Core:1.3.2.1/|60015|33363|35.136.0.0/13|US|arin|2017-06-30|BHN-33363, US
+37.19.221.31|/Bean Core:1.3.2.1/|60015|212238|37.19.221.0/24|GB|ripencc|2011-12-21|CDNEXT, GB
 37.223.218.41|/Bean Core:1.3.2.1/|60015|12430|37.222.0.0/15|ES|ripencc|2012-04-05|VODAFONE_ES, ES
 45.133.4.30|/Bean Core:1.1.2.2/|60014|137409|45.133.4.0/24|NL|ripencc|2019-07-24|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
 5.104.108.71|/Bean Core:1.4.0/|60015|24961|5.104.104.0/21|DE|ripencc|2012-06-29|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
@@ -133,6 +136,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.60.35.72|/Bean Core:1.3.2.1/|60015|3352|83.60.0.0/16|ES|ripencc|2004-10-07|TELEFONICA_DE_ESPANA, ES
 83.83.252.152|/Bean Core:1.3.0/|60015|33915|83.80.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.169.148.222|/Bean Core:1.1.2.2/|60014|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.17.48.132|/Bean Core:1.3.2.1/|60015|212238|84.17.48.0/23|GB|ripencc|2004-07-23|CDNEXT, GB
 84.185.54.151|/Bean Core:1.3.2.1/|60015|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 85.0.188.4|/Bean Core:1.1.0/|60014|3303|85.0.0.0/15|CH|ripencc|2005-01-25|SWISSCOM Swisscom Switzerland Ltd, CH
 85.19.25.38|/Bean Core:1.3.1/|60015|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
