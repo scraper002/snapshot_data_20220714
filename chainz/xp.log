@@ -3,13 +3,13 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.151.195.28|/eXperience Points Core:5.2.0.3/|70922|36556|104.151.192.0/19|US|arin|2021-01-12|WAVE-RURAL-CONNECT-LLC, US
 106.150.78.61|/eXperience Points Core:5.2.0.2/|70922|2516|106.128.0.0/11|JP|apnic|2011-03-15|KDDI KDDI CORPORATION, JP
-113.53.17.233|/eXperience Points Core:5.2.0.3/|70922|23969|113.53.16.0/22|TH|apnic|2008-10-22|TOT-NET TOT Public Company Limited, TH
 115.36.228.13|/eXperience Points Core:5.2.0.2/|70922|18126|115.36.0.0/16|JP|apnic|2008-07-08|CTCX Chubu Telecommunications Company, Inc., JP
 118.156.228.173|/eXperience Points Core:5.2.0.3/|70922|2516|118.156.0.0/16|JP|apnic|2008-07-30|KDDI KDDI CORPORATION, JP
 121.221.137.238|/eXperience Points Core:5.2.0.2/|70922|1221|121.208.0.0/12|AU|apnic|2007-02-09|ASN-TELSTRA Telstra Corporation Ltd, AU
 121.80.205.71|/eXperience Points Core:5.2.0.2/|70922|17511|121.80.0.0/14|JP|apnic|2006-06-13|OPTAGE OPTAGE Inc., JP
 133.32.128.174|/eXperience Points Core:5.2.0.2/|70922|2519|133.32.128.0/20|JP|apnic|1997-03-01|VECTANT ARTERIA Networks Corporation, JP
 139.59.17.54|/eXperience Points Core:5.2.0.2/|70922|14061|139.59.16.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
+139.59.188.1|/eXperience Points Core:5.2.0.2/|70922|14061|139.59.176.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 14.13.0.192|/eXperience Points Core:5.2.0.2/|70922|2516|14.12.0.0/15|JP|apnic|2010-08-17|KDDI KDDI CORPORATION, JP
 143.244.188.223|/eXperience Points Core:5.2.0.2/|70922|14061|143.244.176.0/20|US|arin|2020-01-09|DIGITALOCEAN-ASN, US
 144.91.106.92|/eXperience Points Core:5.2.0.3/|70922|51167|144.91.106.0/23|DE|ripencc|1990-11-20|CONTABO, DE
@@ -38,14 +38,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.98.76|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.98.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 173.212.211.148|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.192.0/19|DE|ripencc|2009-10-26|CONTABO, DE
 173.212.243.102|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.240.0/21|DE|ripencc|2009-10-26|CONTABO, DE
-173.212.253.99|/eXperience Points Core:5.2.0.3/|70922|51167|173.212.252.0/23|DE|ripencc|2009-10-26|CONTABO, DE
 173.249.13.177|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.12.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.32.84|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.32.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.4.190|/eXperience Points Core:5.2.0.3/|70922|51167|173.249.4.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 176.57.188.168|/eXperience Points Core:5.2.0.3/|70922|51167|176.57.188.0/24|DE|ripencc|2011-06-01|CONTABO, DE
 178.38.225.223|/eXperience Points Core:5.2.0.3/|70922|6730|178.38.0.0/15|CH|ripencc|2010-02-02|SUNRISE, CH
 185.137.122.150|/eXperience Points Core:5.2.0.2/|70922|51167|185.137.122.0/24|DE|ripencc|2016-02-05|CONTABO, DE
-185.191.188.225|/eXperience Points Core:5.2.0.2/|70922|60673|185.191.188.0/23|HU|ripencc|2017-02-24|ACTIVCOM, HU
 185.193.66.80|/eXperience Points Core:5.2.0.2/|70922|51167|185.193.66.0/23|DE|ripencc|2017-03-07|CONTABO, DE
 185.193.66.91|/eXperience Points Core:5.2.0.2/|70922|51167|185.193.66.0/23|DE|ripencc|2017-03-07|CONTABO, DE
 185.202.236.129|/eXperience Points Core:5.2.0.2/|70922|51167|185.202.236.0/24|DE|ripencc|2017-05-10|CONTABO, DE
@@ -80,6 +78,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.189.143.170|/eXperience Points Core:5.2.0.3/|70922|51167|5.189.128.0/20|DE|ripencc|2012-08-09|CONTABO, DE
 5.189.143.254|/eXperience Points Core:5.2.0.3/|70922|51167|5.189.128.0/20|DE|ripencc|2012-08-09|CONTABO, DE
 5.189.169.229|/eXperience Points Core:5.2.0.3/|70922|51167|5.189.160.0/20|DE|ripencc|2012-08-09|CONTABO, DE
+5.8.219.158|/eXperience Points Core:5.2.0.3/|70922|15774|5.8.219.0/24|RU|ripencc|2012-04-26|TTK-RTL Retail, RU
 51.171.181.46|/eXperience Points Core:5.2.0.3/|70922|5466|51.171.0.0/16|IE|ripencc|1993-09-01|EIRCOM Internet House, IE
 58.191.174.174|/eXperience Points Core:5.2.0.2/|70922|17511|58.188.0.0/14|JP|apnic|2005-07-11|OPTAGE OPTAGE Inc., JP
 60.110.80.14|/eXperience Points Core:5.2.0.3/|70922|17676|60.110.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
