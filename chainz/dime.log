@@ -2,12 +2,12 @@
 # Dimecoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.248.244.51|/dimecoin:1.10.0.1/|70004|14061|104.248.240.0/20|US|arin|2018-08-06|DIGITALOCEAN-ASN, US
+105.112.44.177|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|36873|105.112.44.0/24|NG|afrinic|2013-09-20|VNL1-AS, NG
 108.5.158.5|/dimecoin:2.0.0/|70005|701|108.5.0.0/16|US|arin|2009-06-05|UUNET, US
 108.61.165.140|/dimecoin:1.10.0.1/|70004|20473|108.61.164.0/22|US|arin|2010-12-08|AS-CHOOPA, US
 110.137.72.99|/dimecoin:1.10.0.1/|70004|7713|110.137.72.0/24|ID|apnic|2009-04-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 110.137.75.238|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|7713|110.137.75.0/24|ID|apnic|2009-04-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 114.10.21.104|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|4761|114.10.20.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
-114.4.213.108|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|4761|114.4.212.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 124.148.21.35|/dimecoin:1.10.0.1/|70004|4739|124.148.20.0/22|AU|apnic|2006-03-02|INTERNODE-AS Internode Pty Ltd, AU
 135.181.32.44|/dimecoin:1.10.0.1/|70004|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 136.158.101.240|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|17639|136.158.100.0/22|PH|apnic|2004-04-14|CONVERGE-AS Converge ICT Solutions Inc., PH
@@ -24,7 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 177.71.109.41|/dimecoin:1.10.0.1/|70004|271397|177.71.109.0/24|BR|lacnic|2021-11-24|Anderson Barreto da Cruz, BR
 180.245.61.104|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|7713|180.245.56.0/21|ID|apnic|2009-10-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 181.208.26.94|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|21826|181.208.24.0/21|VE|lacnic|2012-09-25|Corporacion Telemic C.A., VE
-182.1.35.254|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|23693|182.1.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
+185.103.110.235|???|0|51765|185.103.110.0/24|SC|ripencc|2015-06-08|CREANOVA-AS Oy Creanova Hosting Solutions Ltd., FI
 185.158.182.57|/dimecoin:1.10.0.1/|70004|20810|185.158.180.0/22|DE|ripencc|2016-07-07|NETCOM-KASSEL Netcom Kassel, DE
 185.190.93.205|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|212426|185.190.93.0/24|HK|ripencc|2017-02-16|FWNETWORKS-AS, GB
 192.109.205.42|/dimecoin:1.10.0.1/|70004|206092|192.109.205.0/24|US|ripencc|1991-05-01|SECFIREWALLAS, GB
@@ -38,7 +38,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 32.209.174.224|/dimecoin:1.10.0.1/|70004|46690|32.208.0.0/12|US|arin|1990-05-30|SNET-FCC, US
 37.187.155.185|/dimecoin:1.10.0.1/|70004|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
 46.23.35.70|/dimecoin:1.10.0.1/|70004|24651|46.23.32.0/20|LV|ripencc|2010-12-02|LVBALTICOM-AS, LV
-5.188.173.19|/dimecoin:1.10.0.1/|70004||||||
+5.188.173.19|/dimecoin:1.10.0.1/|70004|56630|5.188.173.0/24|LT|ripencc|2012-08-09|MELBICOM-EU-AS Melbikomas UAB, LT
 5.196.91.94|/dimecoin:1.10.0.1/|70004|16276|5.196.0.0/16|FR|ripencc|2012-08-23|OVH, FR
 51.159.5.111|/dimecoin:1.10.0.1/|70004|12876|51.158.0.0/15|FR|ripencc|1993-09-01|Online SAS, FR
 62.94.124.53|/dimecoin:1.10.0.1/|70004|15589|62.94.64.0/18|IT|ripencc|2000-08-10|ASN-CLOUDITALIA, IT
@@ -57,7 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.87.54.230|/dimecoin:1.10.0.1/|70004|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.234.52.190|/dimecoin:1.10.0.1/|70004|49560|84.234.48.0/20|MD|ripencc|2009-07-02|LINKS-MD-AS, MD
 85.149.81.228|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|5390|85.149.0.0/16|NL|ripencc|2004-10-06|EURONET, NL
-85.19.25.38|/dimecoin:1.10.0.1/|70004||||||
+85.19.25.38|/dimecoin:1.10.0.1/|70004|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
 88.99.164.174|/dimecoin:1.10.0.1/|70004|24940|88.99.0.0/16|DE|ripencc|2005-08-03|HETZNER-AS, DE
 92.65.248.14|/DimecoinJ:0.12.7/Dimecoin Wallet:1.1.1/|70004|1136|92.64.0.0/14|NL|ripencc|2007-06-19|KPN KPN National, NL
 94.23.2.215|/dimecoin:1.10.0.1/|70004|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
