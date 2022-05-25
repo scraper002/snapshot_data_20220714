@@ -55,6 +55,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.62.114.74|Satoshi:0.20.2/Peercoin:0.11.4|70016|14061|178.62.64.0/18|US|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 185.100.87.202|/Satoshi:0.16.3/|70015|200651|185.100.87.0/24|SC|ripencc|2015-05-15|FLOKINET, SC
 185.108.90.55|/Satoshi:0.6.3/Peercoin:0.5.4/|60006|43385|185.108.88.0/22|RU|ripencc|2015-07-09|GSGLOBALCOM-AS Russia, RU
+185.129.62.63|/Satoshi:0.16.3/|70015|57860|185.129.62.0/23|DK|ripencc|2015-11-30|ZENCURITY-NET, DK
 185.138.191.7|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|49013|185.138.188.0/22|CZ|ripencc|2016-02-15|FUSION_MEDIA, CZ
 185.159.157.44|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|209103|185.159.157.0/24|CH|ripencc|2016-07-14|PROTONVPN, CH
 185.220.100.251|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|205100|185.220.100.0/24|DE|ripencc|2017-09-12|F3NETZE, DE
@@ -105,6 +106,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.77.67.209|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|16276|51.77.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 62.159.33.3|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|62.156.0.0/14|DE|ripencc|1999-03-05|DTAG Internet service provider operations, DE
 62.245.153.195|/Satoshi:0.20.1/Peercoin:0.10.0/|70015|8767|62.245.128.0/17|DE|ripencc|2000-10-03|MNET-AS Germany, DE
+64.124.24.226|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|6461|64.124.0.0/15|US|arin|2000-07-06|ZAYO-6461, US
 64.231.116.238|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|577|64.231.0.0/16|CA|arin|2000-02-15|BACOM, CA
 64.4.160.13|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|55293|64.4.160.0/22|US|arin|2020-08-20|A2HOSTING, US
 64.60.5.131|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|14265|64.60.0.0/16|US|arin|2000-03-10|US-TELEPACIFIC, US
@@ -136,8 +138,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.104.151.30|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|33915|84.104.0.0/15|NL|ripencc|2004-04-26|TNF-AS, NL
 84.65.161.199|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|5378|84.64.0.0/13|GB|ripencc|2004-03-15|Vodafone, GB
 86.178.104.7|/Satoshi:0.6.3/Peercoin:0.5.4/|60006|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
-86.195.28.213|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3215|86.195.0.0/17|FR|ripencc|2005-03-02|France Telecom - Orange, FR
-87.13.11.119|/Satoshi:0.8.6/Peercoin:0.6.1/|70001|3269|87.13.0.0/17|IT|ripencc|2005-07-13|ASN-IBSNAZ, IT
 87.171.47.42|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.173.56.10|/Satoshi:0.16.3/Peercoin:0.9.0/|70015|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
 87.174.57.223|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|3320|87.128.0.0/10|DE|ripencc|2006-03-30|DTAG Internet service provider operations, DE
@@ -159,7 +159,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.78.81|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 97.115.114.242|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|209|97.115.0.0/17|US|arin|2007-12-19|CENTURYLINK-US-LEGACY-QWEST, US
 97.115.93.189|/Satoshi:0.20.2/Peercoin:0.10.4/|70015|209|97.115.0.0/17|US|arin|2007-12-19|CENTURYLINK-US-LEGACY-QWEST, US
-98.212.200.200|/Satoshi:0.8.6/Peercoin:0.6.3/|70001|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.59.110.225|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|7922|98.32.0.0/11|US|arin|2007-06-06|COMCAST-7922, US
 98.61.111.85|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|7922|98.32.0.0/11|US|arin|2007-06-06|COMCAST-7922, US
 99.9.57.174|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|7018|99.8.0.0/15|US|arin|2008-02-25|ATT-INTERNET4, US
