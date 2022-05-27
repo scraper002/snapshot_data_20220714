@@ -4,7 +4,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 106.51.17.1|/LitecoinCashCore:0.16.3/|70015|24309|106.51.16.0/22|IN|apnic|2011-03-24|CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN
 107.167.244.51|/LitecoinCashCore:0.16.3/|70015|25780|107.167.244.0/24|US|arin|2014-02-04|HUGESERVER-NETWORKS, US
 109.129.137.76|/LitecoinCashCore:0.16.3/|70015|5432|109.128.0.0/14|BE|ripencc|2009-07-27|PROXIMUS-ISP-AS, BE
-109.168.243.200|/LitecoinCashCore:0.16.3/|70015|12389|109.168.240.0/21|RU|ripencc|2009-11-02|ROSTELECOM-AS, RU
 109.227.212.76|/LitecoinCashCore:0.16.3/|70015|31036|109.227.192.0/18|RU|ripencc|2010-02-01|NEWTELESYSTEMS, RU
 110.136.169.227|/LitecoinCashCore:0.16.3/|70015|7713|110.136.168.0/23|ID|apnic|2009-04-20|TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
 118.210.71.201|/LitecoinCashCore:0.16.1.1/|70015|7545|118.210.64.0/19|AU|apnic|2008-10-13|TPG-INTERNET-AP TPG Telecom Limited, AU
@@ -16,6 +15,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 137.175.192.147|/LitecoinCashCore:0.16.3/|70015|5769|137.175.192.0/18|CA|arin|2013-06-27|VIDEOTRON, CA
 138.88.34.59|/LitecoinCashCore:0.16.3/|70015|701|138.88.0.0/16|US|arin|1990-04-19|UUNET, US
 141.95.146.47|/LitecoinCashCore:0.16.3/|70015|16276|141.95.128.0/17|FR|ripencc|1993-02-18|OVH, FR
+142.119.92.208|/LitecoinCashCore:0.16.3/|70015|577|142.119.0.0/17|CA|arin|1993-04-05|BACOM, CA
 142.202.79.20|/LitecoinCashCore:0.15.0.1/|70015|46292|142.202.79.0/24|US|arin|2019-12-30|MOJAVEWIFI-COM-CA-1, US
 146.59.18.4|/LitecoinCashCore:0.16.3/|70015|16276|146.59.0.0/17|FR|ripencc|1994-03-08|OVH, FR
 148.255.151.85|/LitecoinCashCore:0.16.3/|70015|6400|148.255.0.0/16|DO|lacnic|2014-04-14|Compania Dominicana de Telefonos S. A., DO
@@ -44,6 +44,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.10.199.244|/LitecoinCashCore:0.16.3/|70015|8473|176.10.128.0/17|SE|ripencc|2011-05-18|BAHNHOF www.bahnhof.net, SE
 176.100.125.12|/LitecoinCashCore:0.16.3/|70015|49718|176.100.124.0/22|RU|ripencc|2011-10-24|NTS-REAL-AS, RU
 176.102.68.75|/LitecoinCashCore:0.16.3/|70015|41929|176.102.68.0/22|RU|ripencc|2018-07-03|SISTEMY-SVYAZI-AS, RU
+176.59.132.165|/LitecoinCashCore:0.16.3/|70015|41330|176.59.128.0/19|RU|ripencc|2011-06-06|T2-NOVOSIBIRSK-AS Tele2 Russia Network, RU
 177.107.46.98|/LitecoinCashCore:0.16.3/|70015|28329|177.107.32.0/19|BR|lacnic|2011-12-14|G8 NETWORKS LTDA, BR
 177.71.109.35|/LitecoinCashCore:0.16.3/|70015|271397|177.71.109.0/24|BR|lacnic|2021-11-24|Anderson Barreto da Cruz, BR
 177.71.109.56|/LitecoinCashCore:0.16.3/|70015|271397|177.71.109.0/24|BR|lacnic|2021-11-24|Anderson Barreto da Cruz, BR
@@ -92,7 +93,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.94.243.59|/LitecoinCashCore:0.16.3/|70015|32890|38.94.240.0/20|US|arin|1991-04-16|BTC-AS-1, US
 45.76.135.93|/LitecoinCashCore:0.16.3/|70015|20473|45.76.128.0/20|US|arin|2015-04-24|AS-CHOOPA, US
 46.123.249.163|/LitecoinCashCore:0.16.3/|70015|21283|46.122.0.0/15|SI|ripencc|2010-05-28|A1SI-AS A1 Slovenija, SI
-46.165.213.105|/LitecoinCashCore:0.16.3/|70015|28753|46.165.192.0/18|DE|ripencc|2010-12-13|LEASEWEB-DE-FRA-10, DE
 46.188.129.102|/LitecoinCashCore:0.16.3/|70015|5391|46.188.128.0/17|HR|ripencc|2010-11-29|T-HT Croatian Telecom Inc., HR
 46.2.141.83|/LitecoinCashCore:0.16.3/|70015|8386|46.2.140.0/23|TR|ripencc|2010-08-13|KOCNET, TR
 46.246.221.220|/LitecoinCashCore:0.16.3/|70015|1241|46.246.192.0/18|GR|ripencc|2011-02-01|FORTHNET-GR Forthnet, EU
@@ -135,7 +135,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.212.178.47|/LitecoinCashCore:0.16.3/|70015|12392|82.212.176.0/20|BE|ripencc|2003-10-16|ASBRUTELE VOO, BE
 82.25.195.96|/LitecoinCashCore:0.16.3/|70015|5089|82.24.0.0/14|GB|ripencc|2003-02-28|NTL, GB
 82.70.129.110|/LitecoinCashCore:0.16.3/|70015|13037|82.68.0.0/14|GB|ripencc|2003-04-28|ZEN-AS Zen Internet - UK, GB
-83.99.11.21|/LitecoinCashCore:0.16.3/|70015|6661|83.99.0.0/17|LU|ripencc|2004-01-20|EPT-LU Entreprise des P. et T. Luxembourg, LU
 84.141.112.178|/LitecoinCashCore:0.16.3/|70015|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.226.120.115|/LitecoinCashCore:0.16.3/|70015|6730|84.226.0.0/15|CH|ripencc|2004-07-02|SUNRISE, CH
 84.241.199.83|/LitecoinCashCore:0.16.3/|70015|31615|84.241.192.0/18|NL|ripencc|2004-06-23|TMO-NL-AS, NL
@@ -160,8 +159,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.211.18.220|/LitecoinCashCore:0.16.3/|70015|47694|91.211.16.0/22|RU|ripencc|2008-11-26|DIDAN-AS Level-MSK Ltd., RU
 91.92.61.116|/LitecoinCashCore:0.16.3/|70015|62106|91.92.61.0/24|BG|ripencc|2006-08-15|CISBG-AS, BG
 93.141.234.84|/LitecoinCashCore:0.16.3/|70015|5391|93.141.0.0/16|HR|ripencc|2008-04-23|T-HT Croatian Telecom Inc., HR
+93.51.186.180|/LitecoinCashCore:0.16.1.3/|70015|12874|93.48.0.0/13|IT|ripencc|2008-02-25|FASTWEB, IT
 93.81.207.35|/LitecoinCashCore:0.16.3/|70015|8402|93.80.0.0/15|RU|ripencc|2008-02-05|CORBINA-AS OJSC Vimpelcom, RU
 94.1.97.164|/LitecoinCashCore:0.16.3/|70015|5607|94.0.0.0/12|GB|ripencc|2008-05-27|BSKYB-BROADBAND-AS, GB
+94.67.118.21|/LitecoinCashCore:0.16.3/|70015|6799|94.67.0.0/16|GR|ripencc|2008-06-06|OTENET-GR Athens - Greece, GR
 94.67.22.145|/LitecoinCashCore:0.16.3/|70015|6799|94.67.0.0/16|GR|ripencc|2008-06-06|OTENET-GR Athens - Greece, GR
 95.12.119.153|/LitecoinCashCore:0.16.3/|70015|9121|95.12.112.0/21|TR|ripencc|2008-10-14|TTNET, TR
 95.91.227.115|/LitecoinCashCore:0.16.3/|70015|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
