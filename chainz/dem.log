@@ -15,6 +15,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.84.172.204|/eMark:1.6.1.2/|60012|208221|185.84.172.0/24|RU|ripencc|2015-01-19|ORIONNET-BRK, RU
 195.90.208.175|/eMark:1.6.1.2/|60012|42730|195.90.192.0/18|DE|ripencc|1997-04-22|EVANZOAS, DE
 195.90.211.174|/eMark:1.6.1.2/|60012|42730|195.90.192.0/18|DE|ripencc|1997-04-22|EVANZOAS, DE
+2.200.57.101|/eMark:1.5.1/|60011|3209|2.200.0.0/13|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
 206.72.198.107|/eMark:1.6.1/|60012|19318|206.72.192.0/20|US|arin|2011-10-03|IS-AS-1, US
 207.89.76.178|/eMark:1.6.1.2/|60012|58243|207.89.64.0/20|DE|ripencc|1996-03-27|TELEAG, DE
 208.110.169.2|/eMark:1.6.1.2/|60012|7226|208.110.168.0/23|US|arin|2007-04-06|DATABANK-LATISYS, US
@@ -23,6 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.136.80.217|/eMark:1.6.1.2/|60012|51167|213.136.80.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.151.10.112|/eMark:1.6.1.2/|60012|31499|213.151.10.0/24|RU|ripencc|2008-03-13|YCC-AS -- iHome --, RU
 213.162.139.221|/eMark:1.6.1.2/|60012|9136|213.162.128.0/19|DE|ripencc|2008-11-10|WOBCOM, DE
+213.238.90.6|/eMark:1.6.1.2/|60012|12741|213.238.64.0/18|PL|ripencc|2001-03-07|AS-NETIA Warszawa 02-822, PL
 217.236.36.77|/eMark:1.6.1.2/|60012|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.241.182.36|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.95.55.207|/eMark:1.6.1.2/|60012|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
@@ -32,7 +34,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.5.139.14|/eMark:1.6.1.2/|60012|3209|46.5.128.0/17|DE|ripencc|2010-09-02|VODANET International IP-Backbone of Vodafone, DE
 5.146.209.42|/eMark:1.6.1.2/|60012|3209|5.146.0.0/16|DE|ripencc|2012-07-13|VODANET International IP-Backbone of Vodafone, DE
 5.9.141.86|/eMark:1.5.0/|60011|24940|5.9.0.0/16|DE|ripencc|2012-04-25|HETZNER-AS, DE
-62.118.72.145|/eMark:1.6.1.2/|60012|8359|62.118.72.0/22|RU|ripencc|2000-09-11|MTS, RU
 62.118.73.236|/eMark:1.6.1.2/|60012|8359|62.118.72.0/22|RU|ripencc|2000-09-11|MTS, RU
 62.176.239.21|/eMark:1.6.1.2/|60012|9136|62.176.224.0/19|DE|ripencc|2003-04-11|WOBCOM, DE
 67.160.243.163|/eMark:1.5.1/|60011|7922|67.160.0.0/11|US|arin|2002-12-16|COMCAST-7922, US
@@ -56,6 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.234.78.56|/eMark:1.6.1.2/|60012|12389|80.234.78.0/24|RU|ripencc|2008-01-29|ROSTELECOM-AS, RU
 80.241.221.231|/eMark:1.6.1.2/|60012|51167|80.241.220.0/23|DE|ripencc|2011-02-14|CONTABO, DE
 81.169.141.94|/eMark:1.6.1.2/|60012|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
+83.135.136.9|/eMark:1.5.1/|60011|8881|83.135.128.0/20|DE|ripencc|2004-01-28|VERSATEL, DE
 83.250.133.13|/eMark:1.6.1.2/|60012|1257|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2, EU
 83.85.142.36|/eMark:1.6.1.2/|60012|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.129.207.225|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
@@ -96,10 +98,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 93.226.116.137|/eMark:1.5.1/|60011|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.233.65.54|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
 93.237.154.108|/eMark:1.6.1.2/|60012|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
+94.134.111.255|/eMark:1.6.1.2/|60012|8881|94.134.104.0/21|DE|ripencc|2008-08-07|VERSATEL, DE
 95.17.91.56|/eMark:1.6.1.2/|60012|12479|95.17.88.0/22|ES|ripencc|2008-11-10|UNI2-AS, ES
 95.217.78.79|/eMark:1.6.1.2/|60012|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.90.198.116|/eMark:1.4.1/|60010|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.90.208.79|/eMark:1.6.1.2/|60012|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.90.214.77|/eMark:1.5.1/|60011|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.91.252.110|/eMark:1.5.1/|60011|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
+98.97.0.28|/eMark:1.6.1.2/|60012|14593|98.97.0.0/21|US|arin|2021-06-28|SPACEX-STARLINK, US
 99.148.47.138|/eMark:1.6.1.2/|60012|7018|99.148.0.0/15|US|arin|2007-08-29|ATT-INTERNET4, US
