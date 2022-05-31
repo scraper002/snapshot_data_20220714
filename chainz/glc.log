@@ -31,6 +31,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.10.17.28|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.10.16.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.10.17.53|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.1/|70000|4761|114.10.16.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.10.19.173|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.10.18.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
+114.10.31.33|/goldcoinj:0.14.8/Goldcoin Wallet:6.33.2/|70000|4761|114.10.28.0/22|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.122.102.87|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.122.96.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.122.102.94|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.122.96.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.122.137.183|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.122.128.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
@@ -40,7 +41,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 114.124.245.199|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.124.224.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.125.101.6|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.125.96.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 114.125.108.143|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|114.125.96.0/19|ID|apnic|2008-05-22|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
-114.4.216.35|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.4.216.0/22|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.111.222|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.110.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.214.214|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.214.0/24|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
 114.5.248.106|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|4761|114.5.248.0/23|ID|apnic|2008-04-14|INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
@@ -90,7 +90,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 182.1.172.67|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.160.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.23.128|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.0.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.46.142|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
-182.1.57.70|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.83.7|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.0/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.1.88.140|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.1.64.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
 182.2.42.140|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|23693|182.2.32.0/19|ID|apnic|2010-01-29|TELKOMSEL-ASN-ID PT. Telekomunikasi Selular, ID
@@ -110,6 +109,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 198.211.45.20|/GoldcoinCore:0.14.8/|70015|35916|198.211.0.0/18|US|arin|2013-04-02|MULTA-ASN1, US
 216.137.116.136|/GoldcoinCore:0.14.8/|70015|19515|216.137.96.0/19|CA|arin|2004-02-02|ORICOM-QUEBEC1, CA
 217.66.159.28|/goldwallet:1.0.9/|70000|8359|217.66.152.0/21|RU|ripencc|2003-06-30|MTS, RU
+223.255.228.89|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|45727|223.255.228.0/24|ID|apnic|2010-08-09|THREE-AS-ID Hutchison CP Telecommunications, PT, ID
 23.227.150.229|/GoldcoinCore:0.14.8/|70015|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
 24.182.186.199|/goldcoinj:0.14.9/Goldcoin Wallet:6.41.2/|70000|20115|24.182.176.0/20|US|arin|2003-10-28|CHARTER-20115, US
 31.25.241.224|/GoldcoinCore:0.14.8/|70015|39741|31.25.241.0/24|RU|ripencc|2011-03-10|DCE-AS, RU
