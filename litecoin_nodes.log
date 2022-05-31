@@ -2,8 +2,8 @@
 # Litecoin
 IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.116.179.24|9321|/Satoshi:0.14.3.2/|45090|1.116.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-1.117.152.114|9321|/Satoshi:0.14.3.2/
-1.117.188.192|9321|/Satoshi:0.14.3.2/
+1.117.152.114|9321|/Satoshi:0.14.3.2/|45090|1.117.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+1.117.188.192|9321|/Satoshi:0.14.3.2/|45090|1.117.128.0/18|CN|apnic|2010-06-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 1.83.202.71|9333|/LitecoinCore:0.18.1/|4134|1.80.0.0/13|CN|apnic|2010-08-05|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 101.99.94.225|9333|/LitecoinCore:0.18.1/|201133|101.99.94.0/24|MY|apnic|2011-03-15|VERDINA, BZ
 103.107.199.54|9333|/LitecoinCore:0.16.3/|137409|103.107.199.0/24|AU|apnic|2018-01-17|GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU
@@ -28,69 +28,68 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.26.126.57|9333|/LitecoinCore:0.18.1/|701|108.26.64.0/18|US|arin|2009-06-05|UUNET, US
 108.48.75.87|9333|/LitecoinCore:0.21.2/|701|108.48.0.0/13|US|arin|2009-06-05|UUNET, US
 108.52.83.9|9333|/LitecoinCore:0.21.2/|701|108.52.0.0/16|US|arin|2009-06-05|UUNET, US
-108.61.216.97|9333|/LitecoinCore:0.18.1/
-108.61.23.46|9333|/LitecoinCore:0.18.1/
-109.106.244.78|9333|/LitecoinCore:0.16.0/
-109.202.206.15|9333|/LitecoinCore:0.18.1/
-109.236.88.130|9333|/LitecoinCore:0.17.1/
-109.236.94.75|9333|/LitecoinCore:0.18.1/
-109.87.166.145|9333|/LitecoinCore:0.21.2/
-111.108.29.123|9513|/Satoshi:0.8.7.2/
-111.90.145.106|9333|/LitecoinCore:0.18.1/
-112.5.37.248|60012|/LitecoinCore:0.18.1/
-112.74.105.15|9333|/LitecoinCore:0.21.2/
-112.74.45.139|9333|/LitecoinCore:0.21.2/
-112.74.86.230|9333|/LitecoinCore:0.16.3/
-113.160.249.188|9321|/Satoshi:0.10.4.2/
-114.132.236.203|9321|/Satoshi:0.14.3.2/
-115.68.52.176|9333|/LitecoinCore:0.17.1/
-115.68.73.150|9333|/LitecoinCore:0.16.3/
-115.70.99.63|9333|/LitecoinCore:0.18.1/
-115.73.221.175|9333|/LitecoinCore:0.18.1/
-116.202.0.237|9333|/LitecoinCore:0.17.1/
-116.202.100.25|9333|/LitecoinCore:0.13.2(bitcore)/
-116.202.51.11|9333|/LitecoinCore:0.16.3/
-116.202.56.80|9333|/LitecoinCore:0.21.2/
-116.203.196.156|9333|/LitecoinCore:0.21.2/
-116.203.245.29|9333|/Satoshi:0.8.7.4/
+108.61.216.97|9333|/LitecoinCore:0.18.1/|20473|108.61.216.0/22|US|arin|2010-12-08|AS-CHOOPA, US
+108.61.23.46|9333|/LitecoinCore:0.18.1/|20473|108.61.0.0/18|US|arin|2010-12-08|AS-CHOOPA, US
+109.106.244.78|9333|/LitecoinCore:0.16.0/|47583|109.106.240.0/21|DE|ripencc|2009-10-19|AS-HOSTINGER, CY
+109.202.206.15|9333|/LitecoinCore:0.18.1/|13030|109.202.192.0/19|CH|ripencc|2010-02-22|INIT7, CH
+109.236.88.130|9333|/LitecoinCore:0.17.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
+109.236.94.75|9333|/LitecoinCore:0.18.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
+109.87.166.145|9333|/LitecoinCore:0.21.2/|13188|109.87.166.0/24|UA|ripencc|2009-08-20|TRIOLAN, UA
+111.108.29.123|9513|/Satoshi:0.8.7.2/|2516|111.108.0.0/16|JP|apnic|2009-06-12|KDDI KDDI CORPORATION, JP
+111.90.145.106|9333|/LitecoinCore:0.18.1/|45839|111.90.144.0/21|MY|apnic|2009-06-17|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
+112.5.37.248|60012|/LitecoinCore:0.18.1/|9808|112.5.32.0/21|CN|apnic|2008-12-15|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+112.74.105.15|9333|/LitecoinCore:0.21.2/|37963|112.74.0.0/17|CN|apnic|2008-12-24|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+112.74.45.139|9333|/LitecoinCore:0.21.2/|37963|112.74.0.0/17|CN|apnic|2008-12-24|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+112.74.86.230|9333|/LitecoinCore:0.16.3/|37963|112.74.0.0/17|CN|apnic|2008-12-24|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+113.160.249.188|9321|/Satoshi:0.10.4.2/|45899|113.160.240.0/20|VN|apnic|2008-11-04|VNPT-AS-VN VNPT Corp, VN
+114.132.236.203|9321|/Satoshi:0.14.3.2/|45090|114.132.192.0/18|CN|apnic|2008-05-29|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+115.68.52.176|9333|/LitecoinCore:0.17.1/|38700|115.68.0.0/17|KR|apnic|2008-07-15|SMILESERV-AS-KR SMILESERV, KR
+115.68.73.150|9333|/LitecoinCore:0.16.3/|38700|115.68.0.0/17|KR|apnic|2008-07-15|SMILESERV-AS-KR SMILESERV, KR
+115.70.99.63|9333|/LitecoinCore:0.18.1/|10143|115.70.96.0/21|AU|apnic|2008-07-22|EXETEL-AS-AP Exetel Pty Ltd, AU
+115.73.221.175|9333|/LitecoinCore:0.18.1/|7552|115.73.216.0/21|VN|apnic|2008-07-17|VIETEL-AS-AP Viettel Group, VN
+116.202.0.237|9333|/LitecoinCore:0.17.1/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.202.100.25|9333|/LitecoinCore:0.13.2(bitcore)/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.202.51.11|9333|/LitecoinCore:0.16.3/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.202.56.80|9333|/LitecoinCore:0.21.2/|24940|116.202.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.203.196.156|9333|/LitecoinCore:0.21.2/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.203.245.29|9333|/Satoshi:0.8.7.4/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
 116.203.72.169|9333|/LitecoinCore:0.21.2/|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
-118.163.120.179|9333|/LitecoinCore:0.18.1/
-118.163.122.208|9333|/LitecoinCore:0.18.1/
-120.77.249.96|9333|/LitecoinCore:0.21.2/
-121.37.71.34|9321|/Satoshi:0.14.3.2/
-121.4.245.205|9321|/Satoshi:0.14.3/
-121.5.174.241|9321|/Satoshi:0.14.3/
-121.78.245.163|9333|/LitecoinCore:0.18.1/
-128.12.200.81|9333|/LitecoinCore:0.18.1/
-128.199.159.228|9333|/LitecoinCore:0.17.1/
-128.199.69.208|9333|/LitecoinCore:0.18.1/
-128.71.236.229|9333|/LitecoinCore:0.21.2/
-129.211.58.27|9321|/Satoshi:0.14.3/
-13.114.38.206|9333|/LitecoinCore:0.17.1/
-13.114.61.243|9333|/LitecoinCore:0.21.2/
-13.115.75.117|9333|/LitecoinCore:0.21.2/
-13.213.130.202|9333|/LitecoinCore:0.21.2/
-13.213.225.227|9333|/LitecoinCore:0.21.2/
-13.228.29.223|9333|/LitecoinCore:0.17.1/
-13.229.80.22|9333|/LitecoinCore:0.16.3/
-13.230.162.6|9333|/LitecoinCore:0.21.2/
-13.231.205.209|9333|/LitecoinCore:0.21.2/
-13.237.232.32|9333|/LitecoinCore:0.18.1/
-132.147.62.253|9333|/LitecoinCore:0.21.2/
-134.122.25.43|9333|/LitecoinCore:0.17.1/
-134.122.67.7|9333|/LitecoinCore:0.17.1/
+118.163.120.179|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+118.163.122.208|9333|/LitecoinCore:0.18.1/|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
+120.77.249.96|9333|/LitecoinCore:0.21.2/|37963|120.77.128.0/17|CN|apnic|2008-03-27|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
+121.37.71.34|9321|/Satoshi:0.14.3.2/|55990|121.37.64.0/18|CN|apnic|2006-07-26|HWCSNET Huawei Cloud Service data center, CN
+121.4.245.205|9321|/Satoshi:0.14.3/|45090|121.4.192.0/18|CN|apnic|2006-05-16|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+121.5.174.241|9321|/Satoshi:0.14.3/|45090|121.5.128.0/18|CN|apnic|2006-05-16|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+121.78.245.163|9333|/LitecoinCore:0.18.1/|9286|121.78.224.0/19|KR|apnic|2006-06-20|KINXIDC-AS-KR KINX, KR
+128.12.200.81|9333|/LitecoinCore:0.18.1/|32|128.12.0.0/16|US|arin|1983-02-24|STANFORD, US
+128.199.159.228|9333|/LitecoinCore:0.17.1/|14061|128.199.128.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
+128.199.69.208|9333|/LitecoinCore:0.18.1/|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
+128.71.236.229|9333|/LitecoinCore:0.21.2/|3216|128.71.0.0/16|RU|ripencc|2011-10-31|SOVAM-AS, RU
+129.211.58.27|9321|/Satoshi:0.14.3/|45090|129.211.0.0/18|CN|apnic|1997-04-04|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+13.114.38.206|9333|/LitecoinCore:0.17.1/|16509|13.114.0.0/18|US|arin|2016-08-09|AMAZON-02, US
+13.114.61.243|9333|/LitecoinCore:0.21.2/|16509|13.114.0.0/18|US|arin|2016-08-09|AMAZON-02, US
+13.115.75.117|9333|/LitecoinCore:0.21.2/|16509|13.112.0.0/14|US|arin|2016-08-09|AMAZON-02, US
+13.213.130.202|9333|/LitecoinCore:0.21.2/|16509|13.212.0.0/15|US|arin|2019-10-01|AMAZON-02, US
+13.213.225.227|9333|/LitecoinCore:0.21.2/|16509|13.212.0.0/15|US|arin|2019-10-01|AMAZON-02, US
+13.228.29.223|9333|/LitecoinCore:0.17.1/|16509|13.228.0.0/15|US|arin|2019-10-01|AMAZON-02, US
+13.229.80.22|9333|/LitecoinCore:0.16.3/|16509|13.228.0.0/15|US|arin|2019-10-01|AMAZON-02, US
+13.230.162.6|9333|/LitecoinCore:0.21.2/|16509|13.230.0.0/15|US|arin|2019-10-01|AMAZON-02, US
+13.231.205.209|9333|/LitecoinCore:0.21.2/|16509|13.230.0.0/15|US|arin|2019-10-01|AMAZON-02, US
+13.237.232.32|9333|/LitecoinCore:0.18.1/|16509|13.236.0.0/14|US|arin|2019-10-01|AMAZON-02, US
+132.147.62.253|9333|/LitecoinCore:0.21.2/|11776|132.147.60.0/22|US|arin|2014-09-10|ATLANTICBB-JOHNSTOWN, US
+134.122.25.43|9333|/LitecoinCore:0.17.1/|14061|134.122.16.0/20|US|arin|2019-09-06|DIGITALOCEAN-ASN, US
+134.122.67.7|9333|/LitecoinCore:0.17.1/|14061|134.122.64.0/20|US|arin|2019-09-06|DIGITALOCEAN-ASN, US
 134.19.188.142|9333|/LitecoinCore:0.18.1/|49453|134.19.188.0/24|NL|ripencc|2011-11-04|GLOBALLAYER, NL
-134.195.196.216|9333|/LitecoinCore:0.18.1/
-135.125.216.127|9333|/LitecoinCore:0.18.1/
-135.125.96.150|9333|/LitecoinCore:0.21.2/
-135.148.43.187|10332|/DefcoinCore:1.0.0/
-135.148.43.188|10332|/DefcoinCore:1.0.0/
-135.148.43.189|10332|/DefcoinCore:1.0.0/
-135.148.55.191|9333|/LitecoinCore:0.16.3/
-135.181.1.50|9333|/LitecoinCore:0.18.1/
-135.181.116.224|9333|/LitecoinCore:0.18.1/
-135.181.164.52|9333|/LitecoinCore:0.18.1/
-135.181.211.44|9333|/LitecoinCore:0.18.1/
+134.195.196.216|9333|/LitecoinCore:0.18.1/|62563|134.195.196.0/24|CA|arin|2020-06-26|AS-GLOBALTELEHOST, CA
+135.125.216.127|9333|/LitecoinCore:0.18.1/|16276|135.125.128.0/17|FR|ripencc|2000-10-11|OVH, FR
+135.125.96.150|9333|/LitecoinCore:0.21.2/|16276|135.125.0.0/17|FR|ripencc|2000-10-11|OVH, FR
+135.148.43.187|10332|/DefcoinCore:1.0.0/|16276|135.148.0.0/17|US|arin|2020-09-28|OVH, FR
+135.148.43.188|10332|/DefcoinCore:1.0.0/|16276|135.148.0.0/17|US|arin|2020-09-28|OVH, FR
+135.148.43.189|10332|/DefcoinCore:1.0.0/|16276|135.148.0.0/17|US|arin|2020-09-28|OVH, FR
+135.148.55.191|9333|/LitecoinCore:0.16.3/|16276|135.148.0.0/17|US|arin|2020-09-28|OVH, FR
+135.181.1.50|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
+135.181.116.224|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
+135.181.164.52|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.233.71|10841|/CounosXCore:0.17.3/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.41.17|9333|/LitecoinCore:0.13.2(bitcore)/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.60.26|9333|/LitecoinCore:0.18.1/|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
@@ -106,7 +105,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 136.243.89.196|9333|/LitecoinCore:0.17.1/|24940|136.243.0.0/16|DE|ripencc|2004-04-14|HETZNER-AS, DE
 136.244.65.212|9333|/LitecoinCore:0.17.1/|20473|136.244.64.0/20|US|arin|2019-04-08|AS-CHOOPA, US
 136.37.185.163|9333|/LitecoinCore:0.18.1/|16591|136.37.176.0/20|US|arin|2015-10-06|GOOGLE-FIBER, US
-136.56.170.96|9333|/LitecoinCore:0.18.1/
+136.56.170.96|9333|/LitecoinCore:0.18.1/|16591|136.56.160.0/20|US|arin|2015-10-06|GOOGLE-FIBER, US
 137.147.17.88|9333|/LitecoinCore:0.21.2/
 137.74.29.117|9333|/LitecoinCore:0.17.1/
 138.197.11.111|7107|/FlashcoinCore:0.13.3.2(bitcore)/
@@ -322,6 +321,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.197.163.136|9333|/LitecoinCore:0.21.2/
 185.211.6.145|9333|/LitecoinCore:0.18.1/
 185.213.157.177|9333|/LitecoinCore:0.18.1/
+185.215.227.217|9333|/LitecoinCore:0.17.1/
 185.217.199.33|9333|/LitecoinCore:0.18.1/
 185.232.71.26|9333|/LitecoinCore:0.18.1/
 185.246.56.72|9333|/LitecoinCore:0.18.1/
@@ -415,6 +415,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2001:41d0:303:dab7::|8801|/LitecoinCore:0.21.2/
 2001:41d0:303:db64::|9333|/LitecoinCore:0.21.2/
 2001:41d0:303:dc77::|9333|/LitecoinCore:0.18.1/
+2001:41d0:303:e0cd::|9333|/LitecoinCore:0.17.1/
 2001:41d0:403:434c::|8801|/LitecoinCore:0.21.2/
 2001:41d0:403:434d::|8801|/LitecoinCore:0.21.2/
 2001:41d0:403:512f::|9333|/LitecoinCore:0.18.1/
@@ -486,6 +487,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.136.91.45|9333|/LitecoinCore:0.18.1/
 213.136.92.251|9333|/LitecoinCore:0.17.1/
 213.151.219.90|9333|/LitecoinCore:0.18.1/
+213.226.135.123|9333|/LitecoinCore:0.21.2/
 213.239.201.46|9333|/LitecoinCore:0.16.3/
 213.239.220.183|9333|/LitecoinCore:0.17.1/
 213.239.232.113|9332|/LitecoinCore:0.17.1/
@@ -522,7 +524,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2401:c080:2400:19b5:6472:f1b:8f68:2ff4|9333|/LitecoinCore:0.16.3/
 2402:1f00:8100:181::|9333|/LitecoinCore:0.16.3/
 2403:6200:88a6:4ad0:7d28:2b62:8365:ecdc|9333|/LitecoinCore:0.21.2/
-2409:8a62:15d:8a60:80d:1fd5:b10:cd45|9333|/LitecoinCore:0.21.2/
+2409:8a1e:2a63:7ac0:88a:4854:80df:5f69|9321|/Satoshi:0.14.3.2/
 240d:1b:64:6202:1f7a:a402:916:dc86|9513|/Satoshi:0.8.7.2/
 240e:379:4297:ed00:5e7:60d4:da26:60d8|9333|/LitecoinCore:0.18.1/
 240e:3b5:30dc:bc01:2c9f:8e53:90ba:c1b8|9333|/LitecoinCore:0.21.2/
@@ -560,14 +562,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:f2c0:100:200:1::2e8|9333|/LitecoinCore:0.18.1/
 2610:150:c009:4:225:90ff:feaf:61c|9333|/LitecoinCore:0.18.1/
 2620:a6:2000:1::d:7f03|9333|/LitecoinCore:0.21.2/
-2800:bf0:105:811:cf1:19b1:bb7d:d17|9333|/LitecoinCore:0.21.2/
 2804:14c:b180:1db4:c577:ee8:11fe:3cb8|9333|/LitecoinCore:0.21.2(Edward M9y91o8GLmcVsGn5qryeF8vAbrckEMJPtx)/
 2804:14d:4c89:8dd6:c9f3:7173:8a41:6fba|37371|/B2CCoinCore:0.16.3/
 2804:14d:4cdc:9b71::1000|37371|/B2CCoinCore:0.16.3/
 2804:14d:7e88:ad6c:18c5:8d0b:a2fa:f360|37371|/B2CCoinCore:0.16.3/
 2804:14d:a493:8091:1065:36d1:650e:6ec1|9333|/LitecoinCore:0.21.2/
 2804:2140:1020:bdf8:2e0:4cff:fe1e:5283|9333|/LitecoinCore:0.18.1/
-2804:37fc:2141:d5fc:79ad:eea1:f517:5a5|37371|/B2CCoinCore:0.16.3/
+2804:37fc:2141:d5fc:890:81d4:22fb:2997|37371|/B2CCoinCore:0.16.3/
 2804:391c:0:10:3eec:efff:fe3e:2f1e|9333|/LitecoinCore:0.16.3/
 2804:391c:0:144:3eec:efff:fe3e:36de|9333|/LitecoinCore:0.16.3/
 2804:391c:0:6:3eec:efff:fe3e:36de|9333|/LitecoinCore:0.16.3/
@@ -649,7 +650,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f9:2b:2e6f::2|9333|/LitecoinCore:0.18.1/
 2a01:4f9:2b:2e81::2|9333|/LitecoinCore:0.16.3/
 2a01:4f9:2b:fd8::2|9333|/LitecoinCore:0.16.3/
-2a01:4f9:3a:2913::2|9333|/LitecoinCore:0.18.1/
 2a01:4f9:3b:1f86::2|9333|/LitecoinCore:0.21.1/
 2a01:4f9:3b:2bc9::2|9333|/LitecoinCore:0.18.1/
 2a01:4f9:3b:5809::2|9333|/LitecoinCore:0.18.1/
@@ -684,6 +684,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a02:1210:78a9:7700:8536:cbe5:e9dd:3870|9333|/LitecoinCore:0.18.1/
 2a02:13b8:f000:101::a|9333|/LitecoinCore:0.18.1/
 2a02:168:420b:a::28|9333|/LitecoinCore:0.18.1/
+2a02:2f04:c2d:300:d65d:64ff:fe80:ab1f|9333|/LitecoinCore:0.17.1/
 2a02:4780:8:6:2:f502:2b5:5736|9333|/LitecoinCore:0.16.0/
 2a02:7b40:b905:376b::1|9333|/LitecoinCore:0.18.1/
 2a02:a44d:14d6:1:2c0:8ff:fe8f:b3b2|9333|/LitecoinCore:0.18.1/
@@ -717,18 +718,18 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 3.131.32.167|49333|/LitecoinCore:0.18.1/
 3.131.71.216|49333|/LitecoinCore:0.18.1/
 3.132.180.117|49333|/LitecoinCore:0.18.1/
-3.133.174.237|9333|/LitecoinCore:0.17.1/|16509|3.132.0.0/14|US|arin|2018-06-25|AMAZON-02, US
-3.139.122.123|49333|/LitecoinCore:0.18.1/|16509|3.136.0.0/13|US|arin|2018-06-25|AMAZON-02, US
-3.140.3.242|49333|/LitecoinCore:0.18.1/|16509|3.136.0.0/13|US|arin|2018-06-25|AMAZON-02, US
-3.143.225.247|9333|/LitecoinCore:0.18.1/|16509|3.136.0.0/13|US|arin|2018-06-25|AMAZON-02, US
-3.17.255.47|49333|/LitecoinCore:0.18.1/|16509|3.16.0.0/14|US|arin|2017-12-20|AMAZON-02, US
-3.235.246.154|9333|/LitecoinCore:0.21.2/|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
-3.236.46.182|9333|/LitecoinCore:0.18.1/|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
-3.237.199.17|9333|/LitecoinCore:0.18.1/|14618|3.224.0.0/12|US|arin|2018-06-25|AMAZON-AES, US
-3.36.81.177|9333|/LitecoinCore:0.18.1/|16509|3.36.0.0/14|US|arin|2017-12-20|AMAZON-02, US
-3.66.59.110|9333|/LitecoinCore:0.21.2/|16509|3.64.0.0/12|US|arin|2017-12-20|AMAZON-02, US
-3.68.34.196|9333|/LitecoinCore:0.18.1/|16509|3.64.0.0/12|US|arin|2017-12-20|AMAZON-02, US
-3.69.75.33|9333|/LitecoinCore:0.21.2/|16509|3.64.0.0/12|US|arin|2017-12-20|AMAZON-02, US
+3.133.174.237|9333|/LitecoinCore:0.17.1/
+3.139.122.123|49333|/LitecoinCore:0.18.1/
+3.140.3.242|49333|/LitecoinCore:0.18.1/
+3.143.225.247|9333|/LitecoinCore:0.18.1/
+3.17.255.47|49333|/LitecoinCore:0.18.1/
+3.235.246.154|9333|/LitecoinCore:0.21.2/
+3.236.46.182|9333|/LitecoinCore:0.18.1/
+3.237.199.17|9333|/LitecoinCore:0.18.1/
+3.36.81.177|9333|/LitecoinCore:0.18.1/
+3.66.59.110|9333|/LitecoinCore:0.21.2/
+3.68.34.196|9333|/LitecoinCore:0.18.1/
+3.69.75.33|9333|/LitecoinCore:0.21.2/
 3.8.68.115|49333|/LitecoinCore:0.17.1/
 31.14.40.64|9333|/LitecoinCore:0.18.1/
 31.165.115.7|9333|/LitecoinCore:0.21.2/
@@ -754,15 +755,15 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 34.239.163.148|9333|/LitecoinCore:0.21.2/
 34.252.64.239|5001|/LitecoinCore:0.21.2/
 34.79.155.43|9333|/LitecoinCore:0.21.2/
-34.81.7.75|9333|/LitecoinCore:0.21.2/
-35.158.128.152|9333|/LitecoinCore:0.21.2/
-35.162.126.176|9333|/LitecoinCore:0.17.1/
-35.169.124.203|9333|/LitecoinCore:0.18.1/
-35.169.128.163|9333|/LitecoinCore:0.21.2/
-35.184.103.190|9333|/LitecoinCore:0.18.1/
-35.185.243.234|9333|/LitecoinCore:0.21.2/
-35.187.38.135|9333|/LitecoinCore:0.21.2/
-35.196.30.165|9333|/LitecoinCore:0.21.2/
+34.81.7.75|9333|/LitecoinCore:0.21.2/|396982|34.81.0.0/20|US|arin|2018-09-28|GOOGLE-CLOUD-PLATFORM, US
+35.158.128.152|9333|/LitecoinCore:0.21.2/|16509|35.156.0.0/14|US|arin|2016-08-09|AMAZON-02, US
+35.162.126.176|9333|/LitecoinCore:0.17.1/|16509|35.160.0.0/13|US|arin|2016-08-09|AMAZON-02, US
+35.169.124.203|9333|/LitecoinCore:0.18.1/|14618|35.168.0.0/13|US|arin|2016-08-09|AMAZON-AES, US
+35.169.128.163|9333|/LitecoinCore:0.21.2/|14618|35.168.0.0/13|US|arin|2016-08-09|AMAZON-AES, US
+35.184.103.190|9333|/LitecoinCore:0.18.1/|396982|35.184.96.0/20|US|arin|2016-10-11|GOOGLE-CLOUD-PLATFORM, US
+35.185.243.234|9333|/LitecoinCore:0.21.2/|396982|35.185.240.0/20|US|arin|2016-10-11|GOOGLE-CLOUD-PLATFORM, US
+35.187.38.135|9333|/LitecoinCore:0.21.2/|396982|35.187.32.0/20|US|arin|2016-10-11|GOOGLE-CLOUD-PLATFORM, US
+35.196.30.165|9333|/LitecoinCore:0.21.2/|396982|35.196.16.0/20|US|arin|2017-03-21|GOOGLE-CLOUD-PLATFORM, US
 35.210.150.207|9333|/LitecoinCore:0.21.2/|15169|35.210.0.0/16|US|arin|2017-09-29|GOOGLE, US
 35.227.101.239|9333|/LitecoinCore:0.21.2/|396982|35.227.96.0/20|US|arin|2017-09-29|GOOGLE-CLOUD-PLATFORM, US
 35.237.137.29|9333|/LitecoinCore:0.18.1/|15169|35.236.0.0/14|US|arin|2017-09-29|GOOGLE, US
@@ -771,7 +772,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 35.240.177.12|9333|/LitecoinCore:0.13.2(bitcore)/|396982|35.240.176.0/20|US|arin|2017-09-29|GOOGLE-CLOUD-PLATFORM, US
 35.243.148.45|9333|/LitecoinCore:0.21.2/|15169|35.240.0.0/14|US|arin|2017-09-29|GOOGLE, US
 35.246.202.14|9333|/LitecoinCore:0.18.1/|396982|35.246.192.0/20|US|arin|2017-09-29|GOOGLE-CLOUD-PLATFORM, US
-35.73.229.248|9333|/LitecoinCore:0.21.2/
+35.73.229.248|9333|/LitecoinCore:0.21.2/|16509|35.72.0.0/13|US|arin|2019-04-15|AMAZON-02, US
 35.74.253.216|9333|/LitecoinCore:0.21.2/|16509|35.72.0.0/13|US|arin|2019-04-15|AMAZON-02, US
 35.76.236.124|9333|/LitecoinCore:0.21.2/|16509|35.72.0.0/13|US|arin|2019-04-15|AMAZON-02, US
 35.89.177.147|9333|/LitecoinCore:0.21.2/|16509|35.80.0.0/12|US|arin|2019-04-15|AMAZON-02, US
@@ -780,7 +781,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.187.135.50|9333|/LitecoinCore:0.18.1/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
 37.187.155.185|9027|/Satoshi:0.8.6.2/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
 37.187.22.76|9333|/LitecoinCore:0.14.2/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
-37.187.29.104|9333|/LitecoinCore:0.18.1/|16276|37.187.0.0/16|FR|ripencc|2012-03-20|OVH, FR
+37.187.29.104|9333|/LitecoinCore:0.18.1/
 37.187.29.107|9333|/LitecoinCore:0.18.1/
 37.187.29.122|9333|/LitecoinCore:0.18.1/
 37.187.29.127|9333|/LitecoinCore:0.18.1/
@@ -812,27 +813,27 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.131.66.182|9333|/LitecoinCore:0.18.1/
 45.18.94.250|9333|/LitecoinCore:0.21.2/
 45.226.80.102|9333|/LitecoinCore:0.18.1/
-45.32.200.129|9321|/Satoshi:0.14.3/|20473|45.32.192.0/20|US|arin|2015-02-17|AS-CHOOPA, US
-45.32.68.125|9333|/LitecoinCore:0.21.2/|20473|45.32.64.0/19|US|arin|2015-02-17|AS-CHOOPA, US
-45.61.162.223|9333|/LitecoinCore:0.18.1/|27176|45.61.162.0/24|US|arin|2015-01-02|DATAWAGON, US
-45.79.170.139|33666|/CypherfunkCore:0.15.2/|63949|45.79.160.0/20|US|arin|2015-04-29|LINODE-AP Linode, LLC, US
-45.86.182.214|9333|/LitecoinCore:0.17.1/|44128|45.86.182.0/23|RU|ripencc|2019-06-13|INTERNET-PRO-AS, RU
-45.88.188.220|9333|/LitecoinCore:0.18.1/|51167|45.88.188.0/24|DE|ripencc|2019-06-19|CONTABO, DE
-45.88.191.8|9333|/LitecoinCore:0.18.1/|51167|45.88.191.0/24|DE|ripencc|2019-06-19|CONTABO, DE
-45.92.71.26|9333|/LitecoinCore:0.21.2/|199524|45.92.71.0/24|LU|ripencc|2019-07-01|GCORE, LU
-45.94.58.23|9333|/LitecoinCore:0.18.1/|51167|45.94.58.0/24|DE|ripencc|2019-07-05|CONTABO, DE
-46.101.196.34|9333|/LitecoinCore:0.18.1/|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
-46.101.3.154|9333|/LitecoinCore:0.18.1/|14061|46.101.0.0/18|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
-46.148.234.250|9333|/LitecoinCore:0.21.2/|49505|46.148.234.0/23|RU|ripencc|2010-12-06|SELECTEL, RU
-46.165.221.209|19333|/LitecoinCore:0.21.2/|28753|46.165.192.0/18|DE|ripencc|2010-12-13|LEASEWEB-DE-FRA-10, DE
-46.166.173.171|9333|/LitecoinCore:0.18.1/|16125|46.166.168.0/21|LT|ripencc|2010-12-16|CHERRYSERVERS1-AS, LT
-46.188.15.6|9333|/LitecoinCore:0.18.1/|8334|46.188.0.0/17|RU|ripencc|2010-11-24|CO-2COM-AS Moscow, RU
-46.28.204.21|9333|/LitecoinCore:0.18.1/|197988|46.28.200.0/21|CH|ripencc|2011-08-05|SOLARCOM, CH
-46.4.105.19|9333|/LitecoinCore:0.17.1/|24940|46.4.0.0/16|DE|ripencc|2010-08-19|HETZNER-AS, DE
-47.106.80.26|9333|/LitecoinCore:0.14.2/|37963|47.106.0.0/16|CN|apnic|1989-01-06|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
-47.108.189.232|9333|/LitecoinCore:0.21.2/|37963|47.108.0.0/16|CN|apnic|1989-01-06|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
-47.109.21.69|9333|/LitecoinCore:0.21.2/|37963|47.109.0.0/16|CN|apnic|1989-01-06|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
-47.242.173.82|9333|/LitecoinCore:0.21.2/|45102|47.242.0.0/16|US|arin|2016-04-15|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+45.32.200.129|9321|/Satoshi:0.14.3/
+45.32.68.125|9333|/LitecoinCore:0.21.2/
+45.61.162.223|9333|/LitecoinCore:0.18.1/
+45.79.170.139|33666|/CypherfunkCore:0.15.2/
+45.86.182.214|9333|/LitecoinCore:0.17.1/
+45.88.188.220|9333|/LitecoinCore:0.18.1/
+45.88.191.8|9333|/LitecoinCore:0.18.1/
+45.92.71.26|9333|/LitecoinCore:0.21.2/
+45.94.58.23|9333|/LitecoinCore:0.18.1/
+46.101.196.34|9333|/LitecoinCore:0.18.1/
+46.101.3.154|9333|/LitecoinCore:0.18.1/
+46.148.234.250|9333|/LitecoinCore:0.21.2/
+46.165.221.209|19333|/LitecoinCore:0.21.2/
+46.166.173.171|9333|/LitecoinCore:0.18.1/
+46.188.15.6|9333|/LitecoinCore:0.18.1/
+46.28.204.21|9333|/LitecoinCore:0.18.1/
+46.4.105.19|9333|/LitecoinCore:0.17.1/
+47.106.80.26|9333|/LitecoinCore:0.14.2/
+47.108.189.232|9333|/LitecoinCore:0.21.2/
+47.109.21.69|9333|/LitecoinCore:0.21.2/
+47.242.173.82|9333|/LitecoinCore:0.21.2/
 47.243.178.161|9333|/LitecoinCore:0.21.2/
 47.25.8.37|9333|/LitecoinCore:0.21.2(Mine at p2pool.hyperdonkey.com)/
 47.253.57.215|9333|/LitecoinCore:0.21.2/
@@ -864,7 +865,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.188.104.245|10333|/LitecoinCore:0.21.2/
 5.188.78.238|3042|/LitecoinCore:0.21.2/
 5.189.187.89|9333|/LitecoinCore:0.16.0/
-5.189.197.175|9333|/LitecoinCore:0.16.3/
 5.196.167.44|9333|/LitecoinCore:0.17.1/
 5.196.80.197|9333|/LitecoinCore:0.21.2/
 5.196.91.94|9027|/Satoshi:0.8.6.2/
@@ -889,6 +889,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.9.96.156|9333|/LitecoinCore:0.18.1/
 50.116.19.40|10332|/DefcoinCore:1.0.0/
 50.68.220.85|9333|/LitecoinCore:0.18.1/
+50.80.186.116|9333|/LitecoinCore:0.21.2/
 51.15.176.153|9333|/LitecoinCore:0.18.1/
 51.15.21.149|9333|/LitecoinCore:0.17.1/
 51.159.194.60|9333|/LitecoinCore:0.18.1/
@@ -944,6 +945,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 52.39.246.26|9333|/LitecoinCore:0.18.1/
 52.77.231.41|9333|/LitecoinCore:0.18.1/
 52.77.241.207|9333|/LitecoinCore:0.17.1/
+52.91.142.28|9333|/LitecoinCore:0.18.1/
 54.151.82.59|9333|/LitecoinCore:0.18.1/
 54.155.133.135|9333|/LitecoinCore:0.18.1/
 54.161.115.49|9333|/LitecoinCore:0.18.1/
@@ -973,7 +975,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.190.193|9333|/LitecoinCore:0.18.1/
 62.205.132.253|9333|/LitecoinCore:0.18.1/
 62.210.113.55|9333|/LitecoinCore:0.21.2/
-62.215.127.73|9333|/LitecoinCore:0.21.2/
 62.75.138.143|9333|/LitecoinCore:0.18.1/
 62.75.210.19|9333|/LitecoinCore:0.18.1/
 62.75.216.136|9333|/LitecoinCore:0.18.1/
@@ -1081,12 +1082,12 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.177.160.24|9333|/LitecoinCore:0.16.3/
 81.251.45.149|9333|/LitecoinCore:0.18.1/
 81.69.31.75|9321|/Satoshi:0.10.4.2/
-81.7.118.235|9333|/LitecoinCore:0.21.2/
 82.128.230.135|9333|/LitecoinCore:0.18.1/
 82.200.205.30|33666|/CypherfunkCore:0.15.2/
 82.202.197.224|9333|/LitecoinCore:0.17.1/
 82.221.131.172|9333|/LitecoinCore:0.18.1/
 82.75.15.130|9333|/LitecoinCore:0.18.1/
+82.79.169.127|9333|/LitecoinCore:0.17.1/
 83.128.11.143|9333|/LitecoinCore:0.17.1/
 83.221.211.116|10333|/LitecoinCore:0.21.2/
 83.226.186.108|9333|/LitecoinCore:0.21.2/
@@ -1122,6 +1123,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.99.151.67|9333|/LitecoinCore:0.16.3/
 88.99.209.94|9333|/LitecoinCore:0.18.1/
 89.163.145.240|9333|/LitecoinCore:0.18.1/
+89.183.63.80|9333|/LitecoinCore:0.18.1/
 89.185.100.230|9334|/PLNcoin:0.10.2.2/
 89.207.131.19|9333|/LitecoinCore:0.18.1/
 89.212.5.80|9333|/LitecoinCore:0.16.3/
@@ -1199,7 +1201,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.202.7|9333|/LitecoinCore:0.21.2/
 95.217.210.168|9333|/LitecoinCore:0.21.2/
 95.217.35.32|9333|/LitecoinCore:0.18.1/
-95.217.36.126|9333|/LitecoinCore:0.16.3/
 95.217.36.29|9333|/LitecoinCore:0.18.1/
 95.217.38.60|9333|/LitecoinCore:0.17.1/
 95.217.44.33|9333|/LitecoinCore:0.18.1/
