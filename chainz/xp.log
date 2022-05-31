@@ -68,7 +68,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 146.70.52.109|/eXperience Points Core:5.2.0.3/|70922|9009|146.70.52.0/24|RO|ripencc|1991-01-23|M247, GB
 146.70.52.246|/eXperience Points Core:5.2.0.3/|70922|9009|146.70.52.0/24|RO|ripencc|1991-01-23|M247, GB
 147.251.16.170|/eXperience Points Core:5.2.0.3/|70922|2852|147.251.0.0/16|CZ|ripencc|1991-08-02|CESNET2, CZ
-149.34.244.83|/eXperience Points Core:5.2.0.3/|70922|212238|149.34.244.0/24|US|arin|1992-01-28|CDNEXT, GB
 151.34.12.91|/eXperience Points Core:5.2.0.2/|70922|1267|151.34.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 151.34.33.255|/eXperience Points Core:5.2.0.2/|70922|1267|151.34.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
 151.34.4.130|/eXperience Points Core:5.2.0.2/|70922|1267|151.34.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
@@ -155,7 +154,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.89.12|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.88.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.89.180|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.88.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.89.3|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.88.0/23|DE|ripencc|1993-05-14|CONTABO, DE
-167.86.90.25|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.90.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.90.88|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.90.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.91.140|/eXperience Points Core:5.2.0.3/|70922|51167|167.86.90.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.91.147|/eXperience Points Core:5.2.0.2/|70922|51167|167.86.90.0/23|DE|ripencc|1993-05-14|CONTABO, DE
@@ -227,6 +225,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.137.122.150|/eXperience Points Core:5.2.0.2/|70922|51167|185.137.122.0/24|DE|ripencc|2016-02-05|CONTABO, DE
 185.191.188.225|/eXperience Points Core:5.2.0.2/|70922|60673|185.191.188.0/23|HU|ripencc|2017-02-24|ACTIVCOM, HU
 185.202.236.129|/eXperience Points Core:5.2.0.2/|70922|51167|185.202.236.0/24|DE|ripencc|2017-05-10|CONTABO, DE
+185.211.5.116|/eXperience Points Core:5.2.0.2/|70922|51167|185.211.5.0/24|DE|ripencc|2017-06-30|CONTABO, DE
 185.211.5.18|/eXperience Points Core:5.2.0.2/|70922|51167|185.211.5.0/24|DE|ripencc|2017-06-30|CONTABO, DE
 185.211.6.241|/eXperience Points Core:5.2.0.2/|70922|51167|185.211.6.0/24|DE|ripencc|2017-06-30|CONTABO, DE
 185.213.27.218|/eXperience Points Core:5.2.0.3/|70922|51167|185.213.27.0/24|DE|ripencc|2017-07-14|CONTABO, DE
@@ -240,6 +239,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.245.182.88|/eXperience Points Core:5.2.0.2/|70922|51167|185.245.182.0/24|DE|ripencc|2018-02-12|CONTABO, DE
 185.245.182.91|/eXperience Points Core:5.2.0.2/|70922|51167|185.245.182.0/24|DE|ripencc|2018-02-12|CONTABO, DE
 185.246.241.174|/eXperience Points Core:5.2.0.2/|70922|43700|185.246.240.0/22|LT|ripencc|2018-02-26|CO-AS, LT
+185.249.225.156|/eXperience Points Core:5.2.0.3/|70922|51167|185.249.225.0/24|DE|ripencc|2018-03-15|CONTABO, DE
 188.114.46.243|/eXperience Points Core:5.2.0.2/|70922|12389|188.114.0.0/18|RU|ripencc|2009-05-07|ROSTELECOM-AS, RU
 193.228.193.18|/eXperience Points Core:5.2.0.3/|70922|62240|193.228.193.0/24|GB|ripencc|2019-11-19|CLOUVIDER Clouvider - Global ASN, GB
 194.163.130.182|/eXperience Points Core:5.2.0.3/|70922|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
@@ -311,7 +311,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.64.161.239|/eXperience Points Core:5.2.0.3/|70922|55915|45.64.161.0/24|NP|apnic|2014-06-17|CLASSIC-NP Classic Tech Pvt. Ltd., NP
 45.64.163.240|/eXperience Points Core:5.2.0.3/|70922|55915|45.64.163.0/24|NP|apnic|2014-06-17|CLASSIC-NP Classic Tech Pvt. Ltd., NP
 45.79.212.251|/eXperience Points Core:5.2.0.3/|70922|63949|45.79.192.0/19|US|arin|2015-04-29|LINODE-AP Linode, LLC, US
-45.79.223.88|/eXperience Points Core:5.2.0.3/|70922|63949|45.79.192.0/19|US|arin|2015-04-29|LINODE-AP Linode, LLC, US
 46.229.249.245|/eXperience Points Core:5.2.0.3/|70922|56681|46.229.248.0/22|HR|ripencc|2011-02-23|FASTNET-AS, HR
 46.61.84.215|/eXperience Points Core:5.2.0.2/|70922|12389|46.61.64.0/19|RU|ripencc|2010-10-22|ROSTELECOM-AS, RU
 47.252.6.71|/eXperience Points Core:5.2.0.2/|70922|45102|47.252.0.0/18|US|arin|2016-04-15|ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
@@ -351,6 +350,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.184.227|/eXperience Points Core:5.2.0.3/|70922|51167|62.171.184.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.187.166|/eXperience Points Core:5.2.0.3/|70922|51167|62.171.186.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.190.138|/eXperience Points Core:5.2.0.3/|70922|51167|62.171.190.0/23|DE|ripencc|2000-08-18|CONTABO, DE
+62.37.126.55|/eXperience Points Core:5.2.0.2/|70922|12479|62.37.124.0/22|ES|ripencc|2000-01-03|UNI2-AS, ES
 62.42.58.93|/eXperience Points Core:5.2.0.3/|70922|6739|62.42.0.0/16|ES|ripencc|2000-05-03|ONO-AS Cableuropa - ONO, ES
 64.66.195.101|/eXperience Points Core:5.2.0.2/|70922|53913|64.66.192.0/19|CA|arin|2018-04-30|CITY-WIDE-COMMUNICATIONS, CA
 66.228.51.166|/eXperience Points Core:5.2.0.3/|70922|63949|66.228.48.0/21|US|arin|2011-02-25|LINODE-AP Linode, LLC, US
@@ -378,6 +378,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 80.241.217.68|/eXperience Points Core:5.2.0.3/|70922|51167|80.241.216.0/23|DE|ripencc|2011-02-14|CONTABO, DE
 81.2.191.48|/eXperience Points Core:5.2.0.3/|70922|200736|81.2.191.0/24|US|ripencc|2002-03-15|INALAN, GR
 84.28.149.193|/eXperience Points Core:5.2.0.3/|70922|33915|84.28.0.0/14|NL|ripencc|2004-07-01|TNF-AS, NL
+85.215.224.233|/eXperience Points Core:5.2.0.3/|70922|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
 86.187.162.160|/eXperience Points Core:5.2.0.3/|70922|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.187.233.243|/eXperience Points Core:5.2.0.3/|70922|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.187.235.27|/eXperience Points Core:5.2.0.3/|70922|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
