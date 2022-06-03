@@ -4,6 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.192.212.113|/open-nodes:0.1/|70015|4134|1.192.0.0/13|CN|apnic|2010-06-19|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 103.111.100.238|/WalletKit:0.1.0/|70015|136093|103.111.100.0/24|ID|apnic|2018-03-15|FAZNET-AS-ID PT Mitra Lintas Multimedia, ID
 103.231.191.7|/LitecoinCore:0.16.0/|70015|17831|103.231.191.0/24|SG|apnic|2014-05-16|CENTERHOP-SG 8 Burn Road# 15-13, Trivex, SG
+103.7.79.202|/loaf-android:175/|70015|24499|103.7.79.0/24|PK|apnic|2012-03-20|TPP-AS-PK Telenor Pakistan, PK
 104.131.82.132|/litecoinj:0.15.2-SNAPSHOT/|70002|14061|104.131.64.0/18|US|arin|2014-06-02|DIGITALOCEAN-ASN, US
 104.236.136.96|/Node:0.18.0/|70015|14061|104.236.128.0/18|US|arin|2014-10-28|DIGITALOCEAN-ASN, US
 107.125.25.218|/BitcoinKit:0.1.0/|70015|20057|107.125.25.0/24|US|arin|2011-02-04|ATT-MOBILITY-LLC-AS20057, US
@@ -21,7 +22,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 118.163.120.175|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 118.163.120.179|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|3462|118.163.0.0/16|TW|apnic|2007-10-04|HINET Data Communication Business Group, TW
 120.133.230.86|/CounosXCore:0.17.2/|70015|4811|120.133.228.0/22|CN|apnic|2008-04-04|CHINANET-SHANGHAI-MAN China Telecom Group, CN
-126.60.173.149|/CryptoTransfer:1.0.0/|70011|17676|126.60.0.0/16|JP|apnic|2005-02-08|GIGAINFRA Softbank BB Corp., JP
 128.199.120.176|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 128.199.91.96|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|128.199.64.0/18|GB|ripencc|1999-04-12|DIGITALOCEAN-ASN, US
 13.37.242.243|/LitecoinCore:0.18.1/|70015|16509|13.36.0.0/14|US|arin|2020-08-05|AMAZON-02, US
@@ -37,7 +37,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.96.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|139.59.0.0/20|SG|apnic|1990-06-27|DIGITALOCEAN-ASN, US
-142.166.125.213|/LitecoinCore:0.18.1/|70015|855|142.166.124.0/23|CA|arin|1992-08-26|CANET-ASN-4, CA
 142.93.229.149|/litetroll.net:1.0/|70015|14061|142.93.224.0/20|US|arin|2018-07-12|DIGITALOCEAN-ASN, US
 143.244.47.89|/BitcoinKit:0.1.0/|70015|212238|143.244.47.0/24|GB|ripencc|1990-10-26|CDNEXT, GB
 146.185.139.235|/ltc_node_scanner:0.0.1/|70015|14061|146.185.128.0/19|US|ripencc|2011-07-13|DIGITALOCEAN-ASN, US
@@ -63,7 +62,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.71.79.210|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013|14061|167.71.64.0/20|US|arin|2019-04-24|DIGITALOCEAN-ASN, US
 170.247.36.21|/B2CCoinCore:0.16.3/|70015|264524|170.247.36.0/24|BR|lacnic|2017-02-07|Cunha e Zanato telecom LTDA ME, BR
 172.105.80.142|/LitecoinCore:0.17.1/|70015|63949|172.105.64.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
-172.126.39.184|/BitcoinKit:0.1.0/|70015|7018|172.124.0.0/14|US|arin|2015-07-06|ATT-INTERNET4, US
 172.58.155.54|/BitcoinKit:0.1.0/|70015|21928|172.58.152.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.58.28.80|/BitcoinKit:0.1.0/|70015|21928|172.58.24.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
 172.58.59.178|/BitcoinKit:0.1.0/|70015|21928|172.58.56.0/21|US|arin|2012-09-18|T-MOBILE-AS21928, US
@@ -189,9 +187,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.27.175.55|/LitecoinCore:0.18.1/|70015|15683|78.27.128.0/18|UA|ripencc|2010-06-11|DOMASHKA-AS, UA
 80.102.161.21|/BitcoinKit:0.1.0/|70015|12479|80.102.160.0/21|ES|ripencc|2001-07-17|UNI2-AS, ES
 80.147.187.240|/LitecoinCore:0.14.2/|70015|3320|80.144.0.0/13|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
-82.124.72.181|/LitecoinCore:0.18.1/|70015|3215|82.124.0.0/16|FR|ripencc|2003-10-21|France Telecom - Orange, FR
 83.97.221.56|/BitcoinKit:0.1.0/|70015|12946|83.97.128.0/17|ES|ripencc|2003-12-19|TELECABLE Spain, ES
-84.17.53.217|/WalletKit:0.1.0/|70015||||||
+84.17.53.217|/WalletKit:0.1.0/|70015|60068|84.17.53.0/24|GB|ripencc|2004-07-23|CDN77 ^_^, GB
 84.17.60.59|/WalletKit:0.1.0/|70015|60068|84.17.60.0/24|GB|ripencc|2004-07-23|CDN77 ^_^, GB
 86.107.21.234|/LitecoinCore:0.18.1/|70015|9009|86.107.21.0/24|RO|ripencc|2005-04-18|M247, GB
 86.126.9.192|/LitecoinCore:0.18.1/|70015|8708|86.120.0.0/13|RO|ripencc|2005-03-16|RCS-RDS 73-75 Dr. Staicovici, RO
