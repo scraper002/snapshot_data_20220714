@@ -1,17 +1,17 @@
 # https://chainz.cryptoid.info/ and whois results
 # Litecoin Cash
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-106.51.17.1|/LitecoinCashCore:0.16.3/|70015||||||
+106.51.17.1|/LitecoinCashCore:0.16.3/|70015|24309|106.51.16.0/22|IN|apnic|2011-03-24|CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN
 107.167.244.51|/LitecoinCashCore:0.16.3/|70015||||||
 107.185.67.188|/LitecoinCashCore:0.16.3/|70015||||||
 108.214.64.194|/LitecoinCashCore:0.16.3/|70015||||||
 109.129.137.76|/LitecoinCashCore:0.16.3/|70015||||||
 109.171.3.39|/LitecoinCashCore:0.16.3/|70015||||||
 109.227.212.76|/LitecoinCashCore:0.16.3/|70015||||||
-124.13.86.223|/LitecoinCashCore:0.16.3/|70015|4788|124.13.64.0/18|MY|apnic|2007-01-09|TMNET-AS-AP TM Net, Internet Service Provider, MY
-135.181.40.86|/LitecoinCashCore:0.16.3/|70015|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
+124.13.86.223|/LitecoinCashCore:0.16.3/|70015||||||
+135.181.40.86|/LitecoinCashCore:0.16.3/|70015||||||
 138.34.87.247|/LitecoinCashCore:0.16.3/|70015||||||
-138.88.34.59|/LitecoinCashCore:0.16.3/|70015|701|138.88.0.0/16|US|arin|1990-04-19|UUNET, US
+138.88.34.59|/LitecoinCashCore:0.16.3/|70015||||||
 141.95.146.47|/LitecoinCashCore:0.16.3/|70015||||||
 148.255.86.10|/LitecoinCashCore:0.16.3/|70015||||||
 151.252.69.107|/LitecoinCashCore:0.16.3/|70015||||||
@@ -24,11 +24,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.83.204|/LitecoinCashCore:0.16.3/|70015||||||
 165.227.63.228|/LitecoinCashCore:0.16.3/|70015||||||
 166.170.55.7|/LitecoinCashCore:0.16.3/|70015||||||
-172.1.237.74|/LitecoinCashCore:0.16.3/|70015|7018|172.0.0.0/12|US|arin|2012-08-20|ATT-INTERNET4, US
-174.138.11.69|/LitecoinCashCore:0.16.3/|70015|14061|174.138.0.0/20|US|arin|2016-04-12|DIGITALOCEAN-ASN, US
-176.10.199.244|/LitecoinCashCore:0.16.3/|70015|8473|176.10.128.0/17|SE|ripencc|2011-05-18|BAHNHOF www.bahnhof.net, SE
+172.1.237.74|/LitecoinCashCore:0.16.3/|70015||||||
+174.138.11.69|/LitecoinCashCore:0.16.3/|70015||||||
+176.10.199.244|/LitecoinCashCore:0.16.3/|70015||||||
+176.100.118.158|/LitecoinCashCore:0.16.3/|70015||||||
 176.101.2.205|/LitecoinCashCore:0.16.3/|70015||||||
-176.102.68.75|/LitecoinCashCore:0.16.3/|70015|41929|176.102.68.0/22|RU|ripencc|2018-07-03|SISTEMY-SVYAZI-AS, RU
+176.102.68.75|/LitecoinCashCore:0.16.3/|70015||||||
 176.215.67.202|/LitecoinCashCore:0.16.3/|70015||||||
 178.151.38.248|/LitecoinCashCore:0.16.3/|70015||||||
 178.166.171.105|/LitecoinCashCore:0.16.3/|70015||||||
@@ -38,9 +39,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 180.246.79.4|/LitecoinCashCore:0.16.3/|70015||||||
 181.94.226.207|/LitecoinCashCore:0.16.3/|70015||||||
 182.217.120.123|/LitecoinCashCore:0.16.3/|70015||||||
-185.107.57.85|/LitecoinCashCore:0.16.3/|70015||||||
-185.156.46.37|/LitecoinCashCore:0.16.3/|70015||||||
-185.43.191.237|/LitecoinCashCore:0.16.3/|70015||||||
+185.107.57.85|/LitecoinCashCore:0.16.3/|70015|43350|185.107.56.0/22|NL|ripencc|2015-07-03|NFORCE, NL
+185.156.46.37|/LitecoinCashCore:0.16.3/|70015|212238|185.156.46.0/24|GB|ripencc|2016-06-15|CDNEXT, GB
+185.43.191.237|/LitecoinCashCore:0.16.3/|70015|201167|185.43.191.0/24|AZ|ripencc|2013-12-20|CASTEL-AS, AZ
 185.82.203.241|/LitecoinCashCore:0.16.3/|70015||||||
 188.166.117.139|/LitecoinCashCore:0.16.3/|70015||||||
 188.172.220.71|/LitecoinCashCore:0.16.3/|70015||||||
@@ -50,12 +51,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.210.202.211|/LitecoinCashCore:0.16.3/|70015||||||
 198.8.85.232|/LitecoinCashCore:0.16.3/|70015||||||
 2.216.159.241|/LitecoinCashCore:0.16.3/|70015||||||
-211.228.80.243|/LitecoinCashCore:0.15.0.1/|70015||||||
 213.21.40.169|/LitecoinCashCore:0.16.3/|70015||||||
 213.227.68.204|/LitecoinCashCore:0.16.3/|70015||||||
 213.249.203.37|/LitecoinCashCore:0.16.3/|70015||||||
 213.87.122.142|/LitecoinCashCore:0.16.3/|70015||||||
-213.87.131.194|/LitecoinCashCore:0.16.3/|70015||||||
 213.91.128.133|/LitecoinCashCore:0.16.3/|70015||||||
 216.137.116.136|/LitecoinCashCore:0.16.3/|70015||||||
 217.232.95.201|/LitecoinCashCore:0.16.3/|70015||||||
@@ -72,6 +71,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.76.135.93|/LitecoinCashCore:0.16.3/|70015||||||
 46.123.248.248|/LitecoinCashCore:0.16.3/|70015||||||
 46.123.248.7|/LitecoinCashCore:0.16.3/|70015||||||
+46.123.250.1|/LitecoinCashCore:0.16.3/|70015||||||
 46.149.86.107|/LitecoinCashCore:0.16.3/|70015||||||
 46.2.141.182|/LitecoinCashCore:0.16.3/|70015||||||
 46.73.15.249|/LitecoinCashCore:0.16.3/|70015||||||
@@ -93,6 +93,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.205.83.216|/LitecoinCashCore:0.16.1.2/|70015||||||
 71.214.34.93|/LitecoinCashCore:0.16.3/|70015||||||
 71.69.16.173|/LitecoinCashCore:0.16.3/|70015||||||
+71.79.187.72|/LitecoinCashCore:0.16.3/|70015||||||
 73.189.251.133|/LitecoinCashCore:0.16.3/|70015||||||
 74.102.86.206|/LitecoinCashCore:0.16.3/|70015||||||
 76.180.204.146|/LitecoinCashCore:0.16.3/|70015||||||
@@ -103,7 +104,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 78.46.100.57|/LitecoinCashCore:0.16.3/|70015||||||
 79.116.24.77|/LitecoinCashCore:0.16.3/|70015||||||
 8.219.6.64|/LitecoinCashCore:0.16.3/|70015||||||
-80.219.190.80|/LitecoinCashCore:0.16.3/|70015|6830|80.219.0.0/16|CH|ripencc|2002-04-04|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
+80.219.190.80|/LitecoinCashCore:0.16.3/|70015||||||
 81.166.67.20|/LitecoinCashCore:0.16.3/|70015||||||
 81.251.130.165|/LitecoinCashCore:0.16.3/|70015||||||
 82.212.178.47|/LitecoinCashCore:0.16.3/|70015||||||
@@ -112,7 +113,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.141.112.178|/LitecoinCashCore:0.16.3/|70015||||||
 84.226.120.115|/LitecoinCashCore:0.16.3/|70015||||||
 84.28.121.40|/LitecoinCashCore:0.16.3/|70015||||||
-84.28.132.168|/LitecoinCashCore:0.16.3/|70015||||||
 84.52.187.59|/LitecoinCashCore:0.16.3/|70015||||||
 85.14.6.58|/LitecoinCashCore:0.16.3/|70015||||||
 86.140.48.20|/LitecoinCashCore:0.16.3/|70015||||||
