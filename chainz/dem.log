@@ -8,7 +8,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.36.61.114|/eMark:1.6.1.1/|60012|55990|121.36.0.0/17|CN|apnic|2006-05-23|HWCSNET Huawei Cloud Service data center, CN
 122.59.38.183|/eMark:1.5.0/|60011||||||
 139.162.155.117|/eMark:1.6.1.1/|60012|63949|139.162.128.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
-143.244.42.103|/eMark:1.5.1/|60011|60068|143.244.42.0/24|GB|ripencc|1990-10-26|CDN77 ^_^, GB
 147.135.97.55|/eMark:1.6.1/|60012||||||
 154.127.50.8|/eMark:1.5.1/|60011|61317|154.127.50.0/24|MU|afrinic|2014-03-05|ASDETUK www.heficed.com, GB
 167.86.116.187|/eMark:1.6.1/|60012||||||
@@ -17,6 +16,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.254.43.126|/eMark:1.6.1.2/|60012|42730|178.254.32.0/20|DE|ripencc|2010-06-18|EVANZOAS, DE
 185.123.185.15|/eMark:1.6.1.2/|60012|43232|185.123.184.0/22|BY|ripencc|2015-10-28|TELEVID-AS16, BY
 185.205.246.221|/eMark:1.6.1.2/|60012|51167|185.205.246.0/24|DE|ripencc|2017-05-30|CONTABO, DE
+185.58.219.23|/eMark:1.6.1.2/|60012|60072|185.58.216.0/22|RU|ripencc|2014-05-26|EGS-TELECOM-AS, RU
 185.58.219.27|/eMark:1.6.1.2/|60012|60072|185.58.216.0/22|RU|ripencc|2014-05-26|EGS-TELECOM-AS, RU
 185.58.219.92|/eMark:1.6.1.2/|60012|60072|185.58.216.0/22|RU|ripencc|2014-05-26|EGS-TELECOM-AS, RU
 185.84.172.204|/eMark:1.6.1.2/|60012|208221|185.84.172.0/24|RU|ripencc|2015-01-19|ORIONNET-BRK, RU
@@ -30,7 +30,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.124.7.245|/eMark:1.6.1.2/|60012|12389|212.124.7.0/24|RU|ripencc|2008-05-29|ROSTELECOM-AS, RU
 212.90.63.179|/eMark:1.5.1/|60011||||||
 213.136.80.217|/eMark:1.6.1.2/|60012||||||
-217.240.42.214|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
+217.240.42.214|/eMark:1.5.1/|60011||||||
 217.254.39.234|/eMark:1.6.1.2/|60012|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 45.142.176.172|/eMark:1.6.1/|60012|197540|45.142.176.0/22|DE|ripencc|2019-08-19|NETCUP-AS netcup GmbH, DE
 45.236.101.218|/eMark:1.5.1/|60011|266806|45.236.101.0/24|AR|lacnic|2018-05-09|DIAZ MARCELA ALEJANDRAPATAGONIA DIGITAL, AR
@@ -58,7 +58,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.250.133.13|/eMark:1.6.1.2/|60012|1257|83.248.0.0/13|SE|ripencc|2004-03-04|TELE2, EU
 84.134.27.147|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.134.29.197|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.162.166.143|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
+84.162.166.143|/eMark:1.6.1.2/|60012||||||
 85.19.25.38|/eMark:1.6.1/|60012||||||
 85.215.216.190|/eMark:1.6.1.2/|60012|6724|85.214.0.0/15|DE|ripencc|2005-02-24|STRATO STRATO AG, DE
 87.123.244.107|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
@@ -73,6 +73,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.163.255.142|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.183.40.64|/eMark:1.6.1.2/|60012|13045|89.183.0.0/16|DE|ripencc|2006-04-06|HTP-AS, DE
 89.183.7.77|/eMark:1.6.1.2/|60012|13045|89.183.0.0/16|DE|ripencc|2006-04-06|HTP-AS, DE
+89.46.223.61|/eMark:1.5.1/|60011|25369|89.46.223.0/24|GB|ripencc|2005-11-29|BANDWIDTH-AS, GB
 90.188.241.171|/eMark:1.5.1/|60011|12389|90.188.241.0/24|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
 91.10.182.8|/eMark:1.5.1/|60011|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.137.84.98|/eMark:1.6.1.2/|60012|201729|91.137.84.0/23|DE|ripencc|2006-10-03|FSW, DE
