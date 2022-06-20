@@ -4,7 +4,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 104.131.0.124|DIVI Core: 2.0.1.0|70915||||||
 104.131.114.191|DIVI Core: 2.11.0.0|70915||||||
 104.131.187.41|DIVI Core: 2.0.1.0|70915||||||
-104.131.190.95|DIVI Core: 2.5.1.0|70915|14061|104.131.176.0/20|US|arin|2014-06-02|DIGITALOCEAN-ASN, US
+104.131.190.95|DIVI Core: 2.5.1.0|70915||||||
 104.131.20.136|DIVI Core: 2.0.1.0|70915||||||
 104.131.22.187|DIVI Core: 2.0.1.0|70915||||||
 104.218.52.222|DIVI Core: 2.5.1.0|70915||||||
@@ -32,6 +32,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 128.199.70.106|DIVI Core: 2.0.1.0|70915||||||
 134.119.217.206|DIVI Core: 2.0.1.0|70915||||||
 134.122.113.92|DIVI Core: 2.5.1.0|70915||||||
+134.122.47.27|DIVI Core: 2.5.1.0|70915||||||
 134.122.52.151|DIVI Core: 2.5.1.0|70915||||||
 134.122.8.194|DIVI Core: 2.0.1.0|70915||||||
 134.209.16.208|DIVI Core: 2.11.0.0|70915||||||
@@ -64,7 +65,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.68.160.137|DIVI Core: 2.0.1.0|70915||||||
 138.68.160.141|DIVI Core: 2.0.1.0|70915||||||
 138.68.169.155|DIVI Core: 2.11.0.0|70915||||||
-138.68.177.255|DIVI Core: 2.5.1.0|70915||||||
 138.68.179.175|DIVI Core: 2.0.1.0|70915||||||
 138.68.189.59|DIVI Core: 2.5.1.0|70915||||||
 138.68.237.209|DIVI Core: 2.0.1.0|70915||||||
@@ -74,7 +74,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 138.68.68.46|DIVI Core: 2.5.1.0|70915||||||
 138.68.71.82|DIVI Core: 2.5.1.0|70915||||||
 138.68.83.93|DIVI Core: 2.0.1.0|70915||||||
-138.68.86.126|DIVI Core: 2.5.1.0|70915||||||
 138.68.90.217|DIVI Core: 2.5.1.0|70915||||||
 138.68.96.88|DIVI Core: 2.5.1.0|70915||||||
 139.59.1.2|DIVI Core: 2.5.1.0|70915||||||
@@ -142,6 +141,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 159.203.41.227|DIVI Core: 2.5.1.0|70915||||||
 159.203.45.113|DIVI Core: 2.0.1.0|70915||||||
 159.203.46.197|DIVI Core: 2.5.1.0|70915||||||
+159.203.46.94|DIVI Core: 2.0.1.0|70915||||||
 159.223.142.7|DIVI Core: 2.5.1.0|70915||||||
 159.223.157.12|DIVI Core: 2.5.1.0|70915||||||
 159.223.157.15|DIVI Core: 2.5.1.0|70915||||||
@@ -226,6 +226,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.71.104.115|DIVI Core: 2.11.0.0|70915||||||
 167.71.107.142|DIVI Core: 2.0.1.0|70915||||||
 167.71.109.8|DIVI Core: 2.5.1.0|70915||||||
+167.71.11.231|DIVI Core: 2.5.1.0|70915||||||
 167.71.190.151|DIVI Core: 2.0.1.0|70915||||||
 167.71.21.178|DIVI Core: 2.5.1.0|70915||||||
 167.71.46.22|DIVI Core: 2.0.1.0|70915||||||
@@ -305,6 +306,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 198.211.112.25|DIVI Core: 2.0.1.0|70915||||||
 198.211.115.105|DIVI Core: 2.5.1.0|70915||||||
 198.211.120.33|DIVI Core: 2.5.1.0|70915||||||
+198.211.97.247|DIVI Core: 2.0.1.0|70915||||||
 198.211.97.4|DIVI Core: 2.5.1.0|70915||||||
 198.244.195.64|DIVI Core: 2.0.1.0|70915||||||
 204.48.19.171|DIVI Core: 2.5.1.0|70915||||||
@@ -357,6 +359,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 51.38.69.247|DIVI Core: 2.5.1.0|70915||||||
 51.68.175.14|DIVI Core: 2.0.1.0|70915||||||
 51.68.197.165|DIVI Core: 2.5.1.0|70915||||||
+51.68.220.27|DIVI Core: 2.5.1.0|70915||||||
 51.75.158.8|DIVI Core: 2.0.1.0|70915||||||
 51.77.124.0|DIVI Core: 2.0.1.0|70915||||||
 51.79.74.162|DIVI Core: 2.5.1.0|70915||||||
@@ -396,6 +399,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 67.205.185.66|DIVI Core: 2.5.1.0|70915||||||
 67.205.191.222|DIVI Core: 2.0.1.0|70915||||||
 67.207.94.14|DIVI Core: 2.0.1.0|70915||||||
+67.207.94.45|DIVI Core: 2.5.1.0|70915||||||
 67.241.32.100|DIVI Core: 2.0.1.0|70915||||||
 68.183.205.156|DIVI Core: 2.5.1.0|70915||||||
 68.183.35.238|DIVI Core: 2.5.1.0|70915||||||
@@ -407,6 +411,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.96.79.78|DIVI Core: 2.5.1.0|70915||||||
 69.55.49.123|DIVI Core: 2.5.1.0|70915||||||
 69.55.61.122|DIVI Core: 2.0.1.0|70915||||||
+70.120.146.76|DIVI Core: 2.5.1.0|70915||||||
 73.189.128.188|DIVI Core: 2.5.1.0|70915||||||
 74.208.157.217|DIVI Core: 2.5.1.0|70915||||||
 74.208.176.166|DIVI Core: 2.5.1.0|70915||||||
