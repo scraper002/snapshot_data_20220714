@@ -27,7 +27,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 134.35.165.0|/BitcoinKit:0.1.0/|70015||||||
 136.243.131.223|/LitecoinCore:0.16.3/|70015||||||
 136.244.65.212|/LitecoinCore:0.17.1/|70015||||||
-138.0.92.22|/B2CCoinCore:0.16.3/|70015|262407|138.0.92.0/24|BR|lacnic|2014-12-22|RAPIDANET TELECOM LTDA, BR
+138.0.92.22|/B2CCoinCore:0.16.3/|70015||||||
 139.59.111.217|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
@@ -46,24 +46,24 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 149.143.64.218|/BitcoinKit:0.1.0/|70015||||||
 149.167.151.118|/BitcoinKit:0.1.0/|70015||||||
 151.33.118.219|/WalletKit:0.1.0/|70015||||||
+154.160.9.99|/loaf-android:175/|70015||||||
 155.4.131.18|/BitcoinKit:0.1.0/|70015||||||
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-157.245.246.213|/B2CCoinCore:0.16.3/|70015|14061|157.245.240.0/20|US|arin|2019-05-09|DIGITALOCEAN-ASN, US
+157.245.246.213|/B2CCoinCore:0.16.3/|70015||||||
 157.49.170.117|/loaf-android:175/|70015||||||
 157.90.134.43|/LitecoinCore:0.18.1/|70015||||||
 158.69.196.61|/Node:0.18.0/|70015||||||
 159.65.92.134|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
-160.154.232.32|/WalletKit:0.1.0/|70015||||||
 160.154.60.44|/WalletKit:0.1.0/|70015||||||
 162.226.12.90|/LitecoinCore:0.18.1/|70015||||||
 164.92.113.43|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
 166.181.252.220|/BitcoinKit:0.1.0/|70015||||||
 167.100.44.239|/BitcoinKit:0.1.0/|70015||||||
 168.119.79.89|/LitecoinCore:0.21.2.1/|70016||||||
-168.227.32.92|/B2CCoinCore:0.16.3/|70015||||||
-170.247.36.18|/B2CCoinCore:0.16.3/|70015||||||
+168.227.32.92|/B2CCoinCore:0.16.3/|70015|28284|168.227.32.0/23|BR|lacnic|2016-03-14|V.B. Telecomunicacoes LTDA., BR
+170.247.36.18|/B2CCoinCore:0.16.3/|70015|264524|170.247.36.0/24|BR|lacnic|2017-02-07|Cunha e Zanato telecom LTDA ME, BR
 170.75.168.208|/LitecoinCore:0.17.1/|70015||||||
-170.79.152.14|/B2CCoinCore:0.16.3/|70015||||||
+170.79.152.14|/B2CCoinCore:0.16.3/|70015|266294|170.79.152.0/24|BR|lacnic|2016-10-13|A Z DE ARAUJO NETO ME, BR
 170.79.155.255|/B2CCoinCore:0.16.3/|70015||||||
 172.105.114.148|/BitcoinKit:0.1.0/|70015||||||
 172.58.67.143|/BitcoinKit:0.1.0/|70015||||||
@@ -120,7 +120,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.28.222.162|/LitecoinCore:0.16.3/|70015||||||
 223.204.68.223|/LitecoinCore:0.18.1/|70015||||||
 23.88.42.134|/LitecoinCore:0.18.1/|70015||||||
-3.109.136.152|/LitecoinCore:0.18.1/|70015|16509|3.108.0.0/14|US|arin|2017-12-20|AMAZON-02, US
+3.109.136.152|/LitecoinCore:0.18.1/|70015||||||
 3.114.211.253|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 3.114.211.49|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 3.88.40.5|/Dain:0.1.0/|70003||||||
@@ -146,6 +146,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.211.8.195|/BitcoinKit:0.1.0/|70015||||||
 46.4.100.150|/LitecoinCore:0.17.1/|70015||||||
 46.6.186.186|/BitcoinKit:0.1.0/|70015||||||
+49.180.164.166|/BitcoinKit:0.1.0/|70015||||||
 5.125.222.92|/BitcoinKit:0.1.0/|70015||||||
 5.135.181.92|/LitecoinCore:0.17.1/|70015||||||
 5.181.255.48|/LitecoinCore:0.16.3/|70015||||||
@@ -186,6 +187,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.16.108.252|/WalletKit:0.1.0/|70015||||||
 87.220.74.166|/WalletKit:0.1.0/|70015||||||
 87.249.133.105|/BitcoinKit:0.1.0/|70015||||||
+88.80.187.187|/litecoin-seeder:0.01/|70002||||||
 89.163.145.240|/LitecoinCore:0.18.1/|70015||||||
 89.28.17.92|/BitcoinKit:0.1.0/|70015||||||
 92.2.60.79|/LitecoinCore:0.16.3/|70015|13285|92.2.0.0/15|GB|ripencc|2007-06-28|OPALTELECOM-AS TalkTalk Communications Limited, GB
