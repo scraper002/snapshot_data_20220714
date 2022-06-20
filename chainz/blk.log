@@ -3,7 +3,7 @@
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.14.146.223|/Blackcoin More:2.13.2.9/|70013|45090|1.14.128.0/18|CN|apnic|2010-05-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 101.33.235.35|/Blackcoin More:2.13.2.9/|70013|45090|101.33.192.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-104.238.221.41|Blackcoin More:2.13.2.8|70713|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
+104.238.221.41|Blackcoin More:2.13.2.8|70713||||||
 113.104.209.26|/Blackcoin More:2.13.2.9/|70013|4134|113.96.0.0/12|CN|apnic|2008-11-03|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 114.139.4.155|/Blackcoin More:2.13.2.7/|70013|4134|114.138.0.0/15|CN|apnic|2008-06-12|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 114.221.158.13|/Blackcoin More:2.13.2.9/|70013|4134|114.216.0.0/13|CN|apnic|2008-06-24|CHINANET-BACKBONE No.31,Jin-rong Street, CN
@@ -24,7 +24,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.244.46.218|/Blackcoin More:2.13.2.9/|70013|212238|143.244.46.0/24|GB|ripencc|1990-10-26|CDNEXT, GB
 143.244.46.242|/Blackcoin More:2.13.2.9/|70013|212238|143.244.46.0/24|GB|ripencc|1990-10-26|CDNEXT, GB
 143.244.46.247|/Blackcoin More:2.13.2.9/|70013|212238|143.244.46.0/24|GB|ripencc|1990-10-26|CDNEXT, GB
-15.165.142.140|/Blackcoin More:2.13.2.9/|70013|16509|15.164.0.0/15|US|arin|2018-09-27|AMAZON-02, US
+15.165.142.140|/Blackcoin More:2.13.2.9/|70013||||||
 156.146.50.105|/Blackcoin More:2.13.2.9/|70013|212238|156.146.50.0/24|GB|ripencc|1990-02-05|CDNEXT, GB
 156.146.50.98|/Blackcoin More:2.13.2.9/|70013|212238|156.146.50.0/24|GB|ripencc|1990-02-05|CDNEXT, GB
 161.81.34.41|/Blackcoin More:2.13.2.9/|70013|137872|161.81.32.0/21|HK|apnic|1992-06-22|PEOPLESPHONE-HK China Mobile Hong Kong Company Limited, HK
@@ -38,8 +38,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.254.34.173|/Blackcoin More:2.13.2.8/|70013|42730|178.254.32.0/20|DE|ripencc|2010-06-18|EVANZOAS, DE
 178.62.114.74|Blackcoin More:2.13.2.8|70713|14061|178.62.64.0/18|US|ripencc|2010-02-26|DIGITALOCEAN-ASN, US
 181.111.72.167|/Blackcoin More:2.13.2.9/|70013|7303|181.110.0.0/15|AR|lacnic|2012-06-21|Telecom Argentina S.A., AR
+181.126.201.141|/Blackcoin More:2.13.2.8/|70013|23201|181.124.0.0/14|PY|lacnic|2012-06-20|Telecel S.A., PY
 183.227.17.68|/Blackcoin More:2.13.2.8/|70013|9808|183.227.17.0/24|CN|apnic|2009-11-08|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
-185.159.157.26|/Blackcoin More:2.13.2.8/|70013|209103|185.159.157.0/24|CH|ripencc|2016-07-14|PROTONVPN, CH
 185.159.157.44|/Blackcoin More:2.13.2.8/|70013|209103|185.159.157.0/24|CH|ripencc|2016-07-14|PROTONVPN, CH
 185.159.157.45|/Blackcoin More:2.13.2.8/|70013|209103|185.159.157.0/24|CH|ripencc|2016-07-14|PROTONVPN, CH
 185.245.85.23|/Blackcoin More:2.13.2.9/|70013|9009|185.245.85.0/24|RO|ripencc|2018-02-07|M247, GB
@@ -76,6 +76,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.213.10.22|/Blackcoin More:2.13.2.9/|70013|12389|62.213.0.0/19|RU|ripencc|2000-07-18|ROSTELECOM-AS, RU
 63.35.250.207|/Blackcoin More:2.13.2.9/|70013|16509|63.32.0.0/14|US|arin|2018-01-10|AMAZON-02, US
 65.31.33.212|/Satoshi:2.12.1/|70012|10796|65.31.32.0/19|US|arin|2000-08-22|TWC-10796-MIDWEST, US
+66.115.147.90|/Blackcoin More:2.13.2.9/|70013|46562|66.115.147.0/24|US|arin|2001-05-09|PERFORMIVE, US
 69.173.197.127|/Blackcoin More:2.13.2.8/|70013|22413|69.173.197.0/24|US|arin|2020-04-08|EMPOWER, US
 70.173.238.229|/Blackcoin More:2.13.2.7/|70013|22773|70.173.0.0/16|US|arin|2004-07-21|ASN-CXA-ALL-CCI-22773-RDC, US
 70.65.177.213|/Blackcoin More:2.13.2.9/|70013|6327|70.65.176.0/22|CA|arin|2004-06-18|SHAW, CA
@@ -90,14 +91,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.135.241.68|/Blackcoin More:2.13.2.7/|70013|8881|83.135.240.0/22|DE|ripencc|2004-01-28|VERSATEL, DE
 83.84.134.161|/Blackcoin More:2.13.2.7/|70013|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.174.224.231|/Blackcoin More:2.13.2.8/|70013|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.2.34.93|/Blackcoin More:2.13.2.8/|70013|15545|84.2.34.0/23|HU|ripencc|2004-09-17|MT-DC-AS EU. Hungary, HU
+84.2.34.93|/Blackcoin More:2.13.2.8/|70013||||||
 86.11.194.146|/Blackcoin More:2.13.2.9/|70013|5089|86.11.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 86.133.140.128|/Blackcoin More:2.13.2.8/|70013|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.140.36.37|/Blackcoin More:2.13.2.8/|70013|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 86.189.184.120|/Blackcoin More:2.13.2.9/|70013|2856|86.128.0.0/10|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
 88.207.82.147|/Blackcoin More:2.13.2.9/|70013|31012|88.207.0.0/17|HR|ripencc|2005-12-14|DCM-AS Vipnet d.o.o., HR
 89.0.53.178|/Satoshi:2.12.1/|70012|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
-89.142.65.211|/Blackcoin More:2.13.2.7/|70013|5603|89.142.64.0/18|SI|ripencc|2006-03-03|SIOL-NET Telekom Slovenije d.d., SI
+89.142.65.211|/Blackcoin More:2.13.2.7/|70013||||||
 89.221.13.194|/Blackcoin More:2.13.2.7/|70013|42596|89.221.0.0/20|DE|ripencc|2006-09-22|ANTILO-AS, DE
 91.1.21.121|/Blackcoin More:2.13.2.9/|70013|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.19.45.160|/Blackcoin More:2.13.2.7/|70013|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
@@ -105,7 +106,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.223.88.228|/Blackcoin More:2.13.2.9/|70013|199524|92.223.88.0/24|LU|ripencc|2007-10-17|GCORE, LU
 92.60.44.21|/Blackcoin More:2.13.2.9/|70013|3170|92.60.44.0/24|GB|ripencc|2018-08-24|VELOXSERV VeloxServ Communications Ltd, GB
 93.28.9.9|/Blackcoin More:2.13.2.9/|70013|15557|93.0.0.0/11|FR|ripencc|2007-10-30|LDCOMNET, FR
-94.130.176.201|/Blackcoin More:2.13.2.7/|70013|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
+94.130.176.201|/Blackcoin More:2.13.2.7/|70013||||||
 94.214.106.162|/Blackcoin More:2.13.2.6/|70013|33915|94.212.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
 95.174.66.38|/Blackcoin More:2.13.2.9/|70013|9009|95.174.66.0/24|RO|ripencc|2018-06-29|M247, GB
 95.217.78.81|/Blackcoin More:2.13.2.8/|70013|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
