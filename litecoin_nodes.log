@@ -32,6 +32,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.202.206.15|9333|/LitecoinCore:0.18.1/
 109.236.94.75|9333|/LitecoinCore:0.18.1/
 109.87.166.145|9333|/LitecoinCore:0.21.2.1/
+110.42.213.113|9321|/Satoshi:0.13.2.1/
 111.108.29.123|9513|/Satoshi:0.8.7.2/
 111.90.145.106|9333|/LitecoinCore:0.18.1/
 112.5.37.248|60012|/LitecoinCore:0.18.1/
@@ -47,7 +48,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.202.100.25|9333|/LitecoinCore:0.13.2(bitcore)/
 116.202.51.11|9333|/LitecoinCore:0.16.3/
 116.202.56.80|9333|/LitecoinCore:0.21.2/
-116.203.196.156|9333|/LitecoinCore:0.21.2/
 116.203.245.29|9333|/Satoshi:0.8.7.4/
 116.203.72.169|9333|/LitecoinCore:0.21.2/
 118.163.120.179|9333|/LitecoinCore:0.18.1/
@@ -224,6 +224,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 172.105.81.183|1337|/DefcoinCore:1.0.0/
 172.114.106.67|9333|/LitecoinCore:0.21.2.1/
 172.220.52.51|9333|/LitecoinCore:0.21.2/
+172.222.136.43|9333|/LitecoinCore:0.18.1/
 173.177.96.157|9333|/LitecoinCore:0.18.1/
 173.208.196.226|9333|/LitecoinCore:0.18.1/
 173.209.40.49|9333|/LitecoinCore:0.18.1/
@@ -573,6 +574,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2a01:4f8:190:71af::2|9333|/LitecoinCore:0.17.1/
 2a01:4f8:190:91c4::2|9333|/LitecoinCore:0.18.1/
 2a01:4f8:191:1343::2|9333|/LitecoinCore:0.18.1/
+2a01:4f8:1c1c:1bd::1|9333|/LitecoinCore:0.21.2/
 2a01:4f8:200:50a4::2|9333|/LitecoinCore:0.18.1/
 2a01:4f8:200:7222::2|9333|/LitecoinCore:0.18.1/
 2a01:4f8:201:1023::2|9333|/LitecoinCore:0.17.1/
@@ -760,6 +762,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 37.48.87.181|9333|/LitecoinCore:0.18.1/
 37.59.32.10|9333|/LitecoinCore:0.21.2/
 37.59.46.83|9333|/LitecoinCore:0.17.1/
+38.124.202.67|9333|/LitecoinCore:0.18.1/
 38.242.242.37|9333|/LitecoinCore:0.21.2/
 39.104.163.200|9333|/LitecoinCore:0.21.2/
 39.104.206.158|9333|/LitecoinCore:0.21.2/
@@ -995,7 +998,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 72.205.216.117|9333|/LitecoinCore:0.21.2/
 72.212.32.73|9333|/LitecoinCore:0.21.2.1/
 73.100.137.137|33666|/CypherfunkCore:0.15.2/
-73.125.68.18|9333|/LitecoinCore:0.18.1/
 73.130.216.194|9333|/LitecoinCore:0.18.1/
 73.152.233.100|9333|/LitecoinCore:0.21.2/
 73.16.134.51|9333|/LitecoinCore:0.21.2/
@@ -1075,6 +1077,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.151.19.114|9333|/LitecoinCore:0.21.2.1/
 86.244.206.223|9333|/LitecoinCore:0.21.2/
 86.89.54.129|9333|/LitecoinCore:0.18.1/
+86.98.162.41|9333|/LitecoinCore:0.21.2.1/
 87.121.75.191|9333|/LitecoinCore:0.18.1/
 87.240.192.4|9333|/LitecoinCore:0.21.2/
 88.151.101.14|5002|/LitecoinCore:0.21.2/
@@ -1164,12 +1167,14 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.96.167|9333|/LitecoinCore:0.16.3/
 95.217.104.124|9333|/LitecoinCore:0.18.1/
 95.217.196.157|9333|/LitecoinCore:0.16.3/
+95.217.210.168|9333|/LitecoinCore:0.21.2/
+95.217.36.126|9333|/LitecoinCore:0.16.3/
 95.217.36.29|9333|/LitecoinCore:0.18.1/
 95.217.38.60|9333|/LitecoinCore:0.17.1/
 95.217.44.33|9333|/LitecoinCore:0.18.1/
 95.217.69.113|10841|/CounosXCore:0.13.2(bitcore)/
 95.217.78.81|9333|/LitecoinCore:0.17.1/
-95.89.57.43|9333|/LitecoinCore:0.21.2/
+95.88.155.31|9333|/LitecoinCore:0.21.2/
 96.126.123.143|9333|/LitecoinCore:0.21.2/
 96.255.6.85|9333|/LitecoinCore:0.18.1/
 98.18.97.50|9333|/LitecoinCore:0.21.2/
