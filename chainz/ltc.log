@@ -32,7 +32,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 139.59.111.218|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.59.7.181|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 139.9.71.148|/LitecoinCore:0.18.1/|70015||||||
-14.203.57.50|/LitecoinCore:0.18.1/|70015||||||
 142.118.169.16|/BitcoinKit:0.1.0/|70015||||||
 142.93.229.149|/litetroll.net:1.0/|70015||||||
 144.172.73.66|/BitcoinKit:0.1.0/|70015||||||
@@ -64,7 +63,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 170.247.36.18|/B2CCoinCore:0.16.3/|70015||||||
 170.75.168.208|/LitecoinCore:0.17.1/|70015||||||
 170.79.152.14|/B2CCoinCore:0.16.3/|70015||||||
-170.79.155.255|/B2CCoinCore:0.16.3/|70015||||||
+170.79.155.255|/B2CCoinCore:0.16.3/|70015|266294|170.79.155.0/24|BR|lacnic|2016-10-13|A Z DE ARAUJO NETO ME, BR
 172.58.39.240|/BitcoinKit:0.1.0/|70015||||||
 172.58.67.143|/BitcoinKit:0.1.0/|70015||||||
 172.81.182.47|/LitecoinCore:0.17.1/|70015||||||
@@ -73,7 +72,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.210.173.142|/BitcoinKit:0.1.0/|70015||||||
 174.214.17.92|/BitcoinKit:0.1.0/|70015||||||
 176.31.64.127|/LitecoinCore:0.17.1/|70015||||||
-177.192.91.200|/B2CCoinCore:0.16.3/|70015||||||
+177.192.91.200|/B2CCoinCore:0.16.3/|70015|28573|177.192.0.0/16|BR|lacnic|2012-08-30|Claro NXT Telecomunicacoes Ltda, BR
 177.39.240.162|/B2CCoinCore:0.16.3/|70015|53135|177.39.240.0/22|BR|lacnic|2011-04-05|Nettel Telecomunicacoes Ltda., BR
 178.139.233.52|/WalletKit:0.1.0/|70015||||||
 178.214.244.153|/loaf-android:175/|70015||||||
@@ -90,7 +89,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.34.33.2|/LitecoinCore:0.18.1/|70015||||||
 186.208.222.104|/B2CCoinCore:0.16.3/|70015|28577|186.208.222.0/23|BR|lacnic|2013-05-07|AZEVEDO E FLORIANI TELECOMUNICACOES LTDA., BR
 187.154.168.83|/WalletKit:0.1.0/|70015||||||
-187.21.219.186|/B2CCoinCore:0.16.3/|70015||||||
+187.21.219.186|/B2CCoinCore:0.16.3/|70015|28573|187.21.128.0/17|BR|lacnic|2008-10-03|Claro NXT Telecomunicacoes Ltda, BR
 188.122.72.254|/LitecoinCore:0.17.1/|70015||||||
 188.124.46.112|/LitecoinCore:0.16.3/|70015||||||
 188.189.188.221|/BitcoinKit:0.1.0/|70015||||||
@@ -135,6 +134,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.151.159.53|/CounosCoinCore:0.15.3.2/|70015||||||
 46.211.230.30|/BitcoinKit:0.1.0/|70015||||||
 46.211.8.195|/BitcoinKit:0.1.0/|70015||||||
+46.250.75.186|/LitecoinCore:0.18.1/|70015||||||
 46.4.100.150|/LitecoinCore:0.17.1/|70015||||||
 46.6.186.186|/BitcoinKit:0.1.0/|70015||||||
 49.180.164.166|/BitcoinKit:0.1.0/|70015||||||
@@ -152,9 +152,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 52.193.94.100|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 52.196.40.143|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 54.216.228.186|/LitecoinCore:0.18.1/|70015||||||
-54.233.162.165|/B2CCoinCore:0.16.3/|70015||||||
+54.233.162.165|/B2CCoinCore:0.16.3/|70015|16509|54.233.128.0/17|US|arin|2012-03-01|AMAZON-02, US
 54.37.234.18|/LitecoinCore:0.16.3/|70015||||||
 54.38.156.27|/LitecoinCore:0.16.3/|70015||||||
+54.74.219.131|/LitecoinCore:0.18.1/|70015||||||
 62.112.11.20|/LitecoinCore:0.18.1/|70015||||||
 63.224.248.7|/LitecoinCore:0.18.1/|70015||||||
 66.187.25.249|/LitecoinCore:0.14.2/|70015||||||
@@ -163,6 +164,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.23.224.118|/BitcoinKit:0.1.0/|70015||||||
 75.82.123.123|/BitcoinKit:0.1.0/|70015||||||
 77.120.122.114|/open-nodes:0.1/|70015||||||
+77.168.162.235|/BitcoinKit:0.1.0/|70015||||||
 77.41.190.248|/LitecoinCore:0.18.1/|70015||||||
 77.75.36.104|/LitecoinCore:0.17.1/|70015||||||
 78.83.124.135|/LitecoinCore:0.18.1/|70015||||||
@@ -193,6 +195,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.127.89.49|/WalletKit:0.1.0/|70015||||||
 95.189.218.30|/LitecoinCore:0.18.1/|70015||||||
 95.216.237.187|/CounosXCore:0.17.3/|70015||||||
+95.217.162.57|/CounosXCore:0.17.2/|70015||||||
 95.24.224.132|/LitecoinCore:0.18.1/|70015||||||
 99.167.223.39|/BitcoinKit:0.1.0/|70015||||||
 99.230.25.156|/WalletKit:0.1.0/|70015||||||
