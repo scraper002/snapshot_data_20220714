@@ -112,7 +112,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 108.58.190.254|16125|/MagicBean:6.0.0/
 108.67.228.105|16125|/MagicBean:6.0.0/
 109.104.5.98|16125|/MagicBean:6.0.0/
-109.11.178.223|16125|/MagicBean:6.0.0/
 109.11.6.81|16125|/MagicBean:6.0.0/
 109.12.99.209|16125|/MagicBean:6.0.0/
 109.13.20.104|16125|/MagicBean:6.0.0/
@@ -153,7 +152,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.65.166.69|8233|/MagicBean:3.0.0/
 114.32.94.82|16125|/MagicBean:6.0.0/
 114.34.8.170|16125|/MagicBean:6.0.0/
-115.85.88.3|16125|/MagicBean:6.0.0/
 115.85.88.4|16125|/MagicBean:6.0.0/
 116.202.107.38|16125|/MagicBean:6.0.0/
 116.202.110.165|16125|/MagicBean:6.0.0/
@@ -307,6 +305,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.218.183|16125|/MagicBean:6.0.0/
 135.181.218.27|16125|/MagicBean:6.0.0/
 135.181.22.91|16125|/MagicBean:6.0.0/
+135.181.22.96|16125|/MagicBean:6.0.0/
 135.181.221.125|16125|/MagicBean:6.0.0/
 135.181.223.254|16125|/MagicBean:6.0.0/
 135.181.250.80|16125|/MagicBean:6.0.0/
@@ -322,6 +321,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 135.181.4.126|16125|/MagicBean:6.0.0/
 135.181.41.56|16125|/MagicBean:6.0.0/
 135.181.42.75|16125|/MagicBean:6.0.0/
+135.181.43.151|16125|/MagicBean:6.0.0/
 135.181.43.177|16125|/MagicBean:6.0.0/
 135.181.44.166|16125|/MagicBean:6.0.0/
 135.181.44.43|16125|/MagicBean:6.0.0/
@@ -529,6 +529,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.110.150.248|16125|/MagicBean:5.1.1/
 143.177.208.141|16125|/MagicBean:6.0.0/
 143.178.133.206|16125|/MagicBean:6.0.0/
+143.198.73.189|16125|/MagicBean:6.0.0/
 144.126.128.89|16125|/MagicBean:6.0.0/
 144.126.130.100|16125|/MagicBean:6.0.0/
 144.126.130.126|16125|/MagicBean:6.0.0/
@@ -690,7 +691,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 146.59.134.130|16125|/MagicBean:6.0.0/
 146.59.134.131|16125|/MagicBean:6.0.0/
 146.59.209.100|16125|/MagicBean:6.0.0/
-146.59.28.140|16125|/MagicBean:6.0.0/
 146.59.28.141|16125|/MagicBean:6.0.0/
 146.59.28.142|16125|/MagicBean:6.0.0/
 146.59.28.143|16125|/MagicBean:6.0.0/
@@ -824,7 +824,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 151.80.218.62|16125|/MagicBean:6.0.0/
 151.80.218.63|16125|/MagicBean:6.0.0/
 151.80.34.211|16125|/MagicBean:6.0.0/
-151.80.70.48|16125|/MagicBean:6.0.0/
 151.80.70.49|16125|/MagicBean:6.0.0/
 151.80.70.50|16125|/MagicBean:6.0.0/
 151.80.70.51|16125|/MagicBean:6.0.0/
@@ -1181,6 +1180,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.8.244.17|16125|/MagicBean:6.0.0/
 161.97.101.161|16125|/MagicBean:6.0.0/
 161.97.102.112|16125|/MagicBean:6.0.0/
+161.97.104.104|16125|/MagicBean:6.0.0/
 161.97.104.139|16125|/MagicBean:6.0.0/
 161.97.107.237|16125|/MagicBean:6.0.0/
 161.97.107.87|16125|/MagicBean:5.0.2/
@@ -1206,7 +1206,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.117.15|16125|/MagicBean:6.0.0/
 161.97.117.234|16125|/MagicBean:6.0.0/
 161.97.117.60|16125|/MagicBean:6.0.0/
-161.97.117.72|16125|/MagicBean:6.0.0/
 161.97.117.79|16125|/MagicBean:6.0.0/
 161.97.118.11|16125|/MagicBean:6.0.0/
 161.97.118.26|16125|/MagicBean:6.0.0/
@@ -1352,6 +1351,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 164.132.148.129|16125|/MagicBean:6.0.0/
 164.132.148.130|16125|/MagicBean:6.0.0/
 164.132.148.131|16125|/MagicBean:6.0.0/
+164.132.153.88|16125|/MagicBean:6.0.0/
 164.132.153.89|16125|/MagicBean:6.0.0/
 164.132.153.90|16125|/MagicBean:6.0.0/
 164.132.153.91|16125|/MagicBean:6.0.0/
@@ -1517,7 +1517,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 168.220.198.30|16125|/MagicBean:6.0.0/
 168.220.207.157|16125|/MagicBean:6.0.0/
 168.235.104.157|54324|/MagicBean:5.0.0/
-168.61.33.100|8233|/Zebra:1.0.0-beta.10/
 170.39.158.11|16125|/MagicBean:6.0.0/
 172.101.124.174|16125|/MagicBean:6.0.0/
 172.104.106.153|40311|/MagicBean:2.1.1-4/
@@ -1583,6 +1582,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.249.16.42|16125|/MagicBean:6.0.0/
 173.249.19.242|16125|/MagicBean:6.0.0/
 173.249.2.11|16125|/MagicBean:6.0.0/
+173.249.24.34|16125|/MagicBean:5.0.2/
 173.249.25.125|16125|/MagicBean:6.0.0/
 173.249.31.188|16125|/MagicBean:6.0.0/
 173.249.34.146|16125|/MagicBean:6.0.0/
@@ -1941,6 +1941,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.150.18.58|16125|/MagicBean:6.0.0/
 185.150.18.63|16125|/MagicBean:6.0.0/
 185.150.18.64|16125|/MagicBean:6.0.0/
+185.150.18.68|16125|/MagicBean:6.0.0/
 185.150.18.69|16125|/MagicBean:6.0.0/
 185.150.18.70|16125|/MagicBean:6.0.0/
 185.150.18.71|16125|/MagicBean:6.0.0/
@@ -2141,7 +2142,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.216.177.41|16125|/MagicBean:6.0.0/
 185.216.177.50|16125|/MagicBean:6.0.0/
 185.216.177.54|16125|/MagicBean:6.0.0/
-185.216.178.170|16125|/MagicBean:6.0.0/
 185.216.178.243|16125|/MagicBean:6.0.0/
 185.216.178.54|16125|/MagicBean:6.0.0/
 185.216.178.59|16125|/MagicBean:6.0.0/
@@ -2400,7 +2400,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 192.99.160.43|16125|/MagicBean:6.0.0/
 192.99.160.80|16125|/MagicBean:6.0.0/
 192.99.183.24|16125|/MagicBean:6.0.0/
-192.99.183.25|16125|/MagicBean:6.0.0/
 192.99.183.26|16125|/MagicBean:6.0.0/
 192.99.183.27|16125|/MagicBean:6.0.0/
 192.99.198.236|16125|/MagicBean:6.0.0/
@@ -2740,7 +2739,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 195.3.220.21|16125|/MagicBean:6.0.0/
 195.3.220.22|16125|/MagicBean:6.0.0/
 195.3.220.54|16125|/MagicBean:6.0.0/
-195.3.220.60|16125|/MagicBean:6.0.0/
 195.3.220.69|16125|/MagicBean:6.0.0/
 195.3.220.70|16125|/MagicBean:6.0.0/
 195.3.220.71|16125|/MagicBean:6.0.0/
@@ -3011,7 +3009,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 198.50.187.207|16125|/MagicBean:6.0.0/
 198.50.191.120|16125|/MagicBean:6.0.0/
 198.50.191.121|16125|/MagicBean:6.0.0/
-198.50.191.64|16125|/MagicBean:6.0.0/
 198.50.191.65|16125|/MagicBean:6.0.0/
 198.50.191.66|16125|/MagicBean:6.0.0/
 198.50.191.67|16125|/MagicBean:6.0.0/
@@ -3097,6 +3094,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 202.61.192.134|16125|/MagicBean:6.0.0/
 202.61.192.75|16125|/MagicBean:6.0.0/
 202.61.193.142|16125|/MagicBean:6.0.0/
+202.61.193.21|16125|/MagicBean:6.0.0/
 202.61.193.72|16125|/MagicBean:6.0.0/
 202.61.194.173|16125|/MagicBean:6.0.0/
 202.61.194.87|16125|/MagicBean:6.0.0/
@@ -3492,6 +3490,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 208.87.131.210|16125|/MagicBean:6.0.0/
 208.87.131.234|16125|/MagicBean:6.0.0/
 208.87.131.80|16125|/MagicBean:6.0.0/
+208.87.131.88|16125|/MagicBean:6.0.0/
 208.87.134.22|16125|/MagicBean:6.0.0/
 208.87.135.123|16125|/MagicBean:6.0.0/
 208.87.135.14|16125|/MagicBean:6.0.0/
@@ -3715,6 +3714,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.182.53.128|16125|/MagicBean:6.0.0/
 217.182.53.129|16125|/MagicBean:6.0.0/
 217.182.53.130|16125|/MagicBean:6.0.0/
+217.182.53.131|16125|/MagicBean:6.0.0/
 217.182.70.42|16125|/MagicBean:6.0.0/
 217.216.162.217|16125|/MagicBean:6.0.0/
 217.67.136.39|16125|/MagicBean:6.0.0/
@@ -4636,7 +4636,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.242.240.165|16125|/MagicBean:6.0.0/
 38.242.240.172|16125|/MagicBean:6.0.0/
 38.242.240.24|16125|/MagicBean:6.0.0/
-38.242.240.43|16125|/MagicBean:6.0.0/
 38.242.240.68|16125|/MagicBean:6.0.0/
 38.242.240.89|16125|/MagicBean:6.0.0/
 38.242.241.213|16125|/MagicBean:6.0.0/
@@ -4774,6 +4773,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.88.125.242|16125|/MagicBean:6.0.0/
 38.88.125.243|16125|/MagicBean:6.0.0/
 38.88.125.244|16125|/MagicBean:6.0.0/
+38.88.125.245|16125|/MagicBean:6.0.0/
 38.88.125.246|16125|/MagicBean:6.0.0/
 38.88.125.247|16125|/MagicBean:6.0.0/
 38.88.125.248|16125|/MagicBean:6.0.0/
@@ -5587,6 +5587,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.161.85.48|16125|/MagicBean:6.0.0/
 5.161.85.52|16125|/MagicBean:6.0.0/
 5.161.85.63|16125|/MagicBean:6.0.0/
+5.161.85.71|16125|/MagicBean:6.0.0/
 5.161.85.99|16125|/MagicBean:6.0.0/
 5.161.86.169|16125|/MagicBean:6.0.0/
 5.161.86.175|16125|/MagicBean:6.0.0/
@@ -6303,6 +6304,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 54.37.140.126|16125|/MagicBean:6.0.0/
 54.37.140.127|16125|/MagicBean:6.0.0/
 54.37.155.71|16125|/MagicBean:6.0.0/
+54.37.170.64|16125|/MagicBean:6.0.0/
 54.37.170.65|16125|/MagicBean:6.0.0/
 54.37.170.66|16125|/MagicBean:6.0.0/
 54.37.170.67|16125|/MagicBean:6.0.0/
@@ -6592,7 +6594,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.108.143.172|16125|/MagicBean:6.0.0/
 65.108.143.173|16125|/MagicBean:6.0.0/
 65.108.143.174|16125|/MagicBean:6.0.0/
-65.108.143.175|16125|/MagicBean:6.0.0/
 65.108.143.176|16125|/MagicBean:6.0.0/
 65.108.143.177|16125|/MagicBean:6.0.0/
 65.108.143.178|16125|/MagicBean:6.0.0/
@@ -6716,7 +6717,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.108.40.244|16125|/MagicBean:6.0.0/
 65.108.40.250|16125|/MagicBean:6.0.0/
 65.108.40.37|16125|/MagicBean:6.0.0/
-65.108.40.98|16125|/MagicBean:6.0.0/
 65.108.41.126|16125|/MagicBean:6.0.0/
 65.108.41.222|21005|/MagicBean:5.0.0/
 65.108.42.119|16125|/MagicBean:6.0.0/
@@ -6915,7 +6915,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.21.183.174|16125|/MagicBean:6.0.0/
 65.21.190.130|16125|/MagicBean:6.0.0/
 65.21.190.144|16125|/MagicBean:6.0.0/
-65.21.191.78|16125|/MagicBean:6.0.0/
 65.21.192.93|16125|/MagicBean:6.0.0/
 65.21.193.105|16125|/MagicBean:6.0.0/
 65.21.193.208|16125|/MagicBean:6.0.0/
@@ -6955,11 +6954,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.21.232.5|16125|/MagicBean:6.0.0/
 65.21.233.113|16125|/MagicBean:6.0.0/
 65.21.233.219|16125|/MagicBean:6.0.0/
+65.21.234.126|16125|/MagicBean:6.0.0/
 65.21.236.136|16125|/MagicBean:6.0.0/
 65.21.238.160|16125|/MagicBean:6.0.0/
 65.21.238.165|16125|/MagicBean:6.0.0/
 65.21.238.175|16125|/MagicBean:6.0.0/
 65.21.238.176|16125|/MagicBean:6.0.0/
+65.21.238.177|16125|/MagicBean:6.0.0/
 65.21.238.190|16125|/MagicBean:6.0.0/
 65.21.239.222|16125|/MagicBean:6.0.0/
 65.21.24.236|16125|/MagicBean:6.0.0/
@@ -6967,7 +6968,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 65.21.245.42|16125|/MagicBean:6.0.0/
 65.21.247.104|16125|/MagicBean:6.0.0/
 65.21.247.191|16125|/MagicBean:6.0.0/
-65.21.252.219|16125|/MagicBean:6.0.0/
 65.21.255.227|16125|/MagicBean:6.0.0/
 65.21.33.35|16125|/MagicBean:6.0.0/
 65.21.34.126|16125|/MagicBean:6.0.0/
@@ -7095,7 +7095,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 66.70.165.232|16125|/MagicBean:6.0.0/
 66.70.165.233|16125|/MagicBean:6.0.0/
 66.70.165.234|16125|/MagicBean:6.0.0/
-66.70.165.235|16125|/MagicBean:6.0.0/
 66.70.176.241|16125|/MagicBean:6.0.0/
 66.70.204.252|16125|/MagicBean:6.0.0/
 66.70.204.253|16125|/MagicBean:6.0.0/
@@ -7224,6 +7223,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 68.117.164.202|16125|/MagicBean:6.0.0/
 68.117.34.6|16125|/MagicBean:6.0.0/
 68.127.179.210|16125|/MagicBean:6.0.0/
+68.148.18.50|16125|/MagicBean:6.0.0/
 68.163.55.250|16125|/MagicBean:6.0.0/
 68.163.55.251|16125|/MagicBean:6.0.0/
 68.163.55.253|16125|/MagicBean:6.0.0/
@@ -7383,6 +7383,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.119.141.114|16125|/MagicBean:6.0.0/
 75.119.141.228|16125|/MagicBean:6.0.0/
 75.119.141.234|16125|/MagicBean:6.0.0/
+75.119.145.183|16125|/MagicBean:6.0.0/
 75.119.145.79|16125|/MagicBean:6.0.0/
 75.119.149.114|16125|/MagicBean:6.0.0/
 75.119.149.168|16125|/MagicBean:6.0.0/
@@ -7512,7 +7513,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.108.113.136|16125|/MagicBean:6.0.0/
 81.109.182.10|16125|/MagicBean:6.0.0/
 81.130.66.161|16125|/MagicBean:6.0.0/
-81.130.66.163|16125|/MagicBean:6.0.0/
 81.130.66.164|16125|/MagicBean:6.0.0/
 81.130.66.165|16125|/MagicBean:6.0.0/
 81.169.175.89|16125|/MagicBean:6.0.0/
@@ -7660,6 +7660,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.198.199.48|16125|/MagicBean:6.0.0/
 88.212.61.100|16125|/MagicBean:6.0.0/
 88.79.169.246|16125|/MagicBean:6.0.0/
+88.80.148.28|8233|/MagicBean:5.0.0/
 88.99.126.20|16125|/MagicBean:6.0.0/
 88.99.194.109|8233|/MagicBean:5.0.0/
 88.99.20.10|16125|/MagicBean:6.0.0/
@@ -8439,6 +8440,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.58.7.53|16125|/MagicBean:6.0.0/
 89.58.7.56|16125|/MagicBean:6.0.0/
 89.58.7.64|16125|/MagicBean:6.0.0/
+89.58.7.69|16125|/MagicBean:6.0.0/
 89.58.7.81|16125|/MagicBean:6.0.0/
 89.58.7.85|16125|/MagicBean:6.0.0/
 89.58.7.94|16125|/MagicBean:6.0.0/
@@ -8690,6 +8692,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.111.226.45|16125|/MagicBean:6.0.0/
 95.111.227.124|16125|/MagicBean:6.0.0/
 95.111.227.194|16125|/MagicBean:6.0.0/
+95.111.228.169|16125|/MagicBean:6.0.0/
 95.111.228.203|16125|/MagicBean:6.0.0/
 95.111.234.228|16125|/MagicBean:6.0.0/
 95.111.237.121|16125|/MagicBean:4.0.1/
@@ -8765,7 +8768,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.10.239|16125|/MagicBean:6.0.0/
 95.216.100.158|16125|/MagicBean:6.0.0/
 95.216.11.249|16125|/MagicBean:6.0.0/
-95.216.110.50|16125|/MagicBean:6.0.0/
+95.216.110.51|16125|/MagicBean:6.0.0/
 95.216.112.226|16125|/MagicBean:6.0.0/
 95.216.112.233|16125|/MagicBean:6.0.0/
 95.216.118.230|16125|/MagicBean:6.0.0/
@@ -8858,13 +8861,13 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.216.80.99|16125|/MagicBean:6.0.0/
 95.216.9.121|16125|/MagicBean:6.0.0/
 95.216.91.20|16125|/MagicBean:6.0.0/
+95.216.91.21|16125|/MagicBean:6.0.0/
 95.216.91.22|16125|/MagicBean:6.0.0/
 95.216.99.86|16125|/MagicBean:6.0.0/
 95.217.107.219|16125|/MagicBean:6.0.0/
 95.217.11.32|16125|/MagicBean:6.0.0/
 95.217.118.197|16125|/MagicBean:6.0.0/
 95.217.118.204|16125|/MagicBean:6.0.0/
-95.217.118.211|16125|/MagicBean:6.0.0/
 95.217.118.240|16125|/MagicBean:6.0.0/
 95.217.118.37|16125|/MagicBean:6.0.0/
 95.217.119.47|16125|/MagicBean:6.0.0/
@@ -8937,7 +8940,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 96.22.251.50|16125|/MagicBean:6.0.0/
 96.231.245.2|16125|/MagicBean:6.0.0/
 96.231.245.3|16125|/MagicBean:6.0.0/
-96.231.245.5|16125|/MagicBean:6.0.0/
 96.231.245.6|16125|/MagicBean:6.0.0/
 96.240.100.123|16125|/MagicBean:6.0.0/
 96.252.79.125|16125|/MagicBean:6.0.0/
