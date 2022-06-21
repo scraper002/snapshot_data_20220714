@@ -139,7 +139,7 @@ IP Address|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Publice Key
 169.44.60.105|rippled-1.7.3|36351|169.44.0.0/17|US|ripencc|1993-09-01|SOFTLAYER, US|n9KDJqdL5pebR35tkE4pRuZ7MhTvQGid8YqwjJajwrZUN5fEDxsZ
 169.51.57.166
 169.54.137.7
-169.54.2.154
+169.54.2.154|rippled-1.7.3|36351|169.54.0.0/18|US|ripencc|1993-09-01|SOFTLAYER, US|n9Kr6UDJAd2yUn9J6bXWpRvQcKRPAEVpeV33NJVBcaDSDVt2eho2
 169.55.164.20|rippled-1.7.3|36351|169.55.128.0/18|US|ripencc|1993-09-01|SOFTLAYER, US|n94MrqsKc3BWdX2n5bGYy47HTT4egXhAcMrBMRoW6vUg7o7egABj
 169.55.164.21|rippled-1.8.1|36351|169.55.128.0/18|US|ripencc|1993-09-01|SOFTLAYER, US|n9MJdNfKuVeJYaNnY8hksJk8xSZJ5dVLazqRGpmMWWxApYLGyZzN
 169.55.164.25
@@ -157,7 +157,7 @@ IP Address|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Publice Key
 176.222.33.146
 176.9.140.115
 178.128.156.48
-178.162.218.42
+178.162.218.42|rippled-1.6.0|28753|178.162.192.0/18|DE|ripencc|2010-02-05|LEASEWEB-DE-FRA-10, DE|n9LeDc6r3ApnXbM7Xgb71JPPuqoRiTmBeaeokihP532AqYbFRoPo
 178.32.92.94
 178.63.51.90
 18.116.246.151
@@ -197,7 +197,7 @@ IP Address|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Publice Key
 18.192.125.190
 18.192.179.195
 18.192.21.77
-18.193.3.212
+18.193.3.212|rippled-1.7.3|16509|18.192.0.0/15|US|arin|2019-10-07|AMAZON-02, US|n9MBqAz93CQxpbVu8guYenyQRiFjswdowQVfnL7PS8Fjx6LUDUka
 18.193.90.149
 18.195.100.133
 18.195.169.174
@@ -282,7 +282,7 @@ IP Address|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Publice Key
 23.88.0.125
 24.134.26.141
 27.50.52.18
-2a01:4f8:c2c:571b::1
+2a01:4f8:c2c:571b::1|rippled-1.7.3|24940|2a01:4f8::/32|DE|ripencc|2007-10-10|HETZNER-AS, DE|n9Lb6PkADKuWZhcMC3w6S84RrDuc4DdB6Eg5HbhfVR4DAoft9jhf
 2a01:4f9:3a:1ce8::2
 3.1.120.206
 3.112.138.57
@@ -638,7 +638,7 @@ IP Address|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Publice Key
 94.130.218.70
 94.130.221.23
 94.130.254.103
-94.130.38.85
+94.130.38.85|rippled-1.7.3|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE|n9MRyCQx3QRDyBa8CJgS5eTJunEeKbG18vMZVWTpZMZB4daNtN7X
 94.156.174.100
 94.250.201.20
 94.26.230.16
@@ -669,10 +669,10 @@ IP Address|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Publice Key
 ::ffff:104.238.186.78
 ::ffff:121.78.223.201
 ::ffff:13.250.243.205
-::ffff:135.181.60.219
+::ffff:135.181.60.219|rippled-1.8.1|NA|NA||other||NA|n9LnQBDroUcj9mSse3nAhKzGrpAcQe6JNaAU6Mh9mXzyNfuUBrv2
 ::ffff:15.161.200.150
 ::ffff:152.2.73.210
-::ffff:159.100.250.198
+::ffff:159.100.250.198|rippled-1.6.0|NA|NA||other||NA|n9LxtbxntDpfWYF2jgXsvY9fkoyH7ez9J7pag75S7MtJn9hqBZJu
 ::ffff:159.100.254.132
 ::ffff:159.69.66.237
 ::ffff:165.22.218.221
@@ -686,15 +686,15 @@ IP Address|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Publice Key
 ::ffff:217.23.150.197
 ::ffff:3.219.105.145
 ::ffff:3.94.129.91
-::ffff:34.141.21.178
+::ffff:34.141.21.178|rippled-1.7.2+DEBUG|NA|NA||other||NA|n9KimoH8Qh6eGX1xZvjiGuVCtDbF5gq6SnWXpqav7GoreAfmmjpx
 ::ffff:35.169.48.139
 ::ffff:35.189.221.91
-::ffff:35.205.12.40
+::ffff:35.205.12.40|rippled-1.7.3|NA|NA||other||NA|n9LLRtDagqm413ZmQqiwsWaFjjA5ZuRx8yWJhqz8RmF8NUFWKauX
 ::ffff:35.75.22.63
 ::ffff:38.146.7.10
 ::ffff:44.195.55.196
 ::ffff:45.84.42.80
-::ffff:45.9.13.102
+::ffff:45.9.13.102|rippled-1.6.0|NA|NA||other||NA|n9KMtydqPgAu9PMqGWSZB3NuegT7zxEyuhZDzqaz1FwvrW5RfUz4
 ::ffff:46.4.138.103
 ::ffff:46.4.218.119
 ::ffff:46.4.218.120
@@ -710,7 +710,7 @@ IP Address|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name|Publice Key
 ::ffff:65.108.75.16
 ::ffff:65.21.95.10
 ::ffff:69.30.200.18
-::ffff:79.242.63.189
+::ffff:79.242.63.189|rippled-1.7.3|NA|NA||other||NA|n9LuU32Te64PTJFRtt6CPeAK8MiP6wv8TWu6SqamawkFwHQphbz4
 ::ffff:93.115.28.92
 ::ffff:95.216.102.182
 ::ffff:95.216.102.188
