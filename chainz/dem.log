@@ -7,10 +7,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.141.27.176|/eMark Android:1.0.0/|60011|9443|112.141.0.0/16|AU|apnic|2009-02-11|VOCUS-RETAIL-AU Vocus Retail, AU
 113.177.117.108|/eMark:1.6.1.2/|60012|45899|113.177.112.0/20|VN|apnic|2008-11-04|VNPT-AS-VN VNPT Corp, VN
 121.36.61.114|/eMark:1.6.1.1/|60012|55990|121.36.0.0/17|CN|apnic|2006-05-23|HWCSNET Huawei Cloud Service data center, CN
-122.59.8.177|/eMark:1.5.0/|60011|4771|122.59.8.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
+122.59.8.177|/eMark:1.5.0/|60011||||||
 139.162.155.117|/eMark:1.6.1.1/|60012|63949|139.162.128.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 14.172.47.91|/eMark:1.6.1.2/|60012|45899|14.172.32.0/20|VN|apnic|2010-08-16|VNPT-AS-VN VNPT Corp, VN
-144.91.120.189|/eMark:1.6.1.2/|60012|51167|144.91.120.0/23|DE|ripencc|1990-11-20|CONTABO, DE
+144.91.120.189|/eMark:1.6.1.2/|60012||||||
 147.135.97.55|/eMark:1.6.1/|60012|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
 165.231.67.202|/eMark:1.6.1.2/|60012|48950|165.231.67.0/24|SC|afrinic|1995-01-01|GLOBALCOLOCATION, GB
 167.86.116.187|/eMark:1.6.1/|60012||||||
@@ -29,9 +29,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.238.91.225|/eMark:1.6.1.2/|60012|12741|213.238.64.0/18|PL|ripencc|2001-03-07|AS-NETIA Warszawa 02-822, PL
 217.236.36.77|/eMark:1.6.1.2/|60012|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.241.162.42|/eMark:1.5.1/|60011||||||
-217.64.113.60|/eMark:1.6.1.2/|60012||||||
+217.64.113.60|/eMark:1.6.1.2/|60012|9009|217.64.113.0/24|GB|ripencc|2003-06-11|M247, GB
 217.95.61.179|/eMark:1.6.1.2/|60012|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
-45.128.37.100|/eMark:1.6.1.2/|60012||||||
+45.128.37.100|/eMark:1.6.1.2/|60012|9009|45.128.37.0/24|RO|ripencc|2019-07-11|M247, GB
 45.142.176.172|/eMark:1.6.1/|60012|197540|45.142.176.0/22|DE|ripencc|2019-08-19|NETCUP-AS netcup GmbH, DE
 45.236.101.201|/eMark:1.5.1/|60011|266806|45.236.101.0/24|AR|lacnic|2018-05-09|DIAZ MARCELA ALEJANDRAPATAGONIA DIGITAL, AR
 46.232.249.107|/eMark:1.6.1/|60012|197540|46.232.248.0/22|DE|ripencc|2018-06-15|NETCUP-AS netcup GmbH, DE
@@ -49,7 +49,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 79.226.205.133|/eMark:1.5.1/|60011|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.232.110.63|/eMark:1.6.1.2/|60012|3320|79.192.0.0/10|DE|ripencc|2007-06-06|DTAG Internet service provider operations, DE
 79.30.96.171|/eMark:1.6.1.2/|60012||||||
-79.54.142.4|/eMark:1.6.1.2/|60012||||||
+79.54.142.4|/eMark:1.6.1.2/|60012|3269|79.54.0.0/16|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
 80.133.159.143|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.134.208.76|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 81.169.141.94|/eMark:1.6.1.2/|60012|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
@@ -64,7 +64,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.2.34.93|/eMark:1.6.0/|60011|15545|84.2.34.0/23|HU|ripencc|2004-09-17|MT-DC-AS EU. Hungary, HU
 85.15.179.171|/eMark:1.6.1/|60012||||||
 85.19.25.38|/eMark:1.6.1/|60012||||||
-87.123.244.103|/eMark:1.6.1.2/|60012||||||
+87.123.244.103|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.244.98|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.245.150|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.128.105.199|/eMark:1.5.1/|60011|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
