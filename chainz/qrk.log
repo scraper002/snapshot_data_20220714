@@ -2,12 +2,13 @@
 # Quark
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 1.15.241.169|???|0||||||
-101.33.196.209|/Satoshi:0.10.7.7/|70004||||||
+101.33.196.209|/Satoshi:0.10.7.7/|70004|45090|101.33.192.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 101.33.208.251|/Satoshi:0.10.7.7/|70004||||||
 101.33.225.198|/Satoshi:0.10.7.7/|70004||||||
 101.34.28.53|/Satoshi:0.10.7.7/|70004||||||
 101.35.45.97|/Satoshi:0.10.7.7/|70004||||||
-101.42.134.194|/Satoshi:0.10.7.7/|70004|45090|101.42.128.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+101.35.91.253|/Satoshi:0.10.7.7/|70004||||||
+101.42.134.194|/Satoshi:0.10.7.7/|70004||||||
 101.42.140.126|/Satoshi:0.10.7.7/|70004||||||
 101.43.119.248|/Satoshi:0.10.7.7/|70004||||||
 101.43.121.131|/Satoshi:0.10.7.7/|70004||||||
@@ -27,10 +28,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 119.91.208.58|/Satoshi:0.10.7.7/|70004||||||
 119.91.224.142|/Satoshi:0.10.7.7/|70004||||||
 124.221.106.50|/Satoshi:0.10.7.7/|70004||||||
+124.221.109.203|/Satoshi:0.10.7.7/|70004||||||
 124.221.169.239|/Satoshi:0.10.7.7/|70004||||||
-124.222.101.22|/Satoshi:0.10.7.7/|70004||||||
-124.222.114.155|/Satoshi:0.10.7.7/|70004||||||
+124.222.101.22|/Satoshi:0.10.7.7/|70004|45090|124.222.64.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+124.222.114.155|/Satoshi:0.10.7.7/|70004|45090|124.222.64.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.222.115.146|/Satoshi:0.10.7.7/|70004||||||
+124.222.118.189|/Satoshi:0.10.7.7/|70004||||||
 124.222.119.235|/Satoshi:0.10.7.7/|70004||||||
 124.222.140.43|/Satoshi:0.10.7.7/|70004||||||
 124.222.141.187|/Satoshi:0.10.7.7/|70004||||||
@@ -61,7 +64,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 175.178.41.207|/Satoshi:0.10.7.7/|70004||||||
 175.178.45.116|/Satoshi:0.10.7.7/|70004||||||
 175.178.45.233|/Satoshi:0.10.7.7/|70004||||||
-175.178.46.168|/Satoshi:0.10.7.7/|70004||||||
 175.178.58.192|/Satoshi:0.10.7.7/|70004||||||
 175.178.58.63|/Satoshi:0.10.7.7/|70004||||||
 175.178.68.183|/Satoshi:0.10.7.7/|70004||||||
@@ -69,8 +71,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 175.24.166.30|/Satoshi:0.10.7.7/|70004||||||
 175.24.197.50|/Satoshi:0.10.7.7/|70004||||||
 194.160.225.216|/Satoshi:0.10.7.7/|70004||||||
-194.160.80.211|/Satoshi:0.10.7.7/|70004|2607|194.160.0.0/16|SK|ripencc|1995-05-03|SANET Slovak Academic Network, SK
-198.37.120.37|/Satoshi:0.10.7.7/|70004|397373|198.37.120.0/24|US|arin|2021-09-15|H4Y-TECHNOLOGIES, US
+194.160.80.211|/Satoshi:0.10.7.7/|70004||||||
+198.37.120.37|/Satoshi:0.10.7.7/|70004||||||
 211.159.223.96|/Satoshi:0.10.7.7/|70004||||||
 23.161.112.146|/Satoshi:0.10.7.7/|70004||||||
 23.161.112.170|/Satoshi:0.10.7.7/|70004||||||
@@ -83,9 +85,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 47.92.129.82|/Satoshi:0.10.7.7/|70004||||||
 66.181.33.138|/Satoshi:0.10.7.7/|70004||||||
 66.181.33.149|/Satoshi:0.10.7.7/|70004||||||
-67.219.137.211|/Satoshi:0.10.7.7/|70004|398395|67.219.137.0/24|CA|arin|2020-03-30|DOT-TECH-LLC, US
-81.68.133.194|/Satoshi:0.10.7.7/|70004|45090|81.68.128.0/18|CN|apnic|2002-01-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-81.68.142.83|/Satoshi:0.10.7.7/|70004|45090|81.68.128.0/18|CN|apnic|2002-01-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+67.219.137.211|/Satoshi:0.10.7.7/|70004||||||
+81.68.133.194|/Satoshi:0.10.7.7/|70004||||||
+81.68.142.83|/Satoshi:0.10.7.7/|70004||||||
 81.68.186.248|/Satoshi:0.10.7.7/|70004||||||
 81.68.249.143|/Satoshi:0.10.7.7/|70004||||||
 81.69.56.112|/Satoshi:0.10.7.7/|70004||||||
