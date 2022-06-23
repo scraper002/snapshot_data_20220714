@@ -25,8 +25,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.84.123|/Blocknet:4.3.0/|70713||||||
 173.249.11.130|/Blocknet:4.3.3/|70713||||||
 173.249.9.77|/Blocknet:4.3.3/|70713||||||
-174.0.61.19|/Blocknet:4.2.0/|70713||||||
-174.251.64.98|/Blocknet:4.3.1/|70713|6167|174.251.64.0/18|US|arin|2008-12-16|CELLCO-PART, US
+174.0.61.19|/Blocknet:4.2.0/|70713|6327|174.0.60.0/22|CA|arin|2008-11-19|SHAW, CA
+174.251.64.98|/Blocknet:4.3.1/|70713||||||
 176.9.8.76|/Blocknet:4.3.2/|70713||||||
 178.164.146.189|/Blocknet:4.3.2/|70713||||||
 178.191.87.240|/Blocknet:4.3.3/|70713||||||
@@ -59,7 +59,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.24.99.5|/Blocknet:4.3.3/|70713||||||
 213.136.91.45|/Blocknet:4.3.3/|70713||||||
 213.239.209.41|/Blocknet:4.3.1/|70713||||||
-217.241.162.42|/Blocknet:4.2.0/|70713||||||
+217.241.162.42|/Blocknet:4.2.0/|70713|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 23.226.135.62|/Blocknet:4.3.3/|70713||||||
 23.227.150.229|/Blocknet:4.3.1/|70713||||||
 3.88.134.233|/Blocknet:4.3.1/|70713||||||
@@ -67,7 +67,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 31.24.14.55|/Blocknet:4.3.3/|70713||||||
 37.187.136.35|/Blocknet:4.3.3/|70713||||||
 37.188.80.34|/Blocknet:4.3.1/|70713||||||
-39.99.142.121|/Blocknet:4.2.0/|70713||||||
+39.99.142.121|/Blocknet:4.2.0/|70713|37963|39.96.0.0/14|CN|apnic|2011-04-05|ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN
 40.112.194.171|/Blocknet:4.2.0/|70713||||||
 43.227.255.122|/Blocknet:4.3.1/|70713||||||
 45.126.209.106|Blocknet:4.3.3|70713||||||
@@ -97,7 +97,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 76.23.118.178|/Blocknet:4.3.3/|70713||||||
 76.94.228.210|/Blocknet:4.3.3/|70713||||||
 77.168.11.100|/Blocknet:4.3.2/|70713||||||
-77.185.156.155|/Blocknet:4.3.3/|70713||||||
+77.185.156.155|/Blocknet:4.3.3/|70713|6805|77.176.0.0/12|DE|ripencc|2006-11-17|TDDE-ASN1, DE
 77.202.10.220|/Blocknet:4.3.3/|70713||||||
 78.61.192.74|/Blocknet:4.3.3/|70713||||||
 79.115.42.61|/Blocknet:4.3.3/|70713||||||
@@ -125,17 +125,17 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.88.184.57|/Blocknet:4.3.3/|70713||||||
 87.115.66.109|/Blocknet:4.3.3/|70713||||||
 88.109.0.247|/Blocknet:4.3.3/|70713||||||
-89.151.220.172|/Blocknet:4.3.2/|70713|34087|89.151.192.0/19|NO|ripencc|2006-04-28|NTE-BREDBAND NIX 1, Oslo, Norway, NO
+89.151.220.172|/Blocknet:4.3.2/|70713||||||
 89.187.164.138|/Blocknet:4.3.3/|70713||||||
-89.23.224.35|/Blocknet:4.3.3/|70713|42541|89.23.224.0/19|DK|ripencc|2010-05-21|FIBERBY, DK
-89.47.164.74|/Blocknet:4.3.2/|70713|212531|89.47.160.0/21|LT|ripencc|2005-11-29|INTERNETO-VIZIJA, LT
-89.64.33.214|/Blocknet:4.3.2/|70713|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
+89.23.224.35|/Blocknet:4.3.3/|70713||||||
+89.47.164.74|/Blocknet:4.3.2/|70713||||||
+89.64.33.214|/Blocknet:4.3.2/|70713||||||
 91.100.31.98|/Blocknet:4.3.3/|70713||||||
 91.41.168.14|/Blocknet:4.3.3/|70713||||||
 92.180.8.37|/Blocknet:4.3.3/|70713||||||
 92.211.132.6|/Blocknet:4.3.1/|70713||||||
-92.60.40.207|/Blocknet:4.3.2/|70713|3214|92.60.40.0/24|DE|ripencc|2018-08-23|XTOM xTom GmbH, DE
+92.60.40.207|/Blocknet:4.3.2/|70713||||||
 94.255.130.14|/Blocknet:4.3.1/|70713||||||
-95.111.229.38|/Blocknet:4.3.2/|70713|51167|95.111.228.0/23|DE|ripencc|2008-12-30|CONTABO, DE
+95.111.229.38|/Blocknet:4.3.2/|70713||||||
 97.88.91.247|/Blocknet:4.3.3/|70713||||||
-99.228.97.64|/Blocknet:4.3.2/|70713|812|99.228.0.0/16|CA|arin|2007-03-12|ROGERS-COMMUNICATIONS, CA
+99.228.97.64|/Blocknet:4.3.2/|70713||||||
