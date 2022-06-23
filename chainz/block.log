@@ -1,12 +1,12 @@
 # https://chainz.cryptoid.info/ and whois results
 # Blocknet
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-1.145.113.242|/Blocknet:4.3.3/|70713|1221|1.128.0.0/11|AU|apnic|2010-05-18|ASN-TELSTRA Telstra Corporation Ltd, AU
-102.132.192.37|/Blocknet:4.3.3/|70713|37680|102.132.192.0/20|ZA|afrinic|2018-07-04|COOL-IDEAS, ZA
+1.145.113.242|/Blocknet:4.3.3/|70713||||||
+102.132.192.37|/Blocknet:4.3.3/|70713||||||
 104.175.54.44|/Blocknet:4.3.3/|70713|20001|104.172.0.0/14|US|arin|2014-08-13|TWC-20001-PACWEST, US
 104.238.221.41|Blocknet:4.3.3|70713||||||
-109.196.82.9|/Blocknet:4.3.3/|70713|50247|109.196.80.0/20|PL|ripencc|2009-12-09|ITCOMP, PL
-109.252.176.64|/Blocknet:4.3.3/|70713|25513|109.252.0.0/16|RU|ripencc|2009-12-07|ASN-MGTS-USPD, RU
+109.196.82.9|/Blocknet:4.3.3/|70713||||||
+109.252.176.64|/Blocknet:4.3.3/|70713||||||
 114.198.40.70|/Blocknet:4.3.3/|70713||||||
 116.203.187.130|/Blocknet:4.3.3/|70713||||||
 119.17.147.100|/Blocknet:4.3.3/|70713||||||
@@ -20,7 +20,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.198.121.253|Blocknet:4.3.3|70713||||||
 144.172.73.66|/Blocknet:4.3.3/|70713||||||
 144.91.116.146|/Blocknet:4.3.3/|70713||||||
-145.224.66.114|/Blocknet:4.3.2/|70713|14593|145.224.64.0/21|US|ripencc|1993-05-06|SPACEX-STARLINK, US
+145.224.66.114|/Blocknet:4.3.2/|70713||||||
 146.59.233.33|/Blocknet:4.3.3/|70713||||||
 149.167.132.227|/Blocknet:4.3.3/|70713||||||
 154.6.19.64|/Blocknet:4.3.3/|70713||||||
@@ -28,11 +28,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.97.75.8|/Blocknet:4.2.0/|70713||||||
 167.86.84.123|/Blocknet:4.3.0/|70713||||||
 173.249.11.130|/Blocknet:4.3.3/|70713||||||
-173.249.39.140|/Blocknet:4.3.1/|70713||||||
+173.249.39.140|/Blocknet:4.3.1/|70713|51167|173.249.38.0/23|DE|ripencc|2010-05-26|CONTABO, DE
 173.249.9.77|/Blocknet:4.3.3/|70713||||||
 174.0.61.19|/Blocknet:4.2.0/|70713||||||
 174.251.64.98|/Blocknet:4.3.1/|70713||||||
-176.9.8.76|/Blocknet:4.3.2/|70713|24940|176.9.0.0/16|DE|ripencc|2011-05-17|HETZNER-AS, DE
+176.9.8.76|/Blocknet:4.3.2/|70713||||||
 178.164.146.189|/Blocknet:4.3.2/|70713||||||
 178.191.87.240|/Blocknet:4.3.3/|70713||||||
 178.27.168.140|/Blocknet:4.3.3/|70713||||||
@@ -42,7 +42,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.219.140.239|/Blocknet:4.3.3/|70713||||||
 185.220.100.244|/Blocknet:4.3.3/|70713||||||
 185.220.100.255|/Blocknet:4.3.3/|70713||||||
-185.246.56.72|/Blocknet:4.3.3/|70713|198193|185.246.56.0/23|ES|ripencc|2018-02-14|ASN-TCABLE, ES
+185.246.56.72|/Blocknet:4.3.3/|70713||||||
 185.247.69.2|/Blocknet:4.3.3/|70713||||||
 188.25.50.199|/Blocknet:4.3.3/|70713||||||
 191.125.5.15|/Blocknet:4.3.3/|70713||||||
@@ -50,7 +50,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.110.84.13|/Blocknet:4.3.3/|70713||||||
 194.163.143.68|/Blocknet:4.3.2/|70713||||||
 194.163.189.109|/Blocknet:4.3.2/|70713||||||
-194.163.189.111|/Blocknet:4.3.2/|70713|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
+194.163.189.111|/Blocknet:4.3.2/|70713||||||
 196.196.53.28|/Blocknet:4.3.3/|70713||||||
 197.245.30.231|/Blocknet:4.3.2/|70713||||||
 199.127.62.235|Blocknet:4.3.3|70713||||||
@@ -66,7 +66,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 213.239.209.41|/Blocknet:4.3.1/|70713||||||
 217.241.162.42|/Blocknet:4.2.0/|70713||||||
 23.226.135.62|/Blocknet:4.3.3/|70713||||||
-23.227.150.229|/Blocknet:4.3.1/|70713|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
+23.227.150.229|/Blocknet:4.3.1/|70713||||||
 24.132.175.120|/Blocknet:4.3.3/|70713||||||
 3.88.134.233|/Blocknet:4.3.1/|70713||||||
 31.24.14.55|/Blocknet:4.3.3/|70713||||||
@@ -75,7 +75,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 39.99.142.121|/Blocknet:4.2.0/|70713||||||
 40.112.194.171|/Blocknet:4.2.0/|70713||||||
 43.227.255.122|/Blocknet:4.3.1/|70713||||||
-45.126.209.106|Blocknet:4.3.3|70713|23470|45.126.209.0/24|SG|apnic|2015-09-08|RELIABLESITE, US
+45.126.209.106|Blocknet:4.3.3|70713||||||
 45.88.191.8|/Blocknet:4.3.3/|70713||||||
 46.59.40.91|/Blocknet:4.3.3/|70713||||||
 47.32.64.231|/Blocknet:4.3.2/|70713||||||
@@ -84,7 +84,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.253.115.248|/Blocknet:4.3.1/|70713||||||
 50.38.58.170|/Blocknet:4.3.3/|70713||||||
 50.71.188.185|/Blocknet:4.3.0/|70713||||||
-51.222.141.251|/Blocknet:4.3.2/|70713|16276|51.222.0.0/16|CA|arin|2020-03-31|OVH, FR
+51.222.141.251|/Blocknet:4.3.2/|70713||||||
 54.37.197.65|/Blocknet:4.3.3/|70713||||||
 62.107.124.189|/Blocknet:4.3.3/|70713||||||
 62.122.202.167|/Blocknet:4.3.3/|70713||||||
