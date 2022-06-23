@@ -33,7 +33,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.202.206.15|9333|/LitecoinCore:0.18.1/|13030|109.202.192.0/19|CH|ripencc|2010-02-22|INIT7, CH
 109.236.94.75|9333|/LitecoinCore:0.18.1/|49981|109.236.80.0/20|NL|ripencc|2009-12-04|WORLDSTREAM, NL
 109.87.166.145|9333|/LitecoinCore:0.21.2.1/|13188|109.87.166.0/24|UA|ripencc|2009-08-20|TRIOLAN, UA
-110.42.213.113|9321|/Satoshi:0.13.2.1/|45090|110.42.192.0/18|CN|apnic|2009-03-04|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 111.108.29.123|9513|/Satoshi:0.8.7.2/|2516|111.108.0.0/16|JP|apnic|2009-06-12|KDDI KDDI CORPORATION, JP
 111.90.145.106|9333|/LitecoinCore:0.18.1/|45839|111.90.144.0/21|MY|apnic|2009-06-17|SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY
 112.5.37.248|60012|/LitecoinCore:0.18.1/|9808|112.5.32.0/21|CN|apnic|2008-12-15|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
@@ -504,6 +503,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2402:1f00:8100:181::|9333|/LitecoinCore:0.16.3/|16276|2402:1f00:8100::/40|HK|apnic|2011-10-04|OVH, FR
 2409:8a02:544c:5d0:54e:e599:7b45:2aa0|9333|/LitecoinCore:0.18.1/|38019|2409:8a02::/32|CN|apnic|2011-08-23|CMNET-V4TIANJIN-AS-AP tianjin Mobile Communication Company Limited, CN
 2409:8a1e:2a63:7ac0:1c:3912:a24f:b3ca|9321|/Satoshi:0.14.3.2/|24400|2409:8a1e::/32|CN|apnic|2011-08-23|CMNET-V4SHANGHAI-AS-AP Shanghai Mobile Communications Co.,Ltd., CN
+2409:8a55:30ca:eab0:144a:ac09:cc69:ff51|9333|/LitecoinCore:0.18.1/|56040|2409:8a55::/32|CN|apnic|2011-08-23|CMNET-GUANGDONG-AP China Mobile communications corporation, CN
 240d:1b:64:6202:1f7a:a402:916:dc86|9513|/Satoshi:0.8.7.2/|2527|240d::/27|JP|apnic|2010-12-24|SO-NET Sony Network Communications Inc., JP
 2600:3c00::f03c:92ff:fe92:2745|9333|/LitecoinCore:0.21.2/|63949|2600:3c00::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
 2600:3c03::f03c:91ff:fee9:7bc4|9333|/LitecoinCore:0.17.1/|63949|2600:3c03::/32|US|arin|2011-02-07|LINODE-AP Linode, LLC, US
@@ -524,6 +524,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2604:a880:400:d1::7b0:b001|9333|/LitecoinCore:0.16.3/|14061|2604:a880:400::/48|US|arin|2013-04-11|DIGITALOCEAN-ASN, US
 2604:a880:800:a1::9af:6001|7107|/FlashcoinCore:0.13.3.2(bitcore)/|14061|2604:a880:800::/48|US|arin|2013-04-11|DIGITALOCEAN-ASN, US
 2604:a880:cad:d0::a62:2001|9333|/LitecoinCore:0.18.1/|14061|2604:a880:cad::/48|US|arin|2013-04-11|DIGITALOCEAN-ASN, US
+2606:8240:8113:fecf:246b:3395:4939:2073|9333|/LitecoinCore:0.21.2/|399143|2606:8240::/32|US|arin|2021-10-07|4CEPA-FASTNET, US
 2607:5300:203:2fac::|9333|/LitecoinCore:0.16.3/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
 2607:5300:203:53a6::|9333|/LitecoinCore:0.17.1(bitcore)/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
 2607:5300:203:a0c9::2103|9333|/LitecoinCore:0.21.2/|16276|2607:5300::/32|CA|arin|2012-04-16|OVH, FR
@@ -534,7 +535,7 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 2607:f2c0:100:200:1::2e8|9333|/LitecoinCore:0.18.1/|5645|2607:f2c0::/32|CA|arin|2008-01-17|TEKSAVVY, CA
 2610:150:c009:4:225:90ff:feaf:61c|9333|/LitecoinCore:0.18.1/|46844|2610:150:c000::/34|US|arin|2007-01-09|ST-BGP, US
 2620:a6:2000:1::d:7f03|9333|/LitecoinCore:0.21.2/|27566|2620:a6:2000::/48|US|arin|2022-01-19|EQUINIX-EC-NY, US
-2804:14c:b180:1db4:185d:8b0d:f220:be19|9333|/LitecoinCore:0.21.2(Edward M9y91o8GLmcVsGn5qryeF8vAbrckEMJPtx)/|28573|2804:14c:b180::/48|BR|lacnic|2012-02-10|Claro NXT Telecomunicacoes Ltda, BR
+2804:14c:dc81:552c::1001|37371|/B2CCoinCore:0.16.3/|28573|2804:14c:dc00::/40|BR|lacnic|2012-02-10|Claro NXT Telecomunicacoes Ltda, BR
 2804:14d:4c89:8dd6:c9f3:7173:8a41:6fba|37371|/B2CCoinCore:0.16.3/|28573|2804:14d:4c89::/48|BR|lacnic|2012-02-10|Claro NXT Telecomunicacoes Ltda, BR
 2804:14d:4cdc:9b71:9c19:31cd:6c67:8395|37371|/B2CCoinCore:0.16.3/|28573|2804:14d:4cdc::/48|BR|lacnic|2012-02-10|Claro NXT Telecomunicacoes Ltda, BR
 2804:14d:7e88:ad6c:6564:8ebe:c69a:23bf|37371|/B2CCoinCore:0.16.3/|28573|2804:14d:7e88::/48|BR|lacnic|2012-02-10|Claro NXT Telecomunicacoes Ltda, BR
@@ -1046,7 +1047,6 @@ IP Address|Port|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.200.205.30|33666|/CypherfunkCore:0.15.2/|9198|82.200.204.0/22|KZ|ripencc|2003-09-18|KAZTELECOM-AS, KZ
 82.202.197.224|9333|/LitecoinCore:0.17.1/|49505|82.202.197.0/24|RU|ripencc|2003-10-06|SELECTEL, RU
 82.221.131.172|9333|/LitecoinCore:0.18.1/|50613|82.221.128.0/19|IS|ripencc|2003-12-11|THORDC-AS, IS
-82.75.15.130|9333|/LitecoinCore:0.18.1/|33915|82.74.0.0/15|NL|ripencc|2003-07-04|TNF-AS, NL
 83.221.211.116|10333|/LitecoinCore:0.21.2/|21479|83.221.192.0/19|RU|ripencc|2004-04-15|ROSTOV-TELEGRAF-AS, RU
 83.99.245.20|9333|/LitecoinCore:0.17.1/|24651|83.99.128.0/17|LV|ripencc|2004-01-27|LVBALTICOM-AS, LV
 84.38.189.208|9333|/LitecoinCore:0.16.3/|49505|84.38.188.0/23|RU|ripencc|2010-07-06|SELECTEL, RU
