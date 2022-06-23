@@ -7,15 +7,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 112.141.27.176|/eMark Android:1.0.0/|60011|9443|112.141.0.0/16|AU|apnic|2009-02-11|VOCUS-RETAIL-AU Vocus Retail, AU
 113.177.117.108|/eMark:1.6.1.2/|60012|45899|113.177.112.0/20|VN|apnic|2008-11-04|VNPT-AS-VN VNPT Corp, VN
 121.36.61.114|/eMark:1.6.1.1/|60012|55990|121.36.0.0/17|CN|apnic|2006-05-23|HWCSNET Huawei Cloud Service data center, CN
-122.59.8.177|/eMark:1.5.0/|60011||||||
+122.59.8.177|/eMark:1.5.0/|60011|4771|122.59.8.0/21|NZ|apnic|2008-09-16|SPARKNZ Spark New Zealand Trading Ltd., NZ
 139.162.155.117|/eMark:1.6.1.1/|60012|63949|139.162.128.0/19|NL|ripencc|1990-03-24|LINODE-AP Linode, LLC, US
 14.172.47.91|/eMark:1.6.1.2/|60012|45899|14.172.32.0/20|VN|apnic|2010-08-16|VNPT-AS-VN VNPT Corp, VN
 144.91.120.189|/eMark:1.6.1.2/|60012|51167|144.91.120.0/23|DE|ripencc|1990-11-20|CONTABO, DE
-147.135.97.55|/eMark:1.6.1/|60012||||||
-167.86.116.187|/eMark:1.6.1/|60012||||||
-172.104.157.27|???|0||||||
+147.135.97.55|/eMark:1.6.1/|60012|16276|147.135.0.0/17|US|arin|2017-03-22|OVH, FR
+167.86.116.187|/eMark:1.6.1/|60012|51167|167.86.116.0/23|DE|ripencc|1993-05-14|CONTABO, DE
+172.104.157.27|???|0|63949|172.104.128.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
 172.105.182.91|/eMark:1.6.1.1/|60012|63949|172.105.160.0/19|US|arin|2015-06-19|LINODE-AP Linode, LLC, US
-178.2.252.129|/eMark:1.6.1.2/|60012||||||
+178.2.252.129|/eMark:1.6.1.2/|60012|3209|178.0.0.0/12|DE|ripencc|2010-01-12|VODANET International IP-Backbone of Vodafone, DE
 178.254.43.126|/eMark:1.6.1.2/|60012|42730|178.254.32.0/20|DE|ripencc|2010-06-18|EVANZOAS, DE
 178.37.72.37|/eMark:1.6.1.2/|60012|12741|178.36.0.0/15|PL|ripencc|2010-01-28|AS-NETIA Warszawa 02-822, PL
 178.46.89.97|/eMark:1.6.1.2/|60012|12389|178.46.80.0/20|RU|ripencc|2010-02-26|ROSTELECOM-AS, RU
@@ -30,11 +30,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 208.110.169.2|/eMark:1.6.1.2/|60012|7226|208.110.168.0/23|US|arin|2007-04-06|DATABANK-LATISYS, US
 212.124.7.254|/eMark:1.6.1.2/|60012|12389|212.124.7.0/24|RU|ripencc|2008-05-29|ROSTELECOM-AS, RU
 212.90.63.179|/eMark:1.5.1/|60011|48239|212.90.32.0/19|UA|ripencc|2010-11-09|ITTV-AS Kiev, Ukraine, UA
-213.136.80.217|/eMark:1.6.1.2/|60012||||||
+213.136.80.217|/eMark:1.6.1.2/|60012|51167|213.136.80.0/23|DE|ripencc|2000-02-28|CONTABO, DE
 213.151.31.228|/eMark:1.6.1.2/|60012|31499|213.151.16.0/20|RU|ripencc|2008-03-13|YCC-AS -- iHome --, RU
 213.162.141.220|/eMark:1.6.1.2/|60012|9136|213.162.128.0/19|DE|ripencc|2008-11-10|WOBCOM, DE
 217.236.36.77|/eMark:1.6.1.2/|60012|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
-217.241.162.42|/eMark:1.5.1/|60011||||||
+217.241.162.42|/eMark:1.5.1/|60011|3320|217.224.0.0/11|DE|ripencc|2001-04-04|DTAG Internet service provider operations, DE
 217.95.61.179|/eMark:1.6.1.2/|60012|3320|217.80.0.0/12|DE|ripencc|2000-10-26|DTAG Internet service provider operations, DE
 45.142.176.172|/eMark:1.6.1/|60012|197540|45.142.176.0/22|DE|ripencc|2019-08-19|NETCUP-AS netcup GmbH, DE
 45.236.101.201|/eMark:1.5.1/|60011|266806|45.236.101.0/24|AR|lacnic|2018-05-09|DIAZ MARCELA ALEJANDRAPATAGONIA DIGITAL, AR
@@ -53,7 +53,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.23.254.149|/eMark:1.6.1.2/|60012|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 77.32.30.152|/eMark:1.6.1.2/|60012|35612|77.32.16.0/20|IT|ripencc|2006-12-13|NGI-AS, IT
 78.26.176.4|/eMark:1.6.1.2/|60012|34187|78.26.128.0/18|UA|ripencc|2007-08-29|RENOME-AS, UA
-79.54.142.4|/eMark:1.6.1.2/|60012||||||
+79.54.142.4|/eMark:1.6.1.2/|60012|3269|79.54.0.0/16|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
 80.133.159.143|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 80.134.208.76|/eMark:1.6.1.2/|60012|3320|80.128.0.0/12|DE|ripencc|2001-08-06|DTAG Internet service provider operations, DE
 81.169.141.94|/eMark:1.6.1.2/|60012|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
@@ -64,10 +64,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 84.134.19.87|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.134.25.55|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.137.131.185|/eMark:1.6.1.2/|60012|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-84.168.78.1|/eMark:1.5.1/|60011||||||
+84.168.78.1|/eMark:1.5.1/|60011|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
 84.2.34.93|/eMark:1.6.0/|60011|15545|84.2.34.0/23|HU|ripencc|2004-09-17|MT-DC-AS EU. Hungary, HU
-85.15.179.171|/eMark:1.6.1/|60012||||||
-85.19.25.38|/eMark:1.6.1/|60012||||||
+85.15.179.171|/eMark:1.6.1/|60012|12389|85.15.128.0/18|RU|ripencc|2005-04-26|ROSTELECOM-AS, RU
+85.19.25.38|/eMark:1.6.1/|60012|25400|85.19.0.0/16|NO|ripencc|2005-03-16|TELIA-NORWAY-AS Telia Norway Core Networks, NO
 87.123.244.103|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.244.98|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
 87.123.245.119|/eMark:1.6.1.2/|60012|8881|87.123.240.0/21|DE|ripencc|2005-07-27|VERSATEL, DE
@@ -75,15 +75,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 87.129.53.98|/eMark:1.5.1/|60011|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.141.127.100|/eMark:1.5.1/|60011|3320|87.128.0.0/10|DE|ripencc|2005-05-03|DTAG Internet service provider operations, DE
 87.211.227.205|/eMark:1.5.1/|60011|13127|87.211.0.0/16|NL|ripencc|2005-06-02|T-MOBILE AS for the Trans-European T-Mobile IP Transport backbone, NL
-88.126.202.24|/eMark:1.6.1.2/|60012||||||
+88.126.202.24|/eMark:1.6.1.2/|60012|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
 89.1.209.220|/eMark:1.6.1.2/|60012|8422|89.0.0.0/15|DE|ripencc|2009-06-30|NETCOLOGNE, DE
-89.163.242.207|/eMark:1.5.1/|60011||||||
+89.163.242.207|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.163.255.142|/eMark:1.5.1/|60011|24961|89.163.128.0/17|DE|ripencc|2006-02-17|MYLOC-AS IP Backbone of myLoc managed IT AG, DE
 89.183.227.241|/eMark Android:1.0.0/|60011|13045|89.183.0.0/16|DE|ripencc|2006-04-06|HTP-AS, DE
 89.46.223.53|/eMark:1.5.1/|60011|25369|89.46.223.0/24|GB|ripencc|2005-11-29|BANDWIDTH-AS, GB
 90.188.246.234|/eMark:1.5.1/|60011|12389|90.188.246.0/24|RU|ripencc|2006-10-18|ROSTELECOM-AS, RU
 91.186.63.7|/eMark:1.6.1.2/|60012|9136|91.186.32.0/19|DE|ripencc|2006-11-07|WOBCOM, DE
-91.206.16.214|/eMark:1.6.1/|60012||||||
+91.206.16.214|/eMark:1.6.1/|60012|13259|91.206.16.0/23|RU|ripencc|2008-06-09|DELTA-TELESYSTEMS-AS, RU
 91.32.147.188|/eMark:1.5.1/|60011|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.41.129.148|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 91.63.114.229|/eMark:1.6.1.2/|60012|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
@@ -98,7 +98,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.134.111.252|/eMark:1.6.1.2/|60012|8881|94.134.104.0/21|DE|ripencc|2008-08-07|VERSATEL, DE
 95.153.163.215|/eMark:1.6.1.2/|60012|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
 95.153.169.58|/eMark:1.6.1.2/|60012|8359|95.153.128.0/17|RU|ripencc|2009-02-23|MTS, RU
-95.17.91.56|/eMark:1.6.1.2/|60012||||||
+95.17.91.56|/eMark:1.6.1.2/|60012|12479|95.17.88.0/22|ES|ripencc|2008-11-10|UNI2-AS, ES
 95.217.78.79|/eMark:1.6.1.2/|60012||||||
 95.90.208.11|/eMark:1.6.1.2/|60012|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 95.90.214.39|/eMark:1.5.1/|60011|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
