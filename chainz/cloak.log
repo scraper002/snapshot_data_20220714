@@ -23,21 +23,22 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 174.250.40.8|/KlausFuchs:2.2.2.2/|60018|6167|174.250.40.0/23|US|arin|2008-12-16|CELLCO-PART, US
 174.74.90.35|/KlausFuchs:2.2.2.2/|60018|22773|174.74.0.0/17|US|arin|2009-02-19|ASN-CXA-ALL-CCI-22773-RDC, US
 176.249.204.144|/KlausFuchs:2.2.2.2/|60018|5607|176.248.0.0/13|GB|ripencc|2011-12-05|BSKYB-BROADBAND-AS, GB
-176.74.136.237|/KlausFuchs:2.2.2.2/|60018||||||
-176.90.67.14|/KlausFuchs:2.2.2.2/|60018||||||
-178.24.235.2|/KlausFuchs:2.2.2.2/|60018||||||
+176.74.136.237|/KlausFuchs:2.2.2.2/|60018|35613|176.74.128.0/19|CZ|ripencc|2011-06-15|NETDATACOMM, CZ
+176.90.67.14|/KlausFuchs:2.2.2.2/|60018|16135|176.90.0.0/17|TR|ripencc|2011-07-04|TURKCELL-AS Turkcell A.S., TR
+177.67.80.187|/KlausFuchs:2.2.2.2/|60018|53013|177.67.80.0/23|BR|lacnic|2011-07-05|W I X NET DO BRASIL LTDA - ME, BR
+178.24.235.2|/KlausFuchs:2.2.2.2/|60018|3209|178.24.0.0/14|DE|ripencc|2010-02-17|VODANET International IP-Backbone of Vodafone, DE
 178.252.153.146|/SidneyReilly:0.7.8/|60018||||||
-181.214.218.159|/KlausFuchs:2.2.2.2/|60018||||||
-184.166.108.94|/KlausFuchs:2.2.2.2/|60018||||||
-185.159.157.11|/KlausFuchs:2.2.2.2/|60018||||||
-185.159.157.44|/KlausFuchs:2.2.2.2/|60018|209103|185.159.157.0/24|CH|ripencc|2016-07-14|PROTONVPN, CH
+181.214.218.159|/KlausFuchs:2.2.2.2/|60018|174|181.214.218.0/24|AE|ripencc|2014-05-29|COGENT-174, US
+184.166.108.94|/KlausFuchs:2.2.2.2/|60018|33588|184.166.0.0/15|US|arin|2010-07-28|BRESNAN-33588, US
+185.159.157.11|/KlausFuchs:2.2.2.2/|60018|209103|185.159.157.0/24|CH|ripencc|2016-07-14|PROTONVPN, CH
+185.159.157.44|/KlausFuchs:2.2.2.2/|60018||||||
 185.246.209.146|/KlausFuchs:2.2.2.2/|60018||||||
 188.126.204.38|/KlausFuchs:2.2.2/|60018||||||
 193.70.44.101|/KlausFuchs:2.2.2.2/|60018||||||
 195.201.184.178|/KlausFuchs:2.2.2.2/|60018||||||
 198.58.110.142|/KlausFuchs:2.2.2.2/|60018||||||
 2.37.131.100|/KlausFuchs:2.2.2.2/|60018||||||
-211.219.203.174|/KlausFuchs:2.2.2.2/|60018|4766|211.216.0.0/13|KR|apnic|2000-09-12|KIXS-AS-KR Korea Telecom, KR
+211.219.203.174|/KlausFuchs:2.2.2.2/|60018||||||
 212.112.122.216|/KlausFuchs:2.2.2.2/|60018||||||
 213.136.67.100|/KlausFuchs:2.2.2.2/|60018||||||
 213.155.234.114|/KlausFuchs:2.2.2.2/|60018||||||
@@ -47,6 +48,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 217.70.140.196|/KlausFuchs:2.2.2.2/|60018||||||
 23.227.150.229|/KlausFuchs:2.2.2.1/|60018||||||
 24.21.226.121|/KlausFuchs:2.2.2.2/|60018||||||
+3.112.138.57|/SidneyReilly:0.7.8/|60018||||||
 31.151.42.160|/KlausFuchs:2.2.2.2/|60018||||||
 34.240.173.129|/KlausFuchs:2.2.2.2/|60018||||||
 37.120.217.170|/KlausFuchs:2.2.2.2/|60018||||||
@@ -55,7 +57,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.132.109.146|/KlausFuchs:2.2.2.2/|60018||||||
 45.162.228.190|/KlausFuchs:2.2.2.2/|60018||||||
 45.76.253.195|/KlausFuchs:2.2.2.2/|60018||||||
-46.101.235.143|/KlausFuchs:2.2.2.1/|60018|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
+46.101.235.143|/KlausFuchs:2.2.2.1/|60018||||||
 46.35.48.131|/KlausFuchs:2.2.2.2/|60018||||||
 47.186.132.67|/KlausFuchs:2.2.2.2/|60018||||||
 47.33.12.211|/KlausFuchs:2.2.2.2/|60018||||||
@@ -80,11 +82,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 73.120.80.100|/KlausFuchs:2.2.2.1/|60018||||||
 73.145.241.18|/KlausFuchs:2.2.2.1/|60018||||||
 75.133.121.122|/SidneyReilly:0.7.8/|60018||||||
-76.22.91.115|/KlausFuchs:2.2.2.2/|60018||||||
-77.192.248.121|/KlausFuchs:2.2.2.2/|60018||||||
+76.22.91.115|/KlausFuchs:2.2.2.2/|60018|7922|76.16.0.0/12|US|arin|2006-06-28|COMCAST-7922, US
+77.192.248.121|/KlausFuchs:2.2.2.2/|60018|15557|77.192.0.0/12|FR|ripencc|2006-11-30|LDCOMNET, FR
 78.173.34.146|/KlausFuchs:2.2.2.2/|60018||||||
 79.143.186.122|/KlausFuchs:2.2.2.2/|60018||||||
-79.59.255.93|/KlausFuchs:2.2.2.2/|60018||||||
+79.59.255.93|/KlausFuchs:2.2.2.2/|60018|3269|79.59.0.0/16|IT|ripencc|2007-02-21|ASN-IBSNAZ, IT
 81.185.220.22|/KlausFuchs:2.2.2.2/|60018||||||
 82.9.122.98|/KlausFuchs:2.2.2.2/|60018||||||
 83.114.53.35|/KlausFuchs:2.2.2.2/|60018||||||
