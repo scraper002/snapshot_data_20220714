@@ -13,9 +13,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.203.53.139|/ColossusXT Core:1.2.4/|70911||||||
 124.197.100.249|/ColossusXT Core:1.2.4/|70911||||||
 134.19.188.91|/ColossusXT Core:1.2.4/|70911||||||
-135.181.24.90|/ColossusXT Core:1.2.4/|70911|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
+135.181.24.90|/ColossusXT Core:1.2.4/|70911||||||
 139.155.231.239|/ColossusXT Core:1.2.4/|70911||||||
-139.155.31.254|/ColossusXT Core:1.2.4/|70911|45090|139.155.16.0/20|CN|apnic|2011-03-09|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+139.155.31.254|/ColossusXT Core:1.2.4/|70911||||||
 139.155.82.239|/ColossusXT Core:1.2.4/|70911||||||
 140.143.7.68|/ColossusXT Core:1.2.4/|70911||||||
 157.90.154.14|/ColossusXT Core:1.2.4/|70911||||||
@@ -29,13 +29,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.70.108.101|/ColossusXT Core:1.2.4/|70911||||||
 174.94.94.54|/ColossusXT Core:1.2.4/|70911||||||
 178.165.188.8|/ColossusXT Core:1.2.4/|70911||||||
-183.179.67.159|/ColossusXT Core:1.2.4/|70911||||||
-183.69.215.164|/ColossusXT Core:1.2.4/|70911||||||
+183.179.67.159|/ColossusXT Core:1.2.4/|70911|9269|183.179.64.0/18|HK|apnic|2009-11-26|HKBN-AS-AP Hong Kong Broadband Network Ltd., HK
+183.69.215.164|/ColossusXT Core:1.2.4/|70911|4134|183.64.0.0/13|CN|apnic|2009-10-23|CHINANET-BACKBONE No.31,Jin-rong Street, CN
 185.213.154.169|/ColossusXT Core:1.2.4/|70911||||||
-192.144.157.45|/ColossusXT Core:1.2.4/|70911||||||
-192.241.154.180|/ColossusXT Core:1.2.4/|70911||||||
+192.144.157.45|/ColossusXT Core:1.2.4/|70911|45090|192.144.128.0/18|CN|apnic|2016-03-03|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+192.241.154.180|/ColossusXT Core:1.2.4/|70911|14061|192.241.128.0/19|US|arin|2013-06-10|DIGITALOCEAN-ASN, US
 194.9.235.31|/ColossusXT Core:1.2.4/|70911||||||
-199.21.113.74|/ColossusXT Core:1.2.4/|70911|36352|199.21.113.0/24|US|arin|2011-10-14|AS-COLOCROSSING, US
+199.21.113.74|/ColossusXT Core:1.2.4/|70911||||||
 207.180.211.105|/ColossusXT Core:1.2.4/|70911||||||
 207.180.220.22|break|70911||||||
 217.37.18.185|/ColossusXT Core:1.2.4/|70911||||||
@@ -50,7 +50,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 5.172.238.210|/ColossusXT Core:1.2.4/|70911||||||
 51.79.55.209|/ColossusXT Core:1.2.4/|70911||||||
 52.63.210.245|/ColossusXT Core:1.2.4/|70911||||||
-62.122.202.167|/ColossusXT Core:1.2.4/|70911||||||
+62.122.202.167|/ColossusXT Core:1.2.4/|70911|49125|62.122.200.0/21|UA|ripencc|2009-04-16|UTEAM-AS, UA
 65.108.129.116|/ColossusXT Core:1.2.4/|70911||||||
 65.21.203.156|/ColossusXT Core:1.2.4/|70911||||||
 68.122.13.251|/ColossusXT Core:1.2.4/|70911||||||
@@ -68,5 +68,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 94.130.204.247|/ColossusXT Core:1.2.4/|70911||||||
 95.174.66.38|/ColossusXT Core:1.2.4/|70911||||||
 95.216.195.204|/ColossusXT Core:1.2.4/|70911||||||
-95.216.228.253|/ColossusXT Core:1.2.4/|70911||||||
+95.216.228.253|/ColossusXT Core:1.2.4/|70911|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.145.114|/ColossusXT Core:1.2.4/|70911||||||
