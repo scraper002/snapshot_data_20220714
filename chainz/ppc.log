@@ -2,7 +2,7 @@
 # PeerCoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.177.207.134|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-104.238.221.41|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
+104.238.221.41|Satoshi:0.20.2/Peercoin:0.11.4|70016|23470|104.238.221.0/24|US|arin|2018-04-13|RELIABLESITE, US
 108.26.127.173|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 111.85.70.217|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 111.85.71.239|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -10,8 +10,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 119.45.242.241|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 121.219.224.92|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 128.199.40.35|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-133.32.176.205|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 134.101.35.47|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+134.59.100.11|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 138.197.141.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 141.95.146.47|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 142.147.99.49|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
@@ -26,6 +26,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.71.138.50|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 167.94.218.142|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 172.58.205.236|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
+173.239.226.55|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 173.61.139.214|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 174.138.15.177|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 176.101.2.205|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
@@ -36,22 +37,23 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.62.114.74|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 180.75.244.198|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 185.107.57.77|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-185.220.101.34|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|208294|185.220.101.0/24|DE|ripencc|2017-09-12|RELAYON, US
-185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|197540|185.244.192.0/22|DE|ripencc|2018-02-02|NETCUP-AS netcup GmbH, DE
+185.220.101.34|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+185.244.193.79|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 185.50.24.12|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-185.77.217.85|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|51765|185.77.216.0/23|RU|ripencc|2014-11-20|CREANOVA-AS Oy Creanova Hosting Solutions Ltd., FI
+185.77.217.85|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 188.162.167.65|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 188.169.230.31|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
+188.170.205.69|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 188.243.182.166|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 188.31.198.3|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 189.1.164.226|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 195.138.71.80|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 199.127.62.235|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
-2.205.40.143|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|3209|2.200.0.0/13|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
+2.205.40.143|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 203.91.242.55|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-213.152.161.240|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|49453|213.152.161.0/24|NL|ripencc|2010-07-09|GLOBALLAYER, NL
+213.152.161.240|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-216.188.233.105|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
+216.188.233.105|???|0||||||
 217.241.162.42|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 219.90.166.139|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 23.227.150.229|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
@@ -100,12 +102,13 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.166.210.68|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 88.99.235.240|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 89.164.217.139|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-91.152.120.32|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
+91.152.120.32|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 92.194.201.48|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 92.210.58.163|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 92.39.186.135|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 94.140.8.33|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 94.140.8.76|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+94.75.20.88|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 95.217.78.81|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 95.91.209.61|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 97.113.15.41|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|209|97.113.0.0/16|US|arin|2007-12-19|CENTURYLINK-US-LEGACY-QWEST, US

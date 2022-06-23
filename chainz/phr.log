@@ -11,12 +11,11 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 143.110.210.49|/Phore Core:1.8.0/|70009||||||
 144.130.97.149|/Phore Core:1.8.0/|70009||||||
 144.91.106.92|/Phore Core:1.8.0/|70009||||||
-144.91.116.146|/Phore Core:1.7.0/|70008||||||
+144.91.116.146|/Phore Core:1.7.0/|70008|51167|144.91.116.0/23|DE|ripencc|1990-11-20|CONTABO, DE
 149.56.148.202|/Phore Core:1.7.0/|70008||||||
 152.228.135.232|/Phore Core:1.8.0/|70009||||||
-155.4.6.84|/Phore Core:1.8.0/|70009||||||
+155.4.6.84|/Phore Core:1.8.0/|70009|8473|155.4.0.0/16|NO|ripencc|1991-10-30|BAHNHOF www.bahnhof.net, SE
 157.90.106.242|/Phore Core:1.8.0/|70009||||||
-158.140.182.237|/Phore Core:1.8.0/|70009||||||
 159.223.67.159|/Phore Core:1.8.0/|70009||||||
 161.97.103.182|/Phore Core:1.7.0/|70008||||||
 161.97.171.124|/Phore Core:1.7.1/|70009||||||
@@ -28,6 +27,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.86.88.138|/Phore Core:1.8.0/|70009||||||
 173.249.21.155|/Phore Core:1.7.0/|70008||||||
 173.249.6.78|/Phore Core:1.8.0/|70009||||||
+176.254.52.176|/Phore Core:1.7.1/|70009||||||
 176.31.100.106|/Phore Core:1.7.1/|70009||||||
 176.9.3.93|/Phore Core:1.8.0/|70009||||||
 178.17.171.136|/Phore Core:1.8.0/|70009||||||
@@ -35,7 +35,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 178.18.254.100|/Phore Core:1.7.1/|70009||||||
 178.27.168.140|/Phore Core:1.8.0/|70009||||||
 178.62.193.47|/Phore Core:1.8.0/|70009||||||
-185.117.74.45|/Phore Core:1.8.0/|70009|60117|185.117.74.0/24|AE|ripencc|2015-09-14|HS, AE
+185.117.74.45|/Phore Core:1.8.0/|70009||||||
 185.135.136.47|/Phore Core:1.7.0/|70008||||||
 185.137.181.10|/Phore Core:1.8.0/|70009||||||
 185.137.181.7|/Phore Core:1.8.0/|70009||||||
@@ -59,8 +59,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 193.37.214.68|/Phore Core:1.7.0/|70008||||||
 194.163.131.219|/Phore Core:1.8.0/|70009||||||
 194.163.139.187|/Phore Core:1.8.0/|70009||||||
-194.163.141.86|/Phore Core:1.8.0/|70009||||||
-194.163.143.68|/Phore Core:1.8.0/|70009||||||
+194.163.141.86|/Phore Core:1.8.0/|70009|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
+194.163.143.68|/Phore Core:1.8.0/|70009|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
 194.32.120.100|/Phore Core:1.7.1/|70009||||||
 195.201.17.118|/Phore Core:1.7.0/|70008||||||
 195.24.140.254|/Phore Core:1.8.0/|70009||||||
@@ -86,8 +86,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 62.171.148.176|/Phore Core:1.7.0/|70008||||||
 62.171.150.111|/Phore Core:1.7.0/|70008||||||
 62.171.163.139|/Phore Core:1.8.0/|70009||||||
-65.108.101.103|/Phore Core:1.7.0/|70008||||||
-65.21.136.170|/Phore Core:1.8.0/|70009||||||
+65.108.101.103|/Phore Core:1.7.0/|70008|24940|65.108.0.0/16|DE|ripencc|2001-02-09|HETZNER-AS, DE
+65.21.136.170|/Phore Core:1.8.0/|70009|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
 65.21.139.183|/Phore Core:1.8.0/|70009||||||
 65.21.148.238|/Phore Core:1.7.0/|70008||||||
 65.21.228.89|/Phore Core:1.7.1/|70009||||||
@@ -101,8 +101,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.8.29.250|/Phore Core:1.7.0/|70008||||||
 78.35.62.13|/Phore Core:1.7.1/|70009||||||
 78.46.36.209|/Phore Core:1.7.0/|70008||||||
-78.46.37.50|/Phore Core:1.8.0/|70009|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
-80.221.46.73|/Phore Core:1.8.0/|70009|1759|80.220.0.0/14|FI|ripencc|2002-03-27|TSF-IP-CORE Telia Finland Oyj, FI
+78.46.37.50|/Phore Core:1.8.0/|70009||||||
+80.221.46.73|/Phore Core:1.8.0/|70009||||||
 80.241.213.200|/Phore Core:1.8.0/|70009||||||
 84.17.43.161|/Phore Core:1.7.1/|70009||||||
 85.194.207.107|/Phore Core:1.7.1/|70009||||||
@@ -113,11 +113,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.97.209.130|/Phore Core:1.7.0/|70008||||||
 92.204.53.227|/Phore Core:1.7.0/|70008||||||
 92.60.44.23|/Phore Core:1.8.0/|70009||||||
+93.84.106.131|/Phore Core:1.7.1/|70009||||||
 93.84.85.245|/Phore Core:1.7.1/|70009||||||
 95.111.226.176|/Phore Core:1.7.1/|70009||||||
 95.216.228.253|/Phore Core:1.7.0/|70008||||||
 95.216.73.176|/Phore Core:1.7.0/|70008||||||
-95.217.78.168|/Phore Core:1.7.0/|70008||||||
+95.217.78.168|/Phore Core:1.7.0/|70008|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 98.215.160.113|/Phore Core:1.8.0/|70009||||||
 98.248.117.114|/Phore Core:1.7.0/|70008||||||
 98.250.175.53|/Phore Core:1.7.1/|70009||||||
