@@ -26,7 +26,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.71.138.50|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 167.94.218.142|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 174.138.15.177|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
-176.101.2.205|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|43936|176.101.0.0/20|UA|ripencc|2011-11-02|EVPANET-AS, UA
+176.101.2.205|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 176.52.33.208|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 177.54.145.158|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 178.115.44.224|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
@@ -64,15 +64,15 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 42.48.230.172|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 45.126.209.106|Satoshi:0.20.2/Peercoin:0.11.4|70016||||||
 46.246.177.248|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
-46.249.236.211|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|41164|46.249.236.0/23|NO|ripencc|2011-01-14|GET-NO GET Norway, NO
+46.249.236.211|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 46.53.244.25|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-47.206.88.18|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|5650|47.206.0.0/16|US|arin|2015-08-28|FRONTIER-FRTR, US
+47.206.88.18|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 5.128.87.126|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 50.39.172.116|/Satoshi:0.20.2/Peercoin:0.11.3/|70016||||||
 50.99.20.71|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 51.7.177.163|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 64.124.24.226|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
-66.41.163.241|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|7922|66.41.0.0/16|US|arin|2000-11-07|COMCAST-7922, US
+66.41.163.241|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 70.91.250.149|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 73.185.58.124|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 73.194.98.202|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
@@ -83,7 +83,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.75.36.104|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 78.46.234.212|/Satoshi:0.20.2/Peercoin:0.11.2/|70016||||||
 79.135.192.31|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16276|79.137.0.0/17|FR|ripencc|2007-10-18|OVH, FR
+79.137.67.138|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 79.198.159.6|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 82.75.153.50|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 84.151.52.243|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
@@ -91,7 +91,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 86.71.89.29|/Satoshi:0.20.2/Peercoin:0.11.4/|70016||||||
 87.174.57.223|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 87.208.187.117|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-88.126.202.24|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|12322|88.120.0.0/13|FR|ripencc|2005-08-19|PROXAD, FR
+88.126.202.24|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 88.166.210.68|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
 88.99.235.240|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 89.164.217.139|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
@@ -99,9 +99,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 92.194.201.48|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 92.210.58.163|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 92.39.186.135|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
-94.140.8.33|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|136787|94.140.8.0/24|DE|ripencc|2008-11-28|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
-94.140.8.76|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|136787|94.140.8.0/24|DE|ripencc|2008-11-28|TEFINCOMSA-AS-AP TEFINCOM S.A., PA
+94.140.8.33|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
+94.140.8.76|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
 95.217.78.81|/Satoshi:0.20.2/Peercoin:0.11.0/|70016||||||
 95.91.209.61|/Satoshi:0.20.2/Peercoin:0.11.1/|70016||||||
 97.113.15.41|/Satoshi:0.20.2/Peercoin:0.11.7/|70016||||||
-98.250.175.53|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
+98.250.175.53|/Satoshi:0.20.2/Peercoin:0.11.8/|70016||||||
