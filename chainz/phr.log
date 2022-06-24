@@ -1,8 +1,8 @@
 # https://chainz.cryptoid.info/ and whois results
 # Phore
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-121.220.134.139|/Phore Core:1.7.1/|70009||||||
-135.181.7.113|/Phore Core:1.7.1/|70009||||||
+121.220.134.139|/Phore Core:1.7.1/|70009|1221|121.208.0.0/12|AU|apnic|2007-02-09|ASN-TELSTRA Telstra Corporation Ltd, AU
+135.181.7.113|/Phore Core:1.7.1/|70009|24940|135.181.0.0/16|DE|ripencc|1996-04-30|HETZNER-AS, DE
 135.181.7.118|/Phore Core:1.7.1/|70009||||||
 135.181.98.85|/Phore Core:1.8.0/|70009||||||
 136.244.92.254|/Phore Core:1.8.0/|70009||||||
@@ -15,7 +15,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 152.228.135.232|/Phore Core:1.8.0/|70009||||||
 155.4.6.84|/Phore Core:1.8.0/|70009||||||
 157.90.106.242|/Phore Core:1.8.0/|70009||||||
-159.223.67.159|/Phore Core:1.8.0/|70009|14061|159.223.64.0/20|US|arin|2020-11-03|DIGITALOCEAN-ASN, US
+159.223.67.159|/Phore Core:1.8.0/|70009||||||
 161.97.103.182|/Phore Core:1.7.0/|70008||||||
 161.97.171.124|/Phore Core:1.7.1/|70009||||||
 161.97.88.199|/Phore Core:1.8.0/|70009||||||
@@ -28,7 +28,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 173.249.21.155|/Phore Core:1.7.0/|70008||||||
 173.249.29.110|/Phore Core:1.8.0/|70009||||||
 173.249.6.78|/Phore Core:1.8.0/|70009||||||
-176.254.52.176|/Phore Core:1.7.1/|70009|5607|176.248.0.0/13|GB|ripencc|2011-12-05|BSKYB-BROADBAND-AS, GB
+176.254.52.176|/Phore Core:1.7.1/|70009||||||
 176.31.100.106|/Phore Core:1.7.1/|70009||||||
 176.9.3.93|/Phore Core:1.8.0/|70009||||||
 178.18.244.203|/Phore Core:1.8.0/|70009||||||
@@ -56,7 +56,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.163.131.219|/Phore Core:1.8.0/|70009||||||
 194.163.139.187|/Phore Core:1.8.0/|70009||||||
 194.163.141.86|/Phore Core:1.8.0/|70009||||||
-194.163.143.68|/Phore Core:1.8.0/|70009||||||
+194.163.143.68|/Phore Core:1.8.0/|70009|51167|194.163.128.0/18|DE|ripencc|1995-05-16|CONTABO, DE
 195.201.17.118|/Phore Core:1.7.0/|70008||||||
 195.24.140.254|/Phore Core:1.8.0/|70009||||||
 206.81.20.184|/Phore Core:1.8.0/|70009||||||
@@ -64,20 +64,19 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 209.126.81.51|/Phore Core:1.7.1/|70009||||||
 209.126.81.52|/Phore Core:1.7.1/|70009||||||
 212.102.57.29|/Phore Core:1.8.0/|70009||||||
-213.239.209.41|/Phore Core:1.7.0/|70008|24940|213.239.192.0/18|DE|ripencc|2003-05-28|HETZNER-AS, DE
+213.239.209.41|/Phore Core:1.7.0/|70008||||||
 220.245.110.29|/Phore Core:1.7.1/|70009||||||
 23.230.46.211|/Phore Core:1.7.1/|70009||||||
 27.96.212.61|/Phore Core:1.7.1/|70009||||||
 37.18.254.196|/Phore Core:1.7.1/|70009||||||
 38.242.254.32|/Phore Core:1.8.0/|70009||||||
-43.227.255.121|/Phore Core:1.7.0/|70008||||||
 45.140.185.56|/Phore Core:1.8.0/|70009||||||
 45.32.164.84|/Phore Core:1.7.0/|70008||||||
 45.76.43.203|/Phore Core:1.7.1/|70009||||||
-62.138.3.131|/Phore Core:1.7.0/|70008||||||
+62.138.3.131|/Phore Core:1.7.0/|70008|8972|62.138.3.0/24|DE|ripencc|2000-09-19|GD-EMEA-DC-SXB1, DE
 62.138.6.9|/Phore Core:1.7.0/|70008||||||
-62.171.148.176|/Phore Core:1.7.0/|70008||||||
-62.171.150.111|/Phore Core:1.7.0/|70008||||||
+62.171.148.176|/Phore Core:1.7.0/|70008|51167|62.171.148.0/23|DE|ripencc|2000-08-18|CONTABO, DE
+62.171.150.111|/Phore Core:1.7.0/|70008|51167|62.171.150.0/23|DE|ripencc|2000-08-18|CONTABO, DE
 62.171.163.139|/Phore Core:1.8.0/|70009||||||
 65.108.101.103|/Phore Core:1.7.0/|70008||||||
 65.21.136.170|/Phore Core:1.8.0/|70009||||||
@@ -89,18 +88,18 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.190.78.98|/Phore Core:1.8.0/|70009||||||
 73.254.255.163|/Phore Core:1.8.0/|70009||||||
 75.119.155.29|/Phore Core:1.8.0/|70009||||||
-77.6.244.242|/Phore Core:1.7.0/|70008||||||
-77.78.23.237|/Phore Core:1.8.0/|70009|34569|77.78.0.0/18|BG|ripencc|2007-02-27|NETWORX-BG Online Direct, BG
+77.6.244.242|/Phore Core:1.7.0/|70008|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
+77.78.23.237|/Phore Core:1.8.0/|70009||||||
 78.35.62.13|/Phore Core:1.7.1/|70009||||||
-78.46.36.209|/Phore Core:1.7.0/|70008||||||
+78.46.36.209|/Phore Core:1.7.0/|70008|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 78.46.37.50|/Phore Core:1.8.0/|70009||||||
 80.221.46.73|/Phore Core:1.8.0/|70009||||||
-86.1.113.199|/Phore Core:1.7.0/|70008||||||
+86.1.113.199|/Phore Core:1.7.0/|70008|5089|86.1.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 88.71.34.153|/Phore Core:1.7.1/|70009||||||
 89.101.225.26|/Phore Core:1.7.1/|70009||||||
 89.187.180.33|/Phore Core:1.7.1/|70009||||||
-91.97.209.130|/Phore Core:1.7.0/|70008||||||
-92.204.53.227|/Phore Core:1.7.0/|70008||||||
+91.97.209.130|/Phore Core:1.7.0/|70008|9145|91.96.0.0/15|DE|ripencc|2006-08-30|EWETEL Cloppenburger Strasse 310, DE
+92.204.53.227|/Phore Core:1.7.0/|70008|8972|92.204.53.0/24|DE|ripencc|2007-10-17|GD-EMEA-DC-SXB1, DE
 92.60.44.23|/Phore Core:1.8.0/|70009||||||
 93.84.106.131|/Phore Core:1.7.1/|70009||||||
 93.84.85.245|/Phore Core:1.7.1/|70009||||||
@@ -110,5 +109,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.217.78.168|/Phore Core:1.7.0/|70008||||||
 96.66.28.182|/Phore Core:1.7.1/|70009||||||
 98.215.160.113|/Phore Core:1.8.0/|70009||||||
-98.248.117.114|/Phore Core:1.7.0/|70008||||||
+98.248.117.114|/Phore Core:1.7.0/|70008|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
 98.250.175.53|/Phore Core:1.7.1/|70009||||||
