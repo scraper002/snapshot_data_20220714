@@ -1,7 +1,7 @@
 # https://chainz.cryptoid.info/ and whois results
 # Syscoin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-107.178.213.189|/Satoshi:4.1.3/|70015||||||
+107.178.213.189|/Satoshi:4.1.3/|70015|396982|107.178.208.0/20|US|arin|2014-02-21|GOOGLE-CLOUD-PLATFORM, US
 108.160.134.107|/Satoshi:4.3.0/|70016||||||
 116.202.111.178|/Satoshi:4.3.0/|70016||||||
 116.202.128.91|/Satoshi:4.3.0/|70016||||||
@@ -37,7 +37,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 161.35.173.3|/Satoshi:4.3.0/|70016||||||
 161.35.18.75|/Satoshi:4.3.0/|70016||||||
 161.35.218.184|/Satoshi:4.3.0/|70016||||||
-161.35.222.62|/Satoshi:4.3.0/|70016||||||
+161.35.222.62|/Satoshi:4.3.0/|70016|14061|161.35.208.0/20|US|arin|2019-07-30|DIGITALOCEAN-ASN, US
 161.35.25.90|/Satoshi:4.3.0/|70016||||||
 164.68.112.228|/Satoshi:4.3.0/|70016||||||
 164.92.216.150|/Satoshi:4.3.0/|70016||||||
@@ -55,6 +55,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 167.99.196.254|/Satoshi:4.3.0/|70016||||||
 167.99.198.251|/Satoshi:4.3.0/|70016||||||
 167.99.241.144|/Satoshi:4.3.0/|70016||||||
+173.249.38.140|/Satoshi:4.3.0/|70016||||||
 173.249.50.228|/Satoshi:4.3.0/|70016||||||
 173.249.52.45|/Satoshi:4.3.0/|70016||||||
 174.138.0.217|/Satoshi:4.3.0/|70016||||||
@@ -88,11 +89,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 206.189.55.169|/Satoshi:4.3.0/|70016||||||
 207.180.245.54|/Satoshi:4.3.0/|70016||||||
 207.180.252.140|/Satoshi:4.3.0/|70016||||||
+208.114.92.109|/Satoshi:4.3.0/|70016||||||
 209.97.162.237|/Satoshi:4.3.0/|70016||||||
 23.227.150.229|/Satoshi:4.3.0/|70016||||||
 3.250.63.90|/Satoshi:4.3.0/|70016||||||
 35.82.71.234|/Satoshi:4.3.0/|70016||||||
-44.230.118.205|/syscoin-seeder:0.02/|70015||||||
+44.230.118.205|/syscoin-seeder:0.02/|70015|16509|44.224.0.0/11|US|arin|2019-07-18|AMAZON-02, US
 45.67.221.219|/Satoshi:4.3.0/|70016||||||
 46.101.166.49|/Satoshi:4.3.0/|70016||||||
 46.101.175.117|/Satoshi:4.3.0/|70016||||||
@@ -101,22 +103,22 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 49.12.127.113|/Satoshi:4.3.0/|70016||||||
 5.181.50.104|/Satoshi:4.3.0/|70016||||||
 5.9.237.45|/Satoshi:4.3.0/|70016||||||
-52.82.67.76|/Satoshi:4.1.3/|70015||||||
-54.250.134.234|/Satoshi:4.1.3/|70015||||||
-62.171.132.110|/Satoshi:4.3.0/|70016||||||
-62.171.132.111|/Satoshi:4.3.0/|70016||||||
-64.227.117.185|/Satoshi:4.3.0/|70016||||||
-64.227.69.8|/Satoshi:4.3.0/|70016||||||
-64.52.176.87|/Satoshi:4.3.0/|70016||||||
+50.98.139.166|/Satoshi:4.3.0/|70016|852|50.98.0.0/16|CA|arin|2011-03-31|TELUS Communications, CA
+52.82.67.76|/Satoshi:4.1.3/|70015|135629|52.82.0.0/17|CN|apnic|1991-12-19|WESTCLOUDDATA Ningxia West Cloud Data Technology Co.Ltd., CN
+58.213.51.66|/Satoshi:4.3.0/|70016|4134|58.208.0.0/12|CN|apnic|2005-06-24|CHINANET-BACKBONE No.31,Jin-rong Street, CN
+62.171.132.110|/Satoshi:4.3.0/|70016|51167|62.171.132.0/23|DE|ripencc|2000-08-18|CONTABO, DE
+62.171.132.111|/Satoshi:4.3.0/|70016|51167|62.171.132.0/23|DE|ripencc|2000-08-18|CONTABO, DE
+64.227.117.185|/Satoshi:4.3.0/|70016|14061|64.227.112.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
+64.227.69.8|/Satoshi:4.3.0/|70016|14061|64.227.64.0/20|US|arin|2019-08-14|DIGITALOCEAN-ASN, US
+64.52.176.87|/Satoshi:4.3.0/|70016|26919|64.52.176.0/22|US|arin|2017-03-24|ASN-CBCBH, US
 65.21.105.194|/Satoshi:4.3.0/|70016|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
 68.183.14.119|/Satoshi:4.3.0/|70016|14061|68.183.0.0/20|US|arin|2018-09-18|DIGITALOCEAN-ASN, US
-68.183.214.32|/Satoshi:4.2.2/|70016||||||
+68.183.214.32|/Satoshi:4.2.2/|70016|14061|68.183.208.0/20|US|arin|2018-09-18|DIGITALOCEAN-ASN, US
 68.183.88.51|/Satoshi:4.3.0/|70016|14061|68.183.80.0/20|US|arin|2018-09-18|DIGITALOCEAN-ASN, US
 80.241.216.188|/Satoshi:4.3.0/|70016|51167|80.241.216.0/23|DE|ripencc|2011-02-14|CONTABO, DE
 80.250.55.2|/Satoshi:4.3.0/|70016|43513|80.250.48.0/20|LV|ripencc|2005-07-19|NANO-AS, LV
 84.151.238.139|/Satoshi:4.3.0/|70016|3320|84.128.0.0/10|DE|ripencc|2004-03-10|DTAG Internet service provider operations, DE
-89.64.15.205|/Satoshi:4.3.0/|70016|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 90.255.18.222|/Satoshi:4.3.0/|70016|5378|90.252.0.0/14|GB|ripencc|2006-09-08|Vodafone, GB
 95.216.126.57|/Satoshi:4.3.0/|70016|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.216.255.85|/Satoshi:4.3.0/|70016|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.48.113|/Satoshi:4.3.0/|70016||||||
+95.217.48.113|/Satoshi:4.3.0/|70016|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
