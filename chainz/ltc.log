@@ -35,8 +35,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 148.251.121.185|/LitecoinCore:0.18.1/|70015||||||
 149.167.151.118|/BitcoinKit:0.1.0/|70015||||||
 149.28.129.24|/LitecoinCore:0.18.1/|70015||||||
-151.33.125.63|/WalletKit:0.1.0/|70015|1267|151.33.0.0/16|IT|ripencc|1991-05-13|ASN-WINDTRE IUNET, IT
-154.0.28.186|/WalletKit:0.1.0/|70015|37190|154.0.28.0/24|CI|afrinic|2013-07-16|ATLANTIQUE-TELECOM-, CI
+151.33.125.63|/WalletKit:0.1.0/|70015||||||
+154.0.28.186|/WalletKit:0.1.0/|70015||||||
 154.6.19.204|/LitecoinCore:0.18.1/|70015||||||
 157.230.125.171|/btcwire:0.5.0/bitmarkd-payment-lightclient:0.1.0/|70013||||||
 157.230.232.144|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
@@ -62,7 +62,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 176.245.18.253|/BitcoinKit:0.1.0/|70015||||||
 176.31.64.127|/LitecoinCore:0.17.1/|70015||||||
 177.136.64.8|/B2CCoinCore:0.16.3/|70015||||||
-178.143.77.14|/WalletKit:0.1.0/|70015|15962|178.143.0.0/17|SK|ripencc|2010-08-04|OSK-DNI Slovakia, SK
+178.143.77.14|/WalletKit:0.1.0/|70015||||||
 178.24.234.121|/WalletKit:0.1.0/|70015||||||
 178.252.122.139|/LitecoinCore:0.16.3/|70015||||||
 18.229.164.57|/B2CCoinCore:0.16.3/|70015||||||
@@ -78,7 +78,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 185.237.102.123|/WalletKit:0.1.0/|70015||||||
 186.141.197.160|/WalletKit:0.1.0/|70015||||||
 186.208.222.109|/B2CCoinCore:0.16.3/|70015||||||
-187.21.112.55|/B2CCoinCore:0.16.3/|70015||||||
 189.6.215.177|/B2CCoinCore:0.16.3/|70015||||||
 189.6.253.228|/B2CCoinCore:0.16.3/|70015||||||
 195.70.135.44|/litecoinj:0.15.2-SNAPSHOT/|70002||||||
@@ -138,10 +137,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.114.175.163|/BitcoinKit:0.1.0/|70015||||||
 46.137.153.17|/LitecoinCore:0.18.1/|70015||||||
 46.151.159.53|/CounosCoinCore:0.15.3.2/|70015||||||
-46.246.122.205|/LitecoinCore:0.18.1/|70015||||||
-46.246.122.216|/LitecoinCore:0.18.1/|70015||||||
+46.246.122.205|/LitecoinCore:0.18.1/|70015|42708|46.246.0.0/17|SE|ripencc|2011-01-27|PORTLANE www.portlane.com, SE
+46.246.122.216|/LitecoinCore:0.18.1/|70015|42708|46.246.0.0/17|SE|ripencc|2011-01-27|PORTLANE www.portlane.com, SE
 46.6.163.92|/BitcoinKit:0.1.0/|70015||||||
-47.214.118.242|/LitecoinCore:0.18.1/|70015||||||
+47.214.118.242|/LitecoinCore:0.18.1/|70015|19108|47.214.0.0/16|US|arin|2015-09-08|SUDDENLINK-COMMUNICATIONS, US
 49.179.93.118|/BitcoinKit:0.1.0/|70015||||||
 49.185.85.140|/WalletKit:0.1.0/|70015||||||
 5.181.255.48|/LitecoinCore:0.16.3/|70015||||||
@@ -191,13 +190,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 91.151.182.59|/LitecoinCore:0.18.1/|70015||||||
 91.217.13.22|/LitecoinCore:0.18.1/|70015||||||
 92.2.60.79|/LitecoinCore:0.16.3/|70015||||||
-93.110.181.206|/BitcoinKit:0.1.0/|70015||||||
 93.150.121.23|/WalletKit:0.1.0/|70015||||||
 93.46.80.157|/LitecoinCore:0.18.1/|70015||||||
 94.51.10.7|/LitecoinCore:0.16.3/|70015||||||
 95.153.162.217|/LitecoinCore:0.18.1/|70015||||||
-95.217.162.57|/CounosXCore:0.17.2/|70015||||||
-95.217.87.242|/LitecoinCore:0.18.1/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
+95.217.162.57|/CounosXCore:0.17.2/|70015|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
+95.217.87.242|/LitecoinCore:0.18.1/|70015||||||
 95.90.212.53|/BitcoinKit:0.1.0/|70015||||||
 98.31.17.17|/LitecoinCore:0.14.2/|70015||||||
 99.175.88.53|/BitcoinKit:0.1.0/|70015||||||
