@@ -1,8 +1,8 @@
 # https://chainz.cryptoid.info/ and whois results
 # BitConnect Coin
 IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
-1.53.114.73|/Satoshi:1.0.0/|60013||||||
-1.53.114.73|/Satoshi:1.0.0/|60014||||||
+1.53.114.73|/Satoshi:1.0.0/|60013|18403|1.53.114.0/24|VN|apnic|2010-05-26|FPT-AS-AP FPT Telecom Company, VN
+1.53.114.73|/Satoshi:1.0.0/|60014|18403|1.53.114.0/24|VN|apnic|2010-05-26|FPT-AS-AP FPT Telecom Company, VN
 101.99.32.108|/Satoshi:1.0.0/|60013||||||
 101.99.32.108|/Satoshi:1.0.0/|60014||||||
 102.36.143.177|/Satoshi:1.0.0/|60013||||||
@@ -23,6 +23,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 109.42.113.142|/Satoshi:1.0.0/|60014||||||
 109.95.103.215|/Satoshi:1.0.0/|60013||||||
 109.95.103.215|/Satoshi:1.0.0/|60014||||||
+112.197.185.215|/Satoshi:1.0.0/|60013||||||
+112.197.185.215|/Satoshi:1.0.0/|60014||||||
 113.172.247.168|/Satoshi:1.0.0/|60013||||||
 113.172.247.168|/Satoshi:1.0.0/|60014||||||
 116.240.143.177|/Satoshi:1.0.0/|60013||||||
@@ -73,12 +75,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 187.109.139.183|/Satoshi:1.0.0/|60014||||||
 188.78.6.205|/Satoshi:1.0.0/|60013||||||
 188.78.6.205|/Satoshi:1.0.0/|60014||||||
-189.163.206.28|/Satoshi:1.0.0/|60013|8151|189.163.206.0/23|MX|lacnic|2006-05-12|Uninet S.A. de C.V., MX
-189.163.206.28|/Satoshi:1.0.0/|60014|8151|189.163.206.0/23|MX|lacnic|2006-05-12|Uninet S.A. de C.V., MX
-193.34.232.196|/Satoshi:1.0.0/|60013|13213|193.34.232.0/24|SC|ripencc|2018-07-11|UK2NET-AS, GB
-193.34.232.196|/Satoshi:1.0.0/|60014|13213|193.34.232.0/24|SC|ripencc|2018-07-11|UK2NET-AS, GB
-202.190.207.107|/Satoshi:1.0.0/|60013|9930|202.190.0.0/16|MY|apnic|1995-05-18|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
-202.190.207.107|/Satoshi:1.0.0/|60014|9930|202.190.0.0/16|MY|apnic|1995-05-18|TTNET-MY TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Alam Selangor, Malaysia, MY
+189.163.206.28|/Satoshi:1.0.0/|60013||||||
+189.163.206.28|/Satoshi:1.0.0/|60014||||||
+193.34.232.196|/Satoshi:1.0.0/|60013||||||
+193.34.232.196|/Satoshi:1.0.0/|60014||||||
+202.190.207.107|/Satoshi:1.0.0/|60013||||||
+202.190.207.107|/Satoshi:1.0.0/|60014||||||
 204.8.156.142|/Satoshi:1.0.0/|60013||||||
 204.8.156.142|/Satoshi:1.0.0/|60014||||||
 212.55.41.55|/Satoshi:1.0.0/|60013||||||
@@ -115,8 +117,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.0.228.153|/Satoshi:1.0.0/|60014||||||
 47.184.215.163|/Satoshi:1.0.0/|60013||||||
 47.184.215.163|/Satoshi:1.0.0/|60014||||||
-58.186.58.223|/Satoshi:1.0.0/|60013||||||
-58.186.58.223|/Satoshi:1.0.0/|60014||||||
 58.186.59.33|/Satoshi:1.0.0/|60013||||||
 58.186.59.33|/Satoshi:1.0.0/|60014||||||
 58.8.157.95|/Satoshi:1.0.0/|60013||||||
@@ -151,10 +151,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 75.7.96.194|/Satoshi:1.0.0/|60014||||||
 76.173.99.228|/Satoshi:1.0.0/|60013||||||
 76.173.99.228|/Satoshi:1.0.0/|60014||||||
-76.216.168.145|/Satoshi:1.0.0/|60013||||||
-76.216.168.145|/Satoshi:1.0.0/|60014||||||
-76.221.85.204|/Satoshi:1.0.0/|60013||||||
-76.221.85.204|/Satoshi:1.0.0/|60014||||||
+76.216.168.145|/Satoshi:1.0.0/|60013|7018|76.216.0.0/14|US|arin|2006-09-15|ATT-INTERNET4, US
+76.216.168.145|/Satoshi:1.0.0/|60014|7018|76.216.0.0/14|US|arin|2006-09-15|ATT-INTERNET4, US
+76.221.85.204|/Satoshi:1.0.0/|60013|7018|76.220.0.0/15|US|arin|2006-09-15|ATT-INTERNET4, US
+76.221.85.204|/Satoshi:1.0.0/|60014|7018|76.220.0.0/15|US|arin|2006-09-15|ATT-INTERNET4, US
 78.153.38.198|/Satoshi:1.0.0/|60013||||||
 78.153.38.198|/Satoshi:1.0.0/|60014||||||
 78.82.214.87|/Satoshi:1.0.0/|60013||||||
@@ -187,8 +187,8 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 95.46.25.221|/Satoshi:1.0.0/|60014||||||
 95.78.212.56|/Satoshi:1.0.0/|60013||||||
 95.78.212.56|/Satoshi:1.0.0/|60014||||||
-96.9.249.35|/Satoshi:1.0.0/|60013||||||
-96.9.249.35|/Satoshi:1.0.0/|60014||||||
+96.9.249.35|/Satoshi:1.0.0/|60013|20278|96.9.249.0/24|US|arin|2015-03-10|NEXEON, US
+96.9.249.35|/Satoshi:1.0.0/|60014|20278|96.9.249.0/24|US|arin|2015-03-10|NEXEON, US
 96.9.249.38|/Satoshi:1.0.0/|60013||||||
 96.9.249.38|/Satoshi:1.0.0/|60014||||||
 98.11.146.44|/Satoshi:1.0.0/|60013||||||
