@@ -10,7 +10,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 113.61.240.19|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17809|113.61.224.0/19|TW|apnic|2008-11-06|VEETIME-TW-AP VEE TIME CORP., TW
 114.160.202.241|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|4713|114.160.0.0/11|JP|apnic|2008-06-12|OCN NTT Communications Corporation, JP
 115.36.226.159|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|18126|115.36.0.0/16|JP|apnic|2008-07-08|CTCX Chubu Telecommunications Company, Inc., JP
-116.101.29.64|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002|7552|116.101.24.0/21|VN|apnic|2007-05-18|VIETEL-AS-AP Viettel Group, VN
+116.101.29.64|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002||||||
 118.105.35.61|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|18126|118.105.0.0/16|JP|apnic|2007-09-06|CTCX Chubu Telecommunications Company, Inc., JP
 118.17.73.201|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|4713|118.16.0.0/13|JP|apnic|2007-08-01|OCN NTT Communications Corporation, JP
 118.241.171.158|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002|2527|118.240.0.0/15|JP|apnic|2007-11-05|SO-NET Sony Network Communications Inc., JP
@@ -49,10 +49,10 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.32.110.191|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gc223a063ce9/|70002|20473|45.32.96.0/19|US|arin|2015-02-17|AS-CHOOPA, US
 46.101.235.143|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfaeed35396df/|70002|14061|46.101.128.0/17|US|ripencc|2010-06-24|DIGITALOCEAN-ASN, US
 60.110.80.14|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17676|60.110.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
-60.119.139.94|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
+60.119.139.94|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17676|60.119.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 60.128.184.160|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002|17676|60.128.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 60.72.132.246|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17676|60.72.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
-60.72.138.236|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|17676|60.72.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
+60.72.138.236|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
 60.73.7.251|/Satoshi:0.8.6/Sprouts:0.2.0v0.2.0.0gfe810be89b877ce04fabd65f1a8eba778b558f3c/|70002|17676|60.73.0.0/16|JP|apnic|2004-05-20|GIGAINFRA Softbank BB Corp., JP
 61.203.244.127|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|4721|61.203.240.0/20|JP|apnic|2001-01-30|JCN JCOM Co., Ltd., JP
 78.56.87.109|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.013gc223a063/|70002||||||
@@ -62,4 +62,4 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 83.238.87.146|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|12741|83.238.0.0/16|PL|ripencc|2004-02-24|AS-NETIA Warszawa 02-822, PL
 89.166.19.228|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|16086|89.166.0.0/17|FI|ripencc|2006-03-16|DNA, FI
 91.206.16.214|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.013gc223a063dirty/|70002||||||
-95.17.91.56|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002|12479|95.17.88.0/22|ES|ripencc|2008-11-10|UNI2-AS, ES
+95.17.91.56|/Satoshi:0.8.6/Sprouts:0.2.1v0.2.1.0gd137e26940c89d3ebf8a698617dee81decd54d34/|70002||||||
