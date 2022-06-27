@@ -9,9 +9,9 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 116.202.18.31|/ColossusXT Core:1.2.4/|70911||||||
 116.202.27.201|/ColossusXT Core:1.2.4/|70911||||||
 116.202.31.2|/ColossusXT Core:1.2.4/|70911||||||
-116.203.113.149|/ColossusXT Core:1.2.4/|70911|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
-116.203.113.150|/ColossusXT Core:1.2.4/|70911|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
-116.203.25.111|/ColossusXT Core:1.2.4/|70911|24940|116.203.0.0/16|DE|ripencc|2011-01-17|HETZNER-AS, DE
+116.203.113.149|/ColossusXT Core:1.2.4/|70911||||||
+116.203.113.150|/ColossusXT Core:1.2.4/|70911||||||
+116.203.25.111|/ColossusXT Core:1.2.4/|70911||||||
 116.203.30.252|/ColossusXT Core:1.2.4/|70911||||||
 116.203.53.139|/ColossusXT Core:1.2.4/|70911||||||
 118.24.250.50|/ColossusXT Core:1.2.4/|70911||||||
@@ -26,7 +26,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 157.90.154.14|/ColossusXT Core:1.2.4/|70911||||||
 159.69.119.56|/ColossusXT Core:1.2.4/|70911||||||
 159.89.150.132|/ColossusXT Core:1.2.4/|70911||||||
-167.86.120.231|break|70911|51167|167.86.120.0/23|DE|ripencc|1993-05-14|CONTABO, DE
+167.86.120.231|break|70911||||||
 167.86.91.19|/ColossusXT Core:1.2.3/|70911|51167|167.86.90.0/23|DE|ripencc|1993-05-14|CONTABO, DE
 167.86.91.2|/ColossusXT Core:1.2.4/|70911||||||
 167.99.122.76|/ColossusXT Core:1.2.4/|70911||||||
@@ -39,7 +39,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.9.235.31|/ColossusXT Core:1.2.4/|70911||||||
 199.21.113.74|/ColossusXT Core:1.2.4/|70911||||||
 207.180.211.105|/ColossusXT Core:1.2.4/|70911||||||
-207.180.220.22|break|70911|51167|207.180.220.0/23|DE|ripencc|1996-08-21|CONTABO, DE
+207.180.220.22|break|70911||||||
 213.49.77.85|/ColossusXT Core:1.2.4/|70911||||||
 217.37.18.185|/ColossusXT Core:1.2.4/|70911||||||
 218.238.64.183|/ColossusXT Core:1.2.4/|70911||||||
@@ -47,28 +47,28 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 38.242.247.188|/ColossusXT Core:1.2.4/|70911||||||
 42.191.229.98|/ColossusXT Core:1.2.4/|70911||||||
 45.77.208.164|/ColossusXT Core:1.2.4/|70911||||||
-47.209.26.54|/ColossusXT Core:1.2.4/|70911|19108|47.208.0.0/15|US|arin|2015-09-08|SUDDENLINK-COMMUNICATIONS, US
-49.12.66.98|/ColossusXT Core:1.2.4/|70911|24940|49.12.0.0/16|DE|ripencc|2010-10-21|HETZNER-AS, DE
+47.209.26.54|/ColossusXT Core:1.2.4/|70911||||||
+49.12.66.98|/ColossusXT Core:1.2.4/|70911||||||
 5.172.234.246|/ColossusXT Core:1.2.4/|70911||||||
-51.79.55.209|/ColossusXT Core:1.2.4/|70911|16276|51.79.0.0/17|CA|arin|2019-01-10|OVH, FR
-52.63.210.245|/ColossusXT Core:1.2.4/|70911|16509|52.62.0.0/15|US|arin|1991-12-19|AMAZON-02, US
-65.21.203.156|/ColossusXT Core:1.2.4/|70911|24940|65.21.0.0/16|DE|ripencc|2001-09-26|HETZNER-AS, DE
-68.122.13.251|/ColossusXT Core:1.2.4/|70911|7018|68.120.0.0/13|US|arin|2003-03-07|ATT-INTERNET4, US
-70.31.26.241|/ColossusXT Core:1.2.4/|70911|577|70.31.0.0/16|CA|arin|2008-01-28|BACOM, CA
+51.79.55.209|/ColossusXT Core:1.2.4/|70911||||||
+52.63.210.245|/ColossusXT Core:1.2.4/|70911||||||
+65.21.203.156|/ColossusXT Core:1.2.4/|70911||||||
+68.122.13.251|/ColossusXT Core:1.2.4/|70911||||||
+70.31.26.241|/ColossusXT Core:1.2.4/|70911||||||
 76.73.243.210|/ColossusXT Core:1.2.4/|70911||||||
-77.119.175.29|/ColossusXT Core:1.2.4/|70911|25255|77.119.160.0/20|AT|ripencc|2007-01-10|H3G-AUSTRIA-AS TELE2 AUSTRIA , AT
-77.85.153.158|/ColossusXT Core:1.2.4/|70911|8866|77.85.144.0/20|BG|ripencc|2007-03-19|BTC-AS BULGARIA, BG
-78.24.216.147|/ColossusXT Core:1.2.4/|70911|29182|78.24.216.0/21|RU|ripencc|2007-09-13|RU-JSCIOT, RU
-81.169.221.142|/ColossusXT Core:1.2.4/|70911|6724|81.169.128.0/17|DE|ripencc|2003-04-17|STRATO STRATO AG, DE
-83.87.224.245|/ColossusXT Core:1.2.4/|70911|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
-84.46.12.68|/ColossusXT Core:1.2.4/|70911|15943|84.46.0.0/17|DE|ripencc|2004-09-29|WTNET-AS wilhelm.tel GmbH, DE
-91.141.46.158|/ColossusXT Core:1.2.4/|70911|25255|91.141.32.0/19|AT|ripencc|2006-10-24|H3G-AUSTRIA-AS TELE2 AUSTRIA , AT
-93.100.168.65|/ColossusXT Core:1.2.4/|70911|35807|93.100.0.0/16|RU|ripencc|2008-02-28|SKYNET-SPB-AS, RU
-93.217.16.185|/ColossusXT Core:1.2.4/|70911|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-93.217.22.151|/ColossusXT Core:1.2.4/|70911|3320|93.192.0.0/10|DE|ripencc|2008-02-12|DTAG Internet service provider operations, DE
-94.130.204.247|/ColossusXT Core:1.2.4/|70911|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
-95.111.249.146|/ColossusXT Core:1.2.4/|70911|51167|95.111.248.0/23|DE|ripencc|2008-12-30|CONTABO, DE
-95.174.66.38|/ColossusXT Core:1.2.4/|70911|9009|95.174.66.0/24|RO|ripencc|2018-06-29|M247, GB
-95.216.195.204|/ColossusXT Core:1.2.4/|70911|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.217.145.114|/ColossusXT Core:1.2.4/|70911|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-98.228.153.191|/ColossusXT Core:1.1.1/|70910|7922|98.192.0.0/10|US|arin|2007-04-20|COMCAST-7922, US
+77.119.175.29|/ColossusXT Core:1.2.4/|70911||||||
+77.85.153.158|/ColossusXT Core:1.2.4/|70911||||||
+78.24.216.147|/ColossusXT Core:1.2.4/|70911||||||
+81.169.221.142|/ColossusXT Core:1.2.4/|70911||||||
+83.87.224.245|/ColossusXT Core:1.2.4/|70911||||||
+84.46.12.68|/ColossusXT Core:1.2.4/|70911||||||
+91.141.46.158|/ColossusXT Core:1.2.4/|70911||||||
+93.100.168.65|/ColossusXT Core:1.2.4/|70911||||||
+93.217.16.185|/ColossusXT Core:1.2.4/|70911||||||
+93.217.22.151|/ColossusXT Core:1.2.4/|70911||||||
+94.130.204.247|/ColossusXT Core:1.2.4/|70911||||||
+95.111.249.146|/ColossusXT Core:1.2.4/|70911||||||
+95.174.66.38|/ColossusXT Core:1.2.4/|70911||||||
+95.216.195.204|/ColossusXT Core:1.2.4/|70911||||||
+95.217.145.114|/ColossusXT Core:1.2.4/|70911||||||
+98.228.153.191|/ColossusXT Core:1.1.1/|70910||||||
