@@ -33,6 +33,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 24.15.160.121|/Navcoin:7.0.0/|80021|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 24.5.241.206|/Navcoin:7.0.1/|80021|7922|24.0.0.0/12|US|arin|2003-10-06|COMCAST-7922, US
 27.32.63.131|/Navcoin:7.0.1/|80021|7545|27.32.63.0/24|AU|apnic|2010-03-18|TPG-INTERNET-AP TPG Telecom Limited, AU
+31.14.80.23|/Navcoin:7.0.1/|80021|58224|31.14.80.0/20|IR|ripencc|2011-04-18|TCI, IR
 31.14.80.29|/Navcoin:7.0.1/|80021|58224|31.14.80.0/20|IR|ripencc|2011-04-18|TCI, IR
 31.14.83.16|/Navcoin:7.0.1/|80021|58224|31.14.80.0/20|IR|ripencc|2011-04-18|TCI, IR
 31.14.84.28|/Navcoin:7.0.1/|80021|58224|31.14.80.0/20|IR|ripencc|2011-04-18|TCI, IR
@@ -45,6 +46,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 45.51.72.58|/Navcoin:7.0.1/|80021|20001|45.48.0.0/14|US|arin|2015-01-06|TWC-20001-PACWEST, US
 5.172.232.32|/Navcoin:7.0.1/|80021|8374|5.172.224.0/19|PL|ripencc|2012-08-01|PLUSNET Plus network operator in Poland, PL
 5.172.232.55|/Navcoin:7.0.1/|80021|8374|5.172.224.0/19|PL|ripencc|2012-08-01|PLUSNET Plus network operator in Poland, PL
+5.172.234.220|/Navcoin:7.0.1/|80021|8374|5.172.224.0/19|PL|ripencc|2012-08-01|PLUSNET Plus network operator in Poland, PL
 5.172.236.82|/Navcoin:7.0.1/|80021|8374|5.172.224.0/19|PL|ripencc|2012-08-01|PLUSNET Plus network operator in Poland, PL
 5.172.237.147|/Navcoin:7.0.1/|80021|8374|5.172.224.0/19|PL|ripencc|2012-08-01|PLUSNET Plus network operator in Poland, PL
 5.172.238.143|/Navcoin:7.0.1/|80021|8374|5.172.224.0/19|PL|ripencc|2012-08-01|PLUSNET Plus network operator in Poland, PL
@@ -71,7 +73,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 77.163.247.136|/Navcoin:7.0.1/|80021|1136|77.160.0.0/13|NL|ripencc|2006-11-02|KPN KPN National, NL
 77.23.176.142|/Navcoin:7.0.0/|80021|3209|77.20.0.0/14|DE|ripencc|2008-04-08|VODANET International IP-Backbone of Vodafone, DE
 77.250.3.193|/Navcoin:7.0.1/|80021|33915|77.250.0.0/15|NL|ripencc|2007-01-26|TNF-AS, NL
-78.138.127.196|/Navcoin:7.0.1/|80021|29066|78.138.126.0/23|DE|ripencc|2007-06-11|VELIANET-AS velia.net Internetdienste GmbH, DE
 78.47.183.52|/Navcoin:7.0.2/|80021|24940|78.46.0.0/15|DE|ripencc|2007-04-16|HETZNER-AS, DE
 83.11.18.29|/Navcoin:7.0.1/|80021|5617|83.8.0.0/13|PL|ripencc|2003-12-03|TPNET, PL
 84.17.58.191|/Navcoin:7.0.1/|80021|60068|84.17.58.0/23|GB|ripencc|2004-07-23|CDN77 ^_^, GB
@@ -86,12 +87,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 89.64.79.2|/Navcoin:7.0.1/|80021|6830|89.64.0.0/13|PL|ripencc|2006-02-22|LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
 91.205.41.233|/Navcoin:7.0.0/|80021|207582|91.205.41.0/24|TR|ripencc|2020-01-10|BUULDY, TR
 91.246.66.175|/Navcoin:7.0.1/|80021|42673|91.246.64.0/21|PL|ripencc|2012-08-27|SKYWARE-AS, PL
+92.148.218.243|/Navcoin:7.0.1/|80021|3215|92.148.128.0/17|FR|ripencc|2007-07-12|France Telecom - Orange, FR
 94.211.75.7|/Navcoin:7.0.2/|80021|33915|94.208.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
 94.214.237.213|/Navcoin:7.0.1/|80021|33915|94.212.0.0/14|NL|ripencc|2008-07-22|TNF-AS, NL
 94.237.85.140|/Navcoin:7.0.1/|80021|202053|94.237.80.0/20|FI|ripencc|2008-10-22|UPCLOUD, FI
 95.216.212.37|/Navcoin:7.0.3/|80021|24940|95.216.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.78.169|/Navcoin:7.0.1/|80021|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
-95.90.247.184|/Navcoin:7.0.2/|80021|3209|95.88.0.0/14|DE|ripencc|2008-12-15|VODANET International IP-Backbone of Vodafone, DE
 96.241.114.4|/Navcoin:7.0.1/|80021|701|96.241.0.0/16|US|arin|2006-12-29|UUNET, US
 97.113.54.119|/Navcoin:7.0.1/|80021|209|97.113.0.0/16|US|arin|2007-12-19|CENTURYLINK-US-LEGACY-QWEST, US
 98.169.92.173|/Navcoin:7.0.1/|80021|22773|98.169.0.0/16|US|arin|2007-07-20|ASN-CXA-ALL-CCI-22773-RDC, US
