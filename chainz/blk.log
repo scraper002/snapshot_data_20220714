@@ -23,6 +23,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 156.146.45.106|/Blackcoin More:2.13.2.8/|70013|212238|156.146.45.0/24|GB|ripencc|1990-02-05|CDNEXT, GB
 159.69.64.208|/Blackcoin More:2.13.2.8/|70013|24940|159.69.0.0/16|DE|ripencc|1992-03-13|HETZNER-AS, DE
 161.81.34.41|/Blackcoin More:2.13.2.9/|70013|137872|161.81.32.0/21|HK|apnic|1992-06-22|PEOPLESPHONE-HK China Mobile Hong Kong Company Limited, HK
+161.81.45.33|/Blackcoin More:2.13.2.7/|70013|137872|161.81.40.0/21|HK|apnic|1992-06-22|PEOPLESPHONE-HK China Mobile Hong Kong Company Limited, HK
 161.97.80.103|/Blackcoin More:13.2.0/|70015|51167|161.97.80.0/23|DE|ripencc|1992-06-23|CONTABO, DE
 162.157.171.12|/Blackcoin More:2.13.2.8/|70013|852|162.157.0.0/16|CA|arin|2013-03-07|TELUS Communications, CA
 162.55.92.62|/Blackcoin More:2.13.2.8/|70013|24940|162.55.0.0/16|DE|ripencc|1992-08-03|HETZNER-AS, DE
@@ -37,7 +38,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 181.41.206.62|/Blackcoin More:2.13.2.9/|70013|174|181.41.206.0/24|AE|ripencc|2020-11-24|COGENT-174, US
 183.227.16.57|/Blackcoin More:2.13.2.8/|70013|9808|183.227.16.0/24|CN|apnic|2009-11-08|CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
 185.102.217.158|???|0|60068|185.102.217.0/24|CZ|ripencc|2015-06-02|CDN77 ^_^, GB
-185.102.217.160|/Blackcoin More:2.13.2.9/|70013|60068|185.102.217.0/24|CZ|ripencc|2015-06-02|CDN77 ^_^, GB
 185.102.217.162|/Blackcoin More:2.13.2.9/|70013|60068|185.102.217.0/24|CZ|ripencc|2015-06-02|CDN77 ^_^, GB
 185.102.217.166|/Blackcoin More:2.13.2.9/|70013|60068|185.102.217.0/24|CZ|ripencc|2015-06-02|CDN77 ^_^, GB
 185.102.217.197|/Blackcoin More:2.13.2.9/|70013|60068|185.102.217.0/24|CZ|ripencc|2015-06-02|CDN77 ^_^, GB
@@ -54,7 +54,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 20.185.90.171|/Blackcoin More:2.13.2.9/|70013|8075|20.184.0.0/13|US|arin|2017-02-22|MICROSOFT-CORP-MSN-AS-BLOCK, US
 202.125.24.93|/Blackcoin More:2.13.2.7/|70013|7545|202.125.24.0/24|AU|apnic|2005-05-23|TPG-INTERNET-AP TPG Telecom Limited, AU
 213.114.228.96|/Blackcoin More:2.13.2.8/|70013|2119|213.112.0.0/14|SE|ripencc|2000-12-15|TELENOR-NEXTEL Telenor Norge AS, NO
-213.152.165.98|/Blackcoin More:2.13.2.9/|70013|49453|213.152.165.0/24|NL|ripencc|2010-07-09|GLOBALLAYER, NL
 217.148.143.196|/Blackcoin More:2.13.2.9/|70013|9009|217.148.143.0/24|RO|ripencc|2018-10-01|M247, GB
 23.227.150.229|/Blackcoin More:2.13.2.8/|70013|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
 31.169.121.22|/Blackcoin More:2.13.2.9/|70013|209854|31.169.121.0/24|DE|ripencc|2018-06-12|SURFSHARK, VG
@@ -87,7 +86,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 71.214.159.35|/Blackcoin More:2.13.2.9/|70013|209|71.214.0.0/16|US|arin|2005-05-06|CENTURYLINK-US-LEGACY-QWEST, US
 72.39.89.111|/Blackcoin More:2.13.2.9/|70013|7992|72.38.0.0/15|CA|arin|2005-07-22|COGECOWAVE, CA
 73.38.248.94|/Blackcoin More:2.13.2.8/|70013|7922|73.0.0.0/8|US|arin|2005-04-19|COMCAST-7922, US
-76.171.209.195|/Blackcoin More:2.13.2.9/|70013|20001|76.168.0.0/13|US|arin|2006-07-26|TWC-20001-PACWEST, US
 77.12.71.179|/Blackcoin More:2.13.2.9/|70013|6805|77.0.0.0/12|DE|ripencc|2006-11-21|TDDE-ASN1, DE
 77.251.84.75|/Blackcoin More:2.13.2.8/|70013|33915|77.250.0.0/15|NL|ripencc|2007-01-26|TNF-AS, NL
 80.109.142.124|/Blackcoin More:2.13.2.9/|70013|8412|80.109.0.0/16|AT|ripencc|2001-07-19|TMA Magenta Telekom, AT
@@ -95,6 +93,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 81.162.108.62|/Blackcoin More:2.13.2.8/|70013|57093|81.162.108.0/22|UA|ripencc|2011-12-07|ASYALTA, UA
 81.69.250.50|/Blackcoin More:2.13.2.7/|70013|45090|81.69.192.0/18|CN|apnic|2002-01-11|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 83.236.59.106|/Blackcoin More:2.13.2.9/|70013|20676|83.236.0.0/16|DE|ripencc|2004-02-11|PLUSNET *****************, DE
+83.84.134.161|/Blackcoin More:2.13.2.7/|70013|33915|83.84.0.0/14|NL|ripencc|2003-11-28|TNF-AS, NL
 84.249.4.71|/Blackcoin More:2.13.2.9/|70013|1759|84.248.0.0/14|FI|ripencc|2004-06-02|TSF-IP-CORE Telia Finland Oyj, FI
 86.11.194.146|/Blackcoin More:2.13.2.9/|70013|5089|86.11.0.0/16|GB|ripencc|2005-03-29|NTL, GB
 86.133.140.169|/Blackcoin More:2.13.2.8/|70013|2856|86.128.0.0/12|GB|ripencc|2005-02-07|BT-UK-AS BTnet UK Regional network, GB
