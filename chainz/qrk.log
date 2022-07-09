@@ -8,7 +8,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.33.213.154|/Satoshi:0.10.7.7/|70004|45090|101.33.192.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 101.33.219.121|/Satoshi:0.10.7.7/|70004|45090|101.33.192.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 101.33.248.229|/Satoshi:0.10.7.7/|70004|45090|101.33.192.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-101.35.254.26|/Satoshi:0.10.7.7/|70004|45090|101.35.192.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+101.34.28.53|/Satoshi:0.10.7.7/|70004|45090|101.34.0.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 101.35.45.97|/Satoshi:0.10.7.7/|70004|45090|101.35.0.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 101.43.119.104|/Satoshi:0.10.7.7/|70004|45090|101.43.64.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 101.43.119.248|/Satoshi:0.10.7.7/|70004|45090|101.43.64.0/18|CN|apnic|2010-12-14|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
@@ -33,7 +33,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 121.5.74.6|/Satoshi:0.10.7.7/|70004|45090|121.5.64.0/18|CN|apnic|2006-05-16|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.221.105.88|/Satoshi:0.10.7.7/|70004|45090|124.221.64.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.221.109.145|/Satoshi:0.10.7.7/|70004|45090|124.221.64.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
-124.221.109.196|/Satoshi:0.10.7.7/|70004|45090|124.221.64.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.221.109.203|/Satoshi:0.10.7.7/|70004|45090|124.221.64.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.221.169.239|/Satoshi:0.10.7.7/|70004|45090|124.221.128.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.222.103.84|/Satoshi:0.10.7.7/|70004|45090|124.222.64.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
@@ -46,6 +45,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 124.222.200.119|/Satoshi:0.10.7.7/|70004|45090|124.222.192.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.222.200.86|/Satoshi:0.10.7.7/|70004|45090|124.222.192.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.222.201.253|/Satoshi:0.10.7.7/|70004|45090|124.222.192.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
+124.222.207.166|/Satoshi:0.10.7.7/|70004|45090|124.222.192.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.222.213.16|/Satoshi:0.10.7.7/|70004|45090|124.222.192.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.222.214.66|/Satoshi:0.10.7.7/|70004|45090|124.222.192.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 124.222.227.201|/Satoshi:0.10.7.7/|70004|45090|124.222.192.0/18|CN|apnic|2006-04-25|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
@@ -101,5 +101,5 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 82.157.237.115|/Satoshi:0.10.7.7/|70004|45090|82.157.192.0/18|CN|apnic|2003-11-19|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 82.157.44.220|/Satoshi:0.10.7.7/|70004|45090|82.157.0.0/18|CN|apnic|2003-11-19|TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN
 94.23.169.116|/Satoshi:0.10.7.7/|70004|16276|94.23.0.0/16|FR|ripencc|2008-07-15|OVH, FR
-95.217.78.79|/Satoshi:0.10.7.7/|70004||||||
+95.217.78.79|/Satoshi:0.10.7.7/|70004|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 99.35.14.202|/Satoshi:0.10.7.4/|70004|7018|99.32.0.0/12|US|arin|2008-02-25|ATT-INTERNET4, US
