@@ -4,7 +4,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 101.177.207.134|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|1221|101.160.0.0/11|AU|apnic|2010-12-23|ASN-TELSTRA Telstra Corporation Ltd, AU
 106.213.60.224|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|24560|106.213.48.0/20|IN|apnic|2011-03-17|AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN
 108.24.102.238|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|701|108.24.0.0/16|US|arin|2009-06-05|UUNET, US
-109.60.63.60|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|31012|109.60.0.0/17|HR|ripencc|2009-12-11|DCM-AS Vipnet d.o.o., HR
 110.52.156.160|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|4837|110.52.0.0/15|CN|apnic|2009-03-18|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 110.52.156.94|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|4837|110.52.0.0/15|CN|apnic|2009-03-18|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
 111.85.64.137|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|4837|111.85.0.0/16|CN|apnic|2009-06-11|CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
@@ -48,6 +47,7 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 194.110.13.7|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|174|194.110.13.0/24|AE|ripencc|2018-08-01|COGENT-174, US
 195.201.207.43|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|24940|195.201.0.0/16|DE|ripencc|1997-09-22|HETZNER-AS, DE
 195.50.206.74|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|3249|195.50.192.0/19|EE|ripencc|1997-04-16|ESTPAK, EE
+199.102.155.227|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|23188|199.102.152.0/22|US|arin|2011-03-09|WIN, US
 2.205.40.98|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|3209|2.200.0.0/13|DE|ripencc|2010-11-18|VODANET International IP-Backbone of Vodafone, DE
 203.91.242.55|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|9443|203.91.224.0/19|AU|apnic|1998-02-13|VOCUS-RETAIL-AU Vocus Retail, AU
 206.189.90.171|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|14061|206.189.80.0/20|US|arin|1995-11-15|DIGITALOCEAN-ASN, US
@@ -55,7 +55,6 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 212.83.170.25|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|12876|212.83.160.0/19|FR|ripencc|2000-01-25|Online SAS, FR
 213.159.81.229|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|43284|213.159.80.0/20|CH|ripencc|2000-03-01|IWB-TELEKOM Industrielle Werke Basel, CH
 216.188.233.105|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|7459|216.188.232.0/23|US|arin|2002-04-30|GRANDECOM-AS1, US
-218.109.207.103|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|24139|218.109.192.0/19|CN|apnic|2002-12-31|WASUHZ Huashu media&Network Limited, CN
 23.227.150.229|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|55081|23.227.128.0/19|US|arin|2013-09-23|24SHELLS, US
 23.82.193.117|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|396190|23.82.192.0/20|US|arin|2013-05-06|LEASEWEB-USA-SEA, US
 23.97.222.172|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|8075|23.96.0.0/14|US|arin|2013-06-18|MICROSOFT-CORP-MSN-AS-BLOCK, US
@@ -71,14 +70,12 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 46.138.46.124|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|25513|46.138.44.0/22|RU|ripencc|2010-11-18|ASN-MGTS-USPD, RU
 46.249.236.211|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|41164|46.249.236.0/23|NO|ripencc|2011-01-14|GET-NO GET Norway, NO
 46.53.240.72|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|42772|46.53.240.0/21|BY|ripencc|2010-08-24|A1-BY-AS, BY
-5.128.87.126|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|31200|5.128.0.0/16|RU|ripencc|2012-06-29|NTK IPv6 customers, RU
 50.39.169.204|/Satoshi:0.20.2/Peercoin:0.11.3/|70016|27017|50.39.128.0/17|US|arin|2010-09-24|ZIPLY-FIBER-LEGACY-ASN, US
 50.99.20.71|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|852|50.99.0.0/16|CA|arin|2011-03-31|TELUS Communications, CA
 51.178.76.85|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16276|51.178.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.210.114.183|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.210.208.202|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|16276|51.210.0.0/16|FR|ripencc|1993-09-01|OVH, FR
 51.7.177.183|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|6871|51.6.0.0/15|GB|ripencc|1993-09-01|PLUSNET UK Internet Service Provider, GB
-58.101.80.124|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|24139|58.101.64.0/19|CN|apnic|2005-04-15|WASUHZ Huashu media&Network Limited, CN
 58.153.75.8|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|4760|58.153.64.0/19|HK|apnic|2005-06-01|HKTIMS-AP HKT Limited, HK
 63.224.248.7|/Satoshi:0.20.2/Peercoin:0.11.2/|70016|209|63.224.248.0/21|US|arin|1999-06-07|CENTURYLINK-US-LEGACY-QWEST, US
 66.41.163.241|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|7922|66.41.0.0/16|US|arin|2000-11-07|COMCAST-7922, US
@@ -106,12 +103,14 @@ IP Address|Subver|Version|ASN|BGP Prefix|CC|Registry|Allocated|AS Name
 88.166.210.68|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|12322|88.160.0.0/12|FR|ripencc|2005-10-03|PROXAD, FR
 89.187.140.130|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|35592|89.187.140.0/23|CZ|ripencc|2006-04-28|COOLHOUSING-AS Vinohradska 190, CZ
 90.126.103.37|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|3215|90.126.0.0/16|FR|ripencc|2006-03-02|France Telecom - Orange, FR
+90.190.173.46|/Satoshi:0.20.2/Peercoin:0.11.1/|70016|3249|90.190.0.0/15|EE|ripencc|2006-11-14|ESTPAK, EE
 91.152.122.248|/Satoshi:0.20.2/Peercoin:0.11.7/|70016|719|91.152.0.0/13|FI|ripencc|2006-09-06|ELISA-AS Helsinki, Finland, FI
 91.44.94.23|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|3320|91.0.0.0/10|DE|ripencc|2006-07-03|DTAG Internet service provider operations, DE
 92.240.100.175|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|15547|92.240.96.0/19|CH|ripencc|2007-11-20|NETPLUS, CH
 94.105.106.40|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|9031|94.105.96.0/19|BE|ripencc|2008-06-20|EDPNET, BE
 94.130.35.94|/Satoshi:0.20.2/Peercoin:0.11.8/|70016|24940|94.130.0.0/16|DE|ripencc|2008-06-23|HETZNER-AS, DE
 94.31.87.28|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|60294|94.31.80.0/20|DE|ripencc|2010-02-03|DE-DGW Deutsche Glasfaser Wholesale Internet, DE
+95.102.49.218|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|6855|95.102.0.0/15|SK|ripencc|2009-02-09|SK-TELEKOM Slovak Telekom T-Mobile CZ, SK
 95.174.66.38|/Satoshi:0.20.2/Peercoin:0.11.4/|70016|9009|95.174.66.0/24|RO|ripencc|2018-06-29|M247, GB
 95.217.39.81|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
 95.217.78.81|/Satoshi:0.20.2/Peercoin:0.11.0/|70016|24940|95.217.0.0/16|DE|ripencc|2009-02-24|HETZNER-AS, DE
